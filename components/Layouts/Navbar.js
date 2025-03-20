@@ -47,7 +47,7 @@ const Navbar = () => {
             <div className="container">
               <Link href="/" className="navbar-brand d-lg-none">
                 <Image
-                  src="/images/logo.png"
+                  src="/images/Glogo.png"
                   alt="Site logo"
                   width={114}
                   height={41}
@@ -84,7 +84,7 @@ const Navbar = () => {
                             currentPath == "/" && "active"
                           }`}
                         >
-                          Technology Solutions
+                          UAE Embassy Attestation
                         </Link>
                       </li>
 
@@ -95,7 +95,7 @@ const Navbar = () => {
                             currentPath == "/digital-marketing/" && "active"
                           }`}
                         >
-                          Digital Marketing
+                          Qatar Embassy Attestation
                         </Link>
                       </li>
 
@@ -106,7 +106,7 @@ const Navbar = () => {
                             currentPath == "/business-consulting/" && "active"
                           }`}
                         >
-                          Business Consulting
+                          Saudi Embassy Attestation
                         </Link>
                       </li>
 
@@ -118,7 +118,7 @@ const Navbar = () => {
                             "active"
                           }`}
                         >
-                          Cybersecurity Services
+                          Kuwait Embassy Attestation
                         </Link>
                       </li>
 
