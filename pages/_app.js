@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          Lofi - Multipurpose IT Startup React Nextjs Template
+          Global-Docs-Solution
         </title>
         <meta 
           name="viewport" 
