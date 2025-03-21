@@ -84,7 +84,7 @@ const Navbar = () => {
                             currentPath == "/" && "active"
                           }`}
                         >
-                          UAE Emabassy Attestation 
+                          UAE Emabassy Attestation
                         </Link>
                       </li>
 
@@ -95,7 +95,8 @@ const Navbar = () => {
                             currentPath == "/digital-marketing/" && "active"
                           }`}
                         >
-                          Qatar Emabassy Attestation
+                         Qatar Emabassy Attestation
+                        
                         </Link>
                       </li>
 
@@ -106,7 +107,7 @@ const Navbar = () => {
                             currentPath == "/business-consulting/" && "active"
                           }`}
                         >
-                          Saudi Emabassy Attestation
+                         Saudi Emabassy Attestation
                         </Link>
                       </li>
 
@@ -170,7 +171,7 @@ const Navbar = () => {
                             currentPath == "/services/" && "active"
                           }`}
                         >
-                          Kuwait Visa Stamping
+                        Kuwait Visa Stamping
                         </Link>
                       </li>
                       <li className="nav-item">
@@ -180,7 +181,7 @@ const Navbar = () => {
                             currentPath == "/services/details/" && "active"
                           }`}
                         >
-                          Saudi Visa Stamping
+                         Saudi Visa Stamping
                         </Link>
                       </li>
                     </ul>
@@ -199,7 +200,7 @@ const Navbar = () => {
                             currentPath == "/case-studies/" && "active"
                           }`}
                         >
-                         
+                          Case Studies
                         </Link>
                       </li>
 
