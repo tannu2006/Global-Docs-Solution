@@ -84,7 +84,7 @@ const Navbar = () => {
                             currentPath == "/" && "active"
                           }`}
                         >
-                          Technology Solutions
+                          UAE Emabassy Attestation 
                         </Link>
                       </li>
 
@@ -95,7 +95,7 @@ const Navbar = () => {
                             currentPath == "/digital-marketing/" && "active"
                           }`}
                         >
-                          Digital Marketing
+                          Qatar Emabassy Attestation
                         </Link>
                       </li>
 
@@ -106,7 +106,7 @@ const Navbar = () => {
                             currentPath == "/business-consulting/" && "active"
                           }`}
                         >
-                          Business Consulting
+                          Saudi Emabassy Attestation
                         </Link>
                       </li>
 
@@ -118,7 +118,7 @@ const Navbar = () => {
                             "active"
                           }`}
                         >
-                          Cybersecurity Services
+                          Kuwait Emabassy Attestation
                         </Link>
                       </li>
 
@@ -170,7 +170,7 @@ const Navbar = () => {
                             currentPath == "/services/" && "active"
                           }`}
                         >
-                          Services
+                          Kuwait Visa Stamping
                         </Link>
                       </li>
                       <li className="nav-item">
@@ -180,7 +180,7 @@ const Navbar = () => {
                             currentPath == "/services/details/" && "active"
                           }`}
                         >
-                          Services Details
+                          Saudi Visa Stamping
                         </Link>
                       </li>
                     </ul>
@@ -199,7 +199,7 @@ const Navbar = () => {
                             currentPath == "/case-studies/" && "active"
                           }`}
                         >
-                          Case Studies
+                         
                         </Link>
                       </li>
 
