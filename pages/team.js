@@ -10,7 +10,7 @@ export default function Team() {
     <>
       <Navbar />
 
-      <PageTitle homeText="Home" pageTitle="Meet Our Leadership Team" />
+      <PageTitle homeText="Home" pageTitle="" />
 
       <OurTeamMembers />
 
