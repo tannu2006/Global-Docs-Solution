@@ -47,7 +47,7 @@ const Navbar = () => {
             <div className="container">
               <Link href="/" className="navbar-brand d-lg-none">
                 <Image
-                  src="/images/logo.png"
+                  src="/images/Glogo.png"
                   alt="Site logo"
                   width={114}
                   height={41}
@@ -75,6 +75,75 @@ const Navbar = () => {
                     <Link href="#" className="nav-link">
                       Home
                     </Link>
+
+                    <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link
+                          href="/"
+                          className={`nav-link ${
+                            currentPath == "/" && "active"
+                          }`}
+                        >
+                          Technology Solutions
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/digital-marketing/"
+                          className={`nav-link ${
+                            currentPath == "/digital-marketing/" && "active"
+                          }`}
+                        >
+                          Digital Marketing
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/business-consulting/"
+                          className={`nav-link ${
+                            currentPath == "/business-consulting/" && "active"
+                          }`}
+                        >
+                          Business Consulting
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/cybersecurity-services/"
+                          className={`nav-link ${
+                            currentPath == "/cybersecurity-services/" &&
+                            "active"
+                          }`}
+                        >
+                          Cybersecurity Services
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/crypto-startup/"
+                          className={`nav-link ${
+                            currentPath == "/crypto-startup/" && "active"
+                          }`}
+                        >
+                          Crypto Startup
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/ico-landing/"
+                          className={`nav-link ${
+                            currentPath == "/ico-landing/" && "active"
+                          }`}
+                        >
+                          ICO Landing
+                        </Link>
+                      </li>
+                    </ul>
                   </li>
 
                   <li className="nav-item">
