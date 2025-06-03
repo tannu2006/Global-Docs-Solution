@@ -84,7 +84,7 @@ const Navbar = () => {
                         currentPath == "/about-us/" && "active"
                       }`}
                     >
-                    About Us
+                    About 
                     </Link>
                   </li>
 
@@ -96,9 +96,9 @@ const Navbar = () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/services/"
+                          href="/Apostille-Services/"
                           className={`nav-link ${
-                            currentPath == "/services/" && "active"
+                            currentPath == "/Apostille-Services/" && "active"
                           }`}
                         >
                           Apostille Services
@@ -106,9 +106,9 @@ const Navbar = () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/services/details/"
+                          href="/Visa-Services/"
                           className={`nav-link ${
-                            currentPath == "/services/details/" && "active"
+                            currentPath == "/Visa-Services/" && "active"
                           }`}
                         >
                           Visa Services
@@ -125,9 +125,9 @@ const Navbar = () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/"
+                          href="/MEA-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/" && "active"
+                            currentPath == "/MEA-Attestation/" && "active"
                           }`}
                         >
                           MEA Attestation
@@ -136,9 +136,9 @@ const Navbar = () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/2/"
+                          href="/Apostille-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/2/" && "active"
+                            currentPath == "/Apostille-Attestation/" && "active"
                           }`}
                         >
                           Apostille Attestation
@@ -147,9 +147,9 @@ const Navbar = () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/Degree-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/Degree-Attestation/" && "active"
                           }`}
                         >
                           Degree Attestation
@@ -158,107 +158,20 @@ const Navbar = () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/details/"
+                          href="/Birth-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/details/" && "active"
+                            currentPath == "/Birth-Attestation/" && "active"
                           }`}
                         >
                           Birth Certificate Attestation
                         </Link>
+                        
                       </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                          Marriage Certificate Attestation
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                        Bachelorhood Certificate Attestation
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                      Business Document Attestation
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                          Certificate Attestation
-                        </Link>
-                      </li>
+                   
                     </ul>
                   </li>
 
-                  <li className="nav-item">
-                    <Link
-                      href="#"
-                      className={'dropdown-toggle nav-link'}
-                    >
-                      Embassy Attestation
-                    </Link>
-                    <ul className="dropdown-menu">
-                    <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                          UAE Embassy Attestation
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                         Qatar Embassy Attestation
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                          Saudi Embassy Attestation
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/3/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
-                          }`}
-                        >
-                          Kuwait Embassy Attestation
-                        </Link>
-                      </li>
-                      </ul>
-                  </li>
+               
                    <li className="nav-item">
                     <Link
                       href="#"
@@ -269,36 +182,36 @@ const Navbar = () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/UAE/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/UAE/" && "active"
                           }`}
                         >
                           UAE Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Qatar/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Qatar/" && "active"
                           }`}
                         >
                          Qatar Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Saudi/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Saudi/" && "active"
                           }`}
                         >
                         Saudi Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Kuwait/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Kuwait/" && "active"
                           }`}
                         >
                         Kuwait Visa Stamping

@@ -7,7 +7,7 @@ import {
   AccordionItemPanel,
 } from 'react-accessible-accordion'
 
-const Faq = () => {
+const Faqn = () => {
   return (
     <>
       <div className="faq-area bg-gradient-image ptb-100">
@@ -181,4 +181,4 @@ const Faq = () => {
   )
 }
 
-export default Faq
+export default Faqn
