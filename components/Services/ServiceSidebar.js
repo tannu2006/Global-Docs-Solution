@@ -9,33 +9,33 @@ const ServiceSidebar = () => {
           <h3>Services List</h3>
           <ul>
             <li>
-              <Link href="/services/details">
-                Branding <i className="ri-arrow-right-line"></i>
+              <Link href="/services/details/">
+               Branding <i className="ri-arrow-right-line"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/details">
+              <Link href="/services/details/">
                 Design <i className="ri-arrow-right-line"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/details">
+              <Link href="/services/details/">
                 Content <i className="ri-arrow-right-line"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/details">
-                Strategy <i className="ri-arrow-right-line"></i>
+              <Link href="/services/details/">
+               Strategy<i className="ri-arrow-right-line"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/details">
+              <Link href="/services/details/">
                 Marketing <i className="ri-arrow-right-line"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/details">
-                Technology <i className="ri-arrow-right-line"></i>
+              <Link href="/services/details/">
+               Technology  <i className="ri-arrow-right-line"></i>
               </Link>
             </li>
           </ul>

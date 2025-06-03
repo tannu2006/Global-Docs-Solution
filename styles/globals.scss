@@ -436,6 +436,13 @@ Header Area CSS
         }
     }
 }
+.positin {
+     top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999;
+        position: fixed;
+}
 .navbar-area {
     background-color: transparent;
     
@@ -710,7 +717,7 @@ Header Area CSS
             margin-left: auto;
 
             .default-btn {
-                color: #DC84FC;
+                color: #029894;
                 background-color: rgba(220, 132, 252, .15);
                 font-weight: normal;
                 border: 1px solid rgba(220, 132, 252, .40) !important;
@@ -724,12 +731,12 @@ Header Area CSS
                     left: 25px;
                     right: auto;
                     font-size: 20px;
-                    color: #DC84FC;
+                    color: #029894;
                     margin-top: -1px;
                 }
                 &:hover {
-                    background-color: #DC84FC;
-                    border-color: #DC84FC;
+                    background-color: #029894;
+                    border-color: #029894;
                     color: var(--whiteColor);
                     opacity: 1;
 
@@ -4936,8 +4943,8 @@ Navbar Area CSS
                     color: var(--whiteColor);
                 }
                 &:hover {
-                    background-color: #DC84FC;
-                    border-color: #DC84FC;
+                    background-color: #029894;
+                    border-color: #029894;
                     color: var(--whiteColor);
 
                     span {
