@@ -72,78 +72,11 @@ const Navbar = () => {
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto">
                   <li className="nav-item">
-                    <Link href="#" className="dropdown-toggle nav-link">
+                    <Link href="/" className=" nav-link">
                       Home
                     </Link>
 
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/"
-                          className={`nav-link ${
-                            currentPath == "/" && "active"
-                          }`}
-                        >
-                          Technology Solutions
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/digital-marketing/"
-                          className={`nav-link ${
-                            currentPath == "/digital-marketing/" && "active"
-                          }`}
-                        >
-                          Digital Marketing
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/business-consulting/"
-                          className={`nav-link ${
-                            currentPath == "/business-consulting/" && "active"
-                          }`}
-                        >
-                          Business Consulting
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/cybersecurity-services/"
-                          className={`nav-link ${
-                            currentPath == "/cybersecurity-services/" &&
-                            "active"
-                          }`}
-                        >
-                          Cybersecurity Services
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/crypto-startup/"
-                          className={`nav-link ${
-                            currentPath == "/crypto-startup/" && "active"
-                          }`}
-                        >
-                          Crypto Startup
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/ico-landing/"
-                          className={`nav-link ${
-                            currentPath == "/ico-landing/" && "active"
-                          }`}
-                        >
-                          ICO Landing
-                        </Link>
-                      </li>
-                    </ul>
+                   
                   </li>
 
                   <li className="nav-item">
@@ -156,50 +89,20 @@ const Navbar = () => {
                       About Us
                     </Link>
                   </li>
-
-                  <li className="nav-item">
+                   <li className="nav-item">
                     <Link href="#" className="dropdown-toggle nav-link">
                       Services
                     </Link>
 
                     <ul className="dropdown-menu">
-                      <li className="nav-item">
+                    <li className="nav-item">
                         <Link
-                          href="/services/"
+                          href="/case-studies/2/"
                           className={`nav-link ${
-                            currentPath == "/services/" && "active"
+                            currentPath == "/case-studies/2/" && "active"
                           }`}
                         >
-                          Services
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/services/details/"
-                          className={`nav-link ${
-                            currentPath == "/services/details/" && "active"
-                          }`}
-                        >
-                          Services Details
-                        </Link>
-                      </li>
-                    </ul>
-                  </li>
-
-                  <li className="nav-item">
-                    <Link href="#" className="dropdown-toggle nav-link">
-                      Case Studies
-                    </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/case-studies/"
-                          className={`nav-link ${
-                            currentPath == "/case-studies/" && "active"
-                          }`}
-                        >
-                          Case Studies
+                          Apostile Services
                         </Link>
                       </li>
 
@@ -210,7 +113,41 @@ const Navbar = () => {
                             currentPath == "/case-studies/2/" && "active"
                           }`}
                         >
-                          Case Studies #2
+                          Visa Services
+                        </Link>
+                      </li>
+                      
+                      <li className="nav-item">
+                        
+                        
+                        <Link
+                          href="/case-studies/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/" && "active"
+                          }`}
+                        >
+                          Visa Stamping
+                        </Link>
+                        <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link
+                          href="/case-studies/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/" && "active"
+                          }`}
+                        >
+                          UAE Visa Stamping
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/case-studies/2/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/2/" && "active"
+                          }`}
+                        >
+                           Qatar Visa Stamping 
                         </Link>
                       </li>
 
@@ -221,7 +158,7 @@ const Navbar = () => {
                             currentPath == "/case-studies/3/" && "active"
                           }`}
                         >
-                          Case Studies #3
+                           Soudi Visa Stamping
                         </Link>
                       </li>
 
@@ -232,33 +169,154 @@ const Navbar = () => {
                             currentPath == "/case-studies/details/" && "active"
                           }`}
                         >
-                          Case Studies Details
+                           Kuwait Visa Stamping
+                        </Link>
+                      </li>
+                    </ul>
+                      </li>
+
+                      
+                    </ul>
+                  </li>
+
+                  <li className="nav-item">
+                    <Link href="#" className="dropdown-toggle nav-link">
+                      Attestation
+                    </Link>
+
+                    <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link
+                          href="/services/"
+                          className={`nav-link ${
+                            currentPath == "/services/" && "active"
+                          }`}
+                        >
+                          MEA Attestation
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Apostile Attestation
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Degree Attestation
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Birth Certificate Attestation
+                        </Link>
+                      </li> <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Marriage Certificate Attestation
+                        </Link>
+                      </li> <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Bachelorhood Certificate Attestation
+                        </Link>
+                      </li> <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Business Document Attestation
+                        </Link>
+                      </li> <li className="nav-item">
+                        <Link
+                          href="/services/details/"
+                          className={`nav-link ${
+                            currentPath == "/services/details/" && "active"
+                          }`}
+                        >
+                          Certificate Attestation
                         </Link>
                       </li>
                     </ul>
                   </li>
 
                   <li className="nav-item">
-                    <Link
-                      href="/team/"
-                      className={`nav-link ${
-                        currentPath == "/team/" && "active"
-                      }`}
-                    >
-                      Team
+                    <Link href="#" className="dropdown-toggle nav-link">
+                      Embassy Attestation
                     </Link>
+
+                    <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link
+                          href="/case-studies/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/" && "active"
+                          }`}
+                        >
+                          UAE Embassy Attestation
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/case-studies/2/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/2/" && "active"
+                          }`}
+                        >
+                           Qatar Embassy Attestation
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/case-studies/3/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/3/" && "active"
+                          }`}
+                        >
+                           Soudi Embassy Attestation
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="/case-studies/details/"
+                          className={`nav-link ${
+                            currentPath == "/case-studies/details/" && "active"
+                          }`}
+                        >
+                           Kuwait Embassy Attestation
+                        </Link>
+                      </li>
+                    </ul>
                   </li>
 
-                  <li className="nav-item">
-                    <Link
-                      href="/pricing/"
-                      className={`nav-link ${
-                        currentPath == "/pricing/" && "active"
-                      }`}
-                    >
-                      Pricing
-                    </Link>
-                  </li>
+                 
 
                   <li className="nav-item">
                     <Link
@@ -278,7 +336,7 @@ const Navbar = () => {
                         currentPath == "/contact/" && "active"
                       }`}
                     >
-                      Contact
+                      Contact Us
                     </Link>
                   </li>
                 </ul>
@@ -286,7 +344,7 @@ const Navbar = () => {
 
               <div className="others-option">
                 <Link href="/contact" className="default-btn style-two">
-                  <span className="ri-edit-2-line"></span>Get A Free Quote
+                  <span ></span> Make your journey Safe
                 </Link>
               </div>
             </div>

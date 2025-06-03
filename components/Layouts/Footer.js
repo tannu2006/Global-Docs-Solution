@@ -126,16 +126,14 @@ const Footer = () => {
               <div className="single-footer-widget">
                 <h3>Contact Info</h3>
                 <ul className="footer-contact-info">
-                  <li>Address: 2750, Quadra Street Victoria, Canada</li>
+                  <li>Address: 7/38 Ground Floor,Dr. Sachdeva lane, Opp. MGM Society, Ansari Road, Daryaganj, New Delhi-110002 .</li>
                   <li>
-                    Email: <a href="mailto:hello@lofi.com">hello@lofi.com</a>
+                    Email: <a href="mailto:hello@lofi.com">Info@globaldocs.in</a>
                   </li>
                   <li>
-                    Phone: <a href="tel:+44587154756">+44 587 154756</a>
+                    Phone: <a href="tel:+44587154756">+91 8446684422</a>
                   </li>
-                  <li>
-                    Fax: <a href="tel:+44587154756">+55 58715 4756</a>
-                  </li>
+                  
                 </ul>
               </div>
             </div>

@@ -16,21 +16,14 @@ const AboutContent = () => {
                   height={617}
                 />
 
-                <div className="shape5">
-                  <Image
-                    src="/images/shape/shape5.png"
-                    alt="image"
-                    width={90}
-                    height={74}
-                  />
-                </div>
+                
               </div>
             </div>
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
                 <span className="sub-title">ABOUT US</span>
-                <h2>We Are Award Winning Digital Marketing Company</h2>
+                <h2>We Are Your Trud Partner for Fast and Secure Legal Documentation</h2>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -47,7 +40,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Brand Strategy</span>
+                      <span>Legal Experts</span>
                     </div>
                   </li>
                   <li>
@@ -60,7 +53,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Expert Team</span>
+                      <span>Quick & Easy Process</span>
                     </div>
                   </li>
                   <li>
@@ -73,7 +66,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Fast Delivery</span>
+                      <span>PAN India Coverage</span>
                     </div>
                   </li>
                   <li>
@@ -86,7 +79,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Ongoing Report</span>
+                      <span>Secure & Confidential</span>
                     </div>
                   </li>
                 </ul>

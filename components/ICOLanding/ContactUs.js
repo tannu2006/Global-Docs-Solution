@@ -144,30 +144,33 @@ const ContactUs = () => {
                   <ul className="information-list">
                     <li>
                       <i className="ri-map-pin-line"></i>
-                      Address: 2750, Quadra Street Victoria, Canada
+                      Address:1 7/38 Ground Floor, Dr. Sachdeva lane, Opp. MGM S
                     </li>
                     <li>
+                       <i className="ri-map-pin-line"></i>
+                      Address:2 hop No. 01 Karim Manzil Jail Road Near Habib Hospital South Umerkhadi Dongari MUMBAI - 400009
+                    </li>
+                     
+                    <li>
                       <i className="ri-phone-line"></i>
-                      <a href="tel:+44587154756">+44 587 154756</a>
-                      <a href="tel:+55587154756">+55 58715 4756</a>
+                      <a href="tel:+919911800116">+91 99118 00116</a>
+                      <a href="tel:+918446684422">+91 84466 84422</a>
+                      <a href="tel:+917276309395">+91 7276309395</a>
                     </li>
                     <li>
                       <i className="ri-mail-line"></i>
-                      <a href="mailto:hello@lofi.com">hello@lofi.com</a>
-                      <a href="mailto:lofi@info.com">lofi@info.com</a>
+                      <a href="mailto:Info@globaldocs.in">Info@globaldocs.in</a>
+                      <a href="mailto:attestation@globaldocs.in">attestation@globaldocs.in</a>
                     </li>
-                    <li>
-                      <i className="ri-time-line"></i>
-                      <span>Opening Hours:</span> 7:00am - 10:00pm Open 7 Days a
-                      Week
-                    </li>
+                     
+                    
                   </ul>
                   <div className="get-in-touch-shape">
                     <Image
                       src="/images/crypto-startup/get-in-touch-shape.png"
                       alt="image"
                       width={368}
-                      height={104}
+                      height={104}s
                     />
                   </div>
                 </div>

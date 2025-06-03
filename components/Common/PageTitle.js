@@ -19,22 +19,7 @@ const PageTitle = ({ pageTitle, homeText }) => {
         </div>
 
         {/* Shape */}
-        <div className="shape1">
-          <Image
-            src="/images/shape/shape1.png"
-            alt="image"
-            width={149}
-            height={150}
-          />
-        </div>
-        <div className="shape3">
-          <Image
-            src="/images/shape/shape2.png"
-            alt="image"
-            width={103}
-            height={110}
-          />
-        </div>
+        
       </div>
     </>
   );
