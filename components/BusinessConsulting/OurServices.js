@@ -10,12 +10,8 @@ const OurServices = () => {
       <div className="services-area ptb-100">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">OUR SERVICES</span>
-            <h2>We Offer Professional Services For Business</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
+            <span className="sub-title">Certificate Attestation:A complete guide</span>
+            <p></p>
           </div>
 
           <Swiper
@@ -50,14 +46,11 @@ const OurServices = () => {
                     width={78}
                     height={78}
                   />
-                  <h3>
-                    <Link href="/services/details">Branding</Link>
-                  </h3>
+                  <h2>
+                    <Link href="/services/details">What is certificates Attestation</Link>
+                  </h2>
                 </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adiscing elit, sed do
-                  eiusmod tempor ut labore et dolore magna aliqua.
-                </p>
+
                 <Link href="/services/details" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>

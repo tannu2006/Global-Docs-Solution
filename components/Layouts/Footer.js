@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="single-footer-widget">
                 <Link href="/" className="d-inline-block logo">
                   <Image
-                    src="/images/logo.png"
+                    src="/images/Glogo.png"
                     alt="logo"
                     width={114}
                     height={41}
@@ -81,20 +81,18 @@ const Footer = () => {
                 <h3>Services</h3>
                 <ul className="services-links">
                   <li>
-                    <Link href="/services/details">Marketing</Link>
+                    <Link href="/certificate-attestation">Certificate Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Web Development</Link>
+                    <Link href="/bachelorhood-attestation">Bachelorhood Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">App Design</Link>
+                    <Link href="/business-attestation">Business Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Product Branding</Link>
+                  <Link href="/marriage-attestation">Marriage Attestation</Link>
                   </li>
-                  <li>
-                    <Link href="/services/details">Content Writing</Link>
-                  </li>
+                 
                 </ul>
               </div>
             </div>
@@ -110,7 +108,16 @@ const Footer = () => {
                     <Link href="/about-us">About Us</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies">Case Studies</Link>
+                    <Link href="/case-studies/3/UAE">UAE Embassy Attestation</Link>
+                  </li>
+                  <li>
+                    <Link href="/case-studies/3/SAUDI"> Saudi Embassy Attestation</Link>
+                  </li>
+                  <li>
+                    <Link href="/case-studies/3/QATAR">Qatar Embassy Attestation</Link>
+                  </li>
+                  <li>
+                    <Link href="/case-studies/3/KUWAIT">Kuwait Embassy Attestation</Link>
                   </li>
                   <li>
                     <Link href="/blog">Our News</Link>

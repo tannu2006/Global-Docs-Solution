@@ -32,19 +32,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon8.png"
+                    src="/images/icon/icon30.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Branding</Link>
+                    <Link href="/marriage-attestation">Marriage Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Marriage certificate attestation verifies the authenticity of a marriage certificate 
+                for use in foreign countries.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -69,7 +68,7 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/marriage-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -90,19 +89,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon9.png"
+                    src="/images/icon/icon32.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Design</Link>
+                    <Link href="/bachelorhood-attestation">Bachelorhood  Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Bachelorhood certificate attestation authenticates a bachelor's degree
+                for use in foreign countries.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -126,7 +124,7 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/bachelorhood-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -147,19 +145,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon10.png"
+                    src="/images/icon/icon29.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Content</Link>
+                    <Link href="/business-attestation">Business  Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Business document attestation authenticates business documents for official use in
+                foreign countries.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -183,7 +180,7 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/business-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -204,19 +201,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon11.png"
+                    src="/images/icon/icon31.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Strategy</Link>
+                    <Link href="/certificate-attestation">Certificates Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Certificate attestation authenticates documents for use abroad, ensuring their legal 
+                acceptance by authorities.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -241,129 +237,13 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/certificate-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
             </div>
 
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 col-sm-12"
-              data-aos="fade-up"
-              data-aos-delay="500"
-              data-aos-duration="800"
-              data-aos-once="true"
-            >
-              <div
-                className="single-services-box"
-                style={{
-                  backgroundImage: `url(/images/services/services5.jpg)`,
-                }}
-              >
-                <div className="d-flex align-items-center">
-                  <Image
-                    src="/images/icon/icon12.png"
-                    alt="image"
-                    width={78}
-                    height={78}
-                  />
-                  <h3>
-                    <Link href="/services/details">Marketing</Link>
-                  </h3>
-                </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
-                </p>
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Email
-                      Campaigns
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Social
-                      Campaigns
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Print
-                      Campaigns
-                    </span>
-                  </li>
-                </ul>
-                <Link href="/services/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Learn More
-                </Link>
-              </div>
-            </div>
-
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 col-sm-12"
-              data-aos="fade-up"
-              data-aos-delay="600"
-              data-aos-duration="800"
-              data-aos-once="true"
-            >
-              <div
-                className="single-services-box"
-                style={{
-                  backgroundImage: `url(/images/services/services6.jpg)`,
-                }}
-              >
-                <div className="d-flex align-items-center">
-                  <Image
-                    src="/images/icon/icon13.png"
-                    alt="image"
-                    width={78}
-                    height={78}
-                  />
-                  <h3>
-                    <Link href="/services/details">Technology</Link>
-                  </h3>
-                </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
-                </p>
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> E-Commerce
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Prototyping
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Platform &
-                      APIs
-                    </span>
-                  </li>
-                </ul>
-                <Link href="/services/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Learn More
-                </Link>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
