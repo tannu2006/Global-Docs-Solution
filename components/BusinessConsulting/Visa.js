@@ -29,12 +29,12 @@ const Visa= () => {
            <div className="">
               <div className="row mb-40">
                <div className="col-lg-7 col-md-12"> 
-                <div className="blog-area pt-100 pb-70">
+                <div className="">
                         <div className="container">
-                          <div className="section-title">
-                            <span className="sub-title"><h3>
+                          <div className="paragraph">
+                            <h2>
                               Document Required
-                              </h3></span>
+                              </h2>
                             
                           </div>
                 
@@ -207,7 +207,133 @@ const Visa= () => {
                             </div>
                           </div>
                         </div>
+                         <div className="feedback-area bg-main-color">
+                        <div className="container">
+          <div className="section-title">
+            <h2>Processing Time</h2>
+            
+          </div>
+
+          <div className="row justify-content-center">
+            <div className="col-lg-4 col-md-6">
+              <div className="single-feedback-box with-boxshadow">
+              <h3>Tourist Visa</h3>
+                   <p>5-15 days</p>
+                    
+                
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-md-6">
+              <div className="single-feedback-box with-boxshadow">
+               <h3>Business Visa</h3>
+                 <p>7-20 days</p>
+                    
+               
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6">
+              <div className="single-feedback-box with-boxshadow">
+                <h3>Student Visa</h3>
+                <p>15-45 days</p>
+                
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6">
+              <div className="single-feedback-box with-boxshadow">
+                <h3>work <br/>Visa</h3>
+                <p>30-90 days</p>
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6">
+              <div className="single-feedback-box with-boxshadow">
+               
+                <h3>Investor Visa</h3>
+                <p>30-90 days</p>
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6">
+              <div className="single-feedback-box with-boxshadow">
+                <h3>Family Visa</h3>
+                <p> 15-45 days</p>
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                     
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                        </div>
+                        
+                     </div>
                       </div>
+                       <div className="single-case-studies-box">
+                                      <div className="row align-items-center m-0">
+                                        <div className="">
+                                          <div className="content">
+                                            <div className="paragraph">
+                                               <h2>
+                                              Visa Application Process
+                                            </h2>
+                                            </div>
+                                           
+                                            <h4> 
+                                       <b>
+                                        <i className="ri-number-1"></i> &nbsp;Choose the Right Visa </b>
+                                         </h4>
+                                         <p>
+                                         Identify the visa type that suits your purpose of travel.
+                                         Check eligibility criteria and document requirements.
+                                         </p>
+                                         <h4>
+                                         <b>  <i className="ri-number-2"></i> &nbsp;Complete the Application Form </b> 
+                                         </h4>
+                                         <p>
+                                          Some countries accept online applications, while others require paper submissions.
+                                          Ensure accurate and complete information to avoid rejection.
+                                         </p>
+                                         <h4>
+                                         <b> <i className="ri-number-3"></i> &nbsp;
+                                        Schedule and Attend Visa Interview (If Required)
+                                        </b>
+                                         </h4>
+                                         <p>
+                                         Some countries  require a visa interview.
+                                         Applicants should be prepared to answer questions about their travel purpose, financial status, and ties to their home country.
+                                         </p>
+                                         <h4>
+                                         <b> <i className="ri-number-4"></i> &nbsp;Wait for Processing</b>
+                                         </h4>
+                                         <p>
+                                          Visa processing times vary based on visa type and nationality.
+                                          Some visas are approved within days, while others take weeks or months.
+                                         </p>
+                                         <h4>
+                                         <b> <i className="ri-number-5"></i> &nbsp;
+                                          Receive Your Visa
+                                          </b>
+                                         </h4>
+                                         <p>
+                                        
+                                          If approved, the visa is stamped on your passport or issued electronically.
+                                          Check all details carefully before traveling.
+                                         </p>
+                                          </div>
+                                        </div>
+                                        
+                                      </div>
+                                    </div>
                 </div>
                 <div className="col-lg-5 col-md-12">
                    <div className="position">
