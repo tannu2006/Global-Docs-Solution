@@ -29,6 +29,177 @@ const Visa= () => {
            <div className="">
               <div className="row mb-40">
                <div className="col-lg-7 col-md-12"> 
+                  <div className="">
+        <div className="container">
+          <div className="paragraph">
+            <h2>Types Of Visa</h2>
+            
+          </div>
+
+          <div className="">
+            <div className="">
+              <div className="single-feedback-box with-boxshadow">
+               
+                <h3>1. Tourist Visa</h3>
+               
+                  <ul>
+                   <li>
+                Issued to travelers for leisure, sightseeing, or short-term family visits.
+               
+                </li>
+                <li>
+                Usually valid for 30–90 days and does not permit employment.
+               
+                </li>
+                <li>
+                May require hotel bookings, flight details, and financial proof.
+                </li>
+                </ul>
+               
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="">
+              <div className="single-feedback-box with-boxshadow">
+                
+                <h3>2. Business Visa</h3>
+              
+                <ul>
+                <li>
+                For individuals traveling for meetings, trade, conferences, or investments.
+               
+                </li>
+                <li>
+                Generally sponsored by a company in the host country.
+                
+                </li>
+                <li>
+                Requires business invitation letter and financial proof.
+                </li>
+               </ul>
+              
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="single-feedback-box with-boxshadow">
+               <h3>3. Student Visa</h3>
+               
+                <ul>
+                <li>
+                Granted to students enrolled in foreign universities or colleges.
+               
+                </li>
+                <li>
+                Requires proof of admission, financial sponsorship, and health insurance.
+               
+                </li>
+                <li>
+                Often allows limited work opportunities.
+                </li>
+              </ul>
+               
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="single-feedback-box with-boxshadow">
+                
+                <h3>4. Worker Visa</h3>
+               
+                <ul>
+                <li>
+                Issued to foreign professionals with a job offer from an overseas employer.
+          
+                </li>
+                <li>
+                Requires employment contract, company sponsorship, and medical tests.
+               
+                </li>
+                <li>
+                Some countries offer permanent residency pathways.
+
+                </li>
+               </ul>
+               
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="single-feedback-box with-boxshadow">
+               
+                <h3>5. Investor Visa</h3>
+               
+                <ul>
+                <li>
+                Designed for individuals investing in businesses or real estate abroad.
+               
+                </li>
+                <li>
+                May lead to residency or citizenship programs.
+             
+                </li>
+                <li>
+               Requires proof of investment, financial background checks, and business registration.
+
+                </li>
+              </ul>
+                
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="single-feedback-box with-boxshadow">
+               
+                <h3>6. Family  Visa</h3>
+                
+                <ul>
+                <li>
+                Allows family members  to join a resident or citizen abroad.
+                
+                </li>
+                <li>
+                Often requires sponsorship, relationship proof  and financial stability.
+               
+                </li>
+                <li>
+                Some countries allow residency or citizenship after fulfilling requirements.
+                </li>
+               </ul>
+                
+                <div className="client-info">
+                  <div className="d-flex align-items-center">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
                 <div className="">
                         <div className="container">
                           <div className="paragraph">
@@ -334,6 +505,36 @@ const Visa= () => {
                                         
                                       </div>
                                     </div>
+                                     <div className="">
+        <div className="container">
+          <div className="paragraph">
+            <span className="sub-title">
+            <h2>How to Choose the Best Visa Service Provider</h2>
+            </span>
+            
+          </div>
+                 <p>
+                 <i className="ri-check-line1"></i>
+                  <b>Reputation & Reviews</b> Check online reviews 
+                 and testimonials.
+                  <br/>
+                  <i className="ri-check-line1"></i>
+                  <b>  Legal Expertise</b> Ensure the agency is 
+                  authorized and experienced.
+
+                  <br/>
+                  <i className="ri-check-line1"></i>
+                  <b> Cost & Transparency</b> Compare processing fees and hidden charges.
+                  <br/>
+                  <i className="ri-check-line1"></i>
+                  <b> Customer Support </b> Reliable agencies offer quick and responsive support.     
+            
+                 </p>
+                 
+          
+        </div>
+      </div>
+                                    
                 </div>
                 <div className="col-lg-5 col-md-12">
                    <div className="position">

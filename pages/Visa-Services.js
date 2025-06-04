@@ -27,17 +27,10 @@ export default function VisaServices () {
       <Visa/>
       
      
-      <FunFactscopy />
-
-      <FreeSEOQuotesFormcopy />
-
-      <ClientsFeedbackcopy />
-
-      <OurCaseStudiescopy />
-
+      
      
 
-      <NewsletterFormcopy />
+    
       <Visa1/>
       <Footer />
     </>
