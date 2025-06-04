@@ -1,20 +1,23 @@
 import React from 'react'
-import NavbarStyle2 from '@/components/Layouts/NavbarStyle2'
+import Navbar from '@/components/Layouts/Navbar'
 import PageTitle from '@/components/Common/PageTitle'
-import QATARembassy from '@/components/CaseStudies/QATARembassy'
+import CaseStudiesCard3 from '@/components/CaseStudies/CaseStudiesCard3'
+import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
-import StartQatar from '@/components/Common/startQatar'
+import UAEstampingcard3 from '@/components/CaseStudies/UAEstampingcard3'
+import Qatarstampingcard3 from '@/components/CaseStudies/Qatarstampingcard3'
+import Qatar from '@/components/Common/Qatar'
 
 export default function CaseStudies3() {
   return (
     <>
-      <NavbarStyle2 />
+      <Navbar />
 
-      <PageTitle homeText="Home" pageTitle="Qatar Embassy" />
+      <PageTitle homeText="Home" pageTitle=" Visa Stamping" />
 
-      <QATARembassy />
+      <Qatarstampingcard3 />
 
-      <StartQatar/>
+      <Qatar />
 
       <Footer />
     </>
