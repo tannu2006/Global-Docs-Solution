@@ -4,6 +4,7 @@ import AboutUs from '@/components/BusinessConsulting/AboutUs'
 import FunFacts from '@/components/Common/FunFacts'
 import FreeSEOQuotesForm from '@/components/Common/FreeSEOQuotesForm'
 import ClientsFeedback from '@/components/Common/ClientsFeedback'
+import WBCA from '@/components/Common/WBCA'
 import OurCaseStudies from '@/components/Common/OurCaseStudies'
 import OurTeamMember from '@/components/Common/OurTeamMember'
 import OurLatestBlog from '@/components/Common/OurLatestBlog'
@@ -19,6 +20,8 @@ export default function BachelorhoodAttestation() {
       <NavbarStyle2 />
 
       <SliderBCA /> 
+
+      <WBCA />
      
       <BachelorhoodServices />
 
