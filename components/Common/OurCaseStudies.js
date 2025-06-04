@@ -11,7 +11,7 @@ const OurCaseStudies = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">OUR CASE STUDIES</span>
-            <h2>We Get you Higher Revenues, Not just Higher Ranks</h2>
+            <h2>hiiii We Get you Higher Revenues, Not just Higher Ranks</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -46,7 +46,7 @@ const OurCaseStudies = () => {
                         <Link href="/case-studies/details">eLan Education</Link>
                       </h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        hiiiii Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua. Ut enim ad minim veniam, quis nostrud
                         exercitation ullamco laboris nisi ut aliquip ex ea
