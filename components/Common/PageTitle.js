@@ -1,40 +1,49 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Navigation } from "swiper/modules";
 
 const PageTitle = ({ pageTitle, homeText }) => {
   return (
     <>
-      <div className="page-title-area">
-        <div className="container">
-          <div className="page-title-content text-center">
-            <h1>{pageTitle}</h1>
-            <ul>
-              <li>
-                <Link href="/">{homeText}</Link>
-              </li>
-              <li>{pageTitle}</li>
-            </ul>
-          </div>
-        </div>
+    <div className="home-area"></div>
+    <br/>
+     <div className="banner-image">
+        <Swiper
+          slidesPerView={1}
+          navigation={true}
+          modules={[Navigation]}
+          className="home-slides"
+        >
+          <SwiperSlide>
+            <div className="banner-item">
+              <div className="container">
+                <div className="row align-items-center">
+                  <div className="col-lg-6 col-md-12">
+                    <div className="home-content">
+                     <br/>
+                     <br/>
+                      <h1 className="text-colour">
+                      Get Your Documents Apostilled for International Use with Ease 
+                      </h1>
+                      <Link href="/contact" className="default-btn style-two">
+                        <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
+                      </Link>
+                    </div>
+                  </div>
+                  <div className="col-lg-6 col-md-12">
+                    <div className="home-image">
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SwiperSlide>
 
-        {/* Shape */}
-        <div className="shape1">
-          <Image
-            src="/images/shape/shape1.png"
-            alt="image"
-            width={149}
-            height={150}
-          />
-        </div>
-        <div className="shape3">
-          <Image
-            src="/images/shape/shape2.png"
-            alt="image"
-            width={103}
-            height={110}
-          />
-        </div>
+         
+        </Swiper>
       </div>
     </>
   );

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";
 import TopHeader from "./TopHeader";
+import TopHeader from "./TopHeader";
 import Image from "next/image";
 
 const Navbar= () => {
@@ -42,11 +43,17 @@ const Navbar= () => {
         {/* TopHeader */}
         <TopHeader />
 
+      <header className="header-area">
+        {/* TopHeader */}
+        <TopHeader />
+
         <div id="navbar" className="navbar-area">
           <nav className="navbar navbar-expand-md navbar-light">
             <div className="container">
               <Link href="/" className="navbar-brand d-lg-none">
+              <Link href="/" className="navbar-brand d-lg-none">
                 <Image
+                  src="/images/Glogo.png"
                   src="/images/Glogo.png"
                   alt="Site logo"
                   width={114}
@@ -79,10 +86,8 @@ const Navbar= () => {
 
                   <li className="nav-item">
                     <Link
-                      href="/about-us/"
-                      className={`nav-link ${
-                        currentPath == "/about-us/" && "active"
-                      }`}
+                      href="#"
+                      className={'dropdown-toggle nav-link'}
                     >
                     About
                     </Link>
@@ -92,9 +97,8 @@ const Navbar= () => {
                     <Link href="#" className="dropdown-toggle nav-link">
                     Services
                     </Link>
-
                     <ul className="dropdown-menu">
-                      <li className="nav-item">
+                    <li className="nav-item">
                         <Link
                           href="/services/"
                           className={`nav-link ${
@@ -133,7 +137,6 @@ const Navbar= () => {
                           Marriage Certificate Attestation
                         </Link>
                       </li>
-
                       <li className="nav-item">
                         <Link
                           href="/bachelorhood-attestation/"
@@ -304,4 +307,5 @@ const Navbar= () => {
   );
 };
 
+export default Navbar;
 export default Navbar;

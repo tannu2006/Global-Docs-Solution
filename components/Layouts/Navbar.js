@@ -96,9 +96,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/services/"
+                          href="/Apostille-Services/"
                           className={`nav-link ${
-                            currentPath == "/services/" && "active"
+                            currentPath == "/Apostille-Services/" && "active"
                           }`}
                         >
                           Apostille Services
@@ -106,9 +106,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/services/details/"
+                          href="/Visa-Services/"
                           className={`nav-link ${
-                            currentPath == "/services/details/" && "active"
+                            currentPath == "/Visa-Services/" && "active"
                           }`}
                         >
                           Visa Services
@@ -229,36 +229,36 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/UAE/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/UAE/" && "active"
                           }`}
                         >
                           UAE Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Qatar/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Qatar/" && "active"
                           }`}
                         >
                          Qatar Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Saudi/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Saudi/" && "active"
                           }`}
                         >
                         Saudi Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Kuwait/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Kuwait/" && "active"
                           }`}
                         >
                         Kuwait Visa Stamping
