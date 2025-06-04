@@ -207,9 +207,9 @@ const Visa= () => {
                             </div>
                           </div>
                         </div>
-                         <div className="feedback-area bg-main-color">
+                         <div className="">
                         <div className="container">
-          <div className="section-title">
+          <div className="paragraph">
             <h2>Processing Time</h2>
             
           </div>
