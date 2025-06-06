@@ -3,7 +3,7 @@ import Navbar from '@/components/Layouts/Navbar'
 import PageTitle from '@/components/Common/PageTitle'
 import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
-import CaseStudiesCard2 from '@/components/CaseStudies/CaseStudiesCard'
+import Apostille from '@/components/CaseStudies/Apostille'
 
 export default function CaseStudies2() {
   return (
@@ -12,7 +12,7 @@ export default function CaseStudies2() {
 
       <PageTitle homeText="Home" pageTitle="ApostileServices" />
 
-      <CaseStudiesCard2/>
+      <Apostille/>
 
       <GetStarted />
 
