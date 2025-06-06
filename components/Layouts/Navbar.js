@@ -4,7 +4,7 @@ import Link from "next/link";
 import TopHeader from "./TopHeader";
 import Image from "next/image";
 
-const Navbar = () => {
+const Navbar= () => {
   // Add active class
   const [currentPath, setCurrentPath] = useState("");
   const router = useRouter();
@@ -188,19 +188,19 @@ const Navbar = () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/MEA-Attestation/"
+                          href="/marriage-attestation/"
                           className={`nav-link ${
-                            currentPath == "/MEA-Attestation/" && "active"
+                            currentPath == "/marriage-attestation/" && "active"
                           }`}
                         >
-                          MEA Attestation
+                          Marriage Certificate Attestation
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Apostille-Attestation/"
+                          href="/bachelorhood-attestation/"
                           className={`nav-link ${
-                            currentPath == "/Apostille-Attestation/" && "active"
+                            currentPath == "/bachelorhood-attestation/" && "active"
                           }`}
                         >
                           Apostile Attestation
@@ -208,22 +208,22 @@ const Navbar = () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Degree-Attestation/"
+                          href="/business-attestation/"
                           className={`nav-link ${
-                            currentPath == "/Degree-Attestation/" && "active"
+                            currentPath == "/business-attestation/" && "active"
                           }`}
                         >
-                          Degree Attestation
+                      Business Document Attestation
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Birth-Attestation/"
+                          href="/certificate-attestation/"
                           className={`nav-link ${
-                            currentPath == "/Birth-Attestation/" && "active"
+                            currentPath == "/certificate-attestation/" && "active"
                           }`}
                         >
-                          Birth Certificate Attestation
+                          Certificate Attestation
                         </Link>
                       </li> <li className="nav-item">
                         <Link

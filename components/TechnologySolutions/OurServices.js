@@ -32,18 +32,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon8.png"
+                    src="/images/icon/icon30.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/MEA-Attestation">MEA Attestation</Link>
+                    <Link href="/marriage-attestation">Marriage Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                MEA attestation is the process of verifying documents 
-                by the Ministry of External Affairs for international use.
+                Marriage certificate attestation verifies the authenticity of a marriage certificate 
+                for use in foreign countries.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -68,7 +68,7 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/MEA-Attestation" className="default-btn">
+                <Link href="/marriage-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -89,18 +89,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon9.png"
+                    src="/images/icon/icon32.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/Apostille-Attestation">Apostille Attestation</Link>
+                    <Link href="/bachelorhood-attestation">Bachelorhood  Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                Apostille attestation certifies documents for international 
-                use under the Hague Convention.
+                Bachelorhood certificate attestation authenticates a bachelor's degree
+                for use in foreign countries.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -124,7 +124,7 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/Apostille-Attestation" className="default-btn">
+                <Link href="/bachelorhood-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -145,17 +145,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon10.png"
+                    src="/images/icon/icon29.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/Degree-Attestation">Degree Attestation</Link>
+                    <Link href="/business-attestation">Business  Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                Degree attestation verifies the authenticity of an educational degree for international use.
+                Business document attestation authenticates business documents for official use in
+                foreign countries.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -179,7 +180,7 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/Degree-Attestation" className="default-btn">
+                <Link href="/business-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -200,17 +201,18 @@ const OurServices = () => {
               >
                 <div className="d-flex align-items-center">
                   <Image
-                    src="/images/icon/icon11.png"
+                    src="/images/icon/icon31.png"
                     alt="image"
                     width={78}
                     height={78}
                   />
                   <h3>
-                    <Link href="/Birth-Attestation">Birth Attestation</Link>
+                    <Link href="/certificate-attestation">Certificates Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                Birth certificate attestation confirms its authenticity for legal, educational, and immigration purposes abroad.
+                Certificate attestation authenticates documents for use abroad, ensuring their legal 
+                acceptance by authorities.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -235,11 +237,13 @@ const OurServices = () => {
                     </span>
                   </li>
                 </ul>
-                <Link href="/Birth-Attestation" className="default-btn">
+                <Link href="/certificate-attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
             </div>
+
+            
           </div>
         </div>
       </div>

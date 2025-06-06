@@ -145,7 +145,8 @@
 .ri-arrow-left-s-line:before { content: "\ea64"; }
 .ri-arrow-left-up-fill:before { content: "\ea65"; }
 .ri-arrow-left-up-line:before { content: "\ea66"; }
-.ri-arrow-right-circle-fill:before { content: "\ea67"; }
+.ri-arrow-right-circle-fill:before { content: "\ea67";
+                                   color:#029894; }
 .ri-arrow-right-circle-line:before { content: "\ea68"; }
 .ri-arrow-right-down-fill:before { content: "\ea69"; }
 .ri-arrow-right-down-line:before { content: "\ea6a"; }
@@ -421,15 +422,17 @@
 .ri-check-double-fill:before { content: "\eb78"; }
 .ri-check-double-line:before { content: "\eb79"; }
 .ri-check-fill:before { content: "\eb7a"; }
-.ri-check-line:before { content: "\eb7b"; }
-.ri-check-line1:before{content: "\eb7b";color: #029894;}
+.ri-check-line:before { content: "\eb7b";
+                         color:#029894; }
 .ri-checkbox-blank-circle-fill:before { content: "\eb7c"; }
 .ri-checkbox-blank-circle-line:before { content: "\eb7d"; }
 .ri-checkbox-blank-fill:before { content: "\eb7e"; }
 .ri-checkbox-blank-line:before { content: "\eb7f"; }
-.ri-checkbox-circle-fill:before { content: "\eb80"; }
-.ri-checkbox-circle-fill2:before { content: "\eb80"; color: #029894;}
-.ri-checkbox-circle-fill1:before { content: "\eb80";color: black; }
+.ri-checkbox-circle-fill:before { content: "\eb80";
+                                  color:#029894 }
+ .ri-checkbox-circle1-fill:before { content: "\eb80";
+                                    color:#56bedb }
+
 .ri-checkbox-circle-line:before { content: "\eb81"; }
 .ri-checkbox-fill:before { content: "\eb82"; }
 .ri-checkbox-indeterminate-fill:before { content: "\eb83"; }
@@ -1487,15 +1490,30 @@
 .ri-npmjs-fill:before { content: "\ef9d"; }
 .ri-npmjs-line:before { content: "\ef9e"; }
 .ri-number-0:before { content: "\ef9f"; }
-.ri-number-1:before {content: "\0031\FE0F\20E3";}
-.ri-number-2:before { content: "\0032\FE0F\20E3";}
-.ri-number-3:before { content: "\0033\FE0F\20E3"; }
-.ri-number-4:before { content: "\0034\FE0F\20E3"; }
-.ri-number-5:before { content: "\0035\FE0F\20E3"; }
-.ri-number-6:before { content: "\0036\FE0F\20E3"; }
-.ri-number-7:before { content: "\0037\FE0F\20E3"; }
-.ri-number-8:before { content: "\0038\FE0F\20E3"; }
-.ri-number-9:before { content: "\0039\FE0F\20E3"; }
+.ri-number-1:before { content: "\efa0"; }
+.ri-num-1:before { content: "\2460";
+                    color:#029894; }
+.ri-num-2:before { content: "\2461";
+                      color:#029894; }
+.ri-num-3:before { content: "\2462";
+                        color:#029894; }
+ .ri-num-4:before { content: "\2463";
+                          color:#029894; }  
+ .ri-num-5:before { content: "\2464";
+                            color:#029894; }
+.ri-num-6:before { content: "\2465";
+                              color:#029894; }                         
+                          
+                          
+
+.ri-number-2:before { content: "\efa1"; }
+.ri-number-3:before { content: "\efa2"; }
+.ri-number-4:before { content: "\efa3"; }
+.ri-number-5:before { content: "\efa4"; }
+.ri-number-6:before { content: "\efa5"; }
+.ri-number-7:before { content: "\efa6"; }
+.ri-number-8:before { content: "\efa7"; }
+.ri-number-9:before { content: "\efa8"; }
 .ri-numbers-fill:before { content: "\efa9"; }
 .ri-numbers-line:before { content: "\efaa"; }
 .ri-nurse-fill:before { content: "\efab"; }
@@ -2758,6 +2776,8 @@
 .ri-arrow-left-wide-line:before { content: "\f494"; }
 .ri-arrow-right-wide-fill:before { content: "\f495"; }
 .ri-arrow-right-wide-line:before { content: "\f496"; }
+.ri-arrow-right-line:before { content: "\ea6c";
+                           color:#029894; }
 .ri-arrow-up-wide-fill:before { content: "\f497"; }
 .ri-arrow-up-wide-line:before { content: "\f498"; }
 .ri-bluesky-fill:before { content: "\f499"; }

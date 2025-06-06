@@ -50,11 +50,7 @@ const ClientsFeedback = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-feedback-box with-boxshadow">
                 <div className="rating">
-                  <i className="ri-star-fill"></i>
-                  <i className="ri-star-fill"></i>
-                  <i className="ri-star-fill"></i>
-                  <i className="ri-star-fill"></i>
-                  <i className="ri-star-half-fill"></i>
+                  
                 </div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed

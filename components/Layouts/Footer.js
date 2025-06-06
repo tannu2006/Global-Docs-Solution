@@ -13,6 +13,7 @@ const Footer = () => {
                 <Link href="/" className="d-inline-block logo">
                   <Image
                     src="/images/Glogo.png"
+                    src="/images/Glogo.png"
                     alt="logo"
                     width={114}
                     height={41}
@@ -81,23 +82,18 @@ const Footer = () => {
                 <h3>Services</h3>
                 <ul className="services-links">
                   <li>
-                    <Link href="/MEA-Attestation">MEA Attestation</Link>
+                    <Link href="/certificate-attestation">Certificate Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/Apoatille-Attestation">Apoatille Attestation</Link>
+                    <Link href="/bachelorhood-attestation">Bachelorhood Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/Birth-Attestation">Birth Attestation</Link>
+                    <Link href="/business-attestation">Business Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/Degree-Attestation">Degree Attestation</Link>
+                  <Link href="/marriage-attestation">Marriage Attestation</Link>
                   </li>
-                  <li>
-                    <Link href="/Apostille-Services">Apoatille Services</Link>
-                  </li>
-                  <li>
-                    <Link href="/Visa-Services">Visa services</Link>
-                  </li>
+                 
                 </ul>
               </div>
             </div>
@@ -113,16 +109,16 @@ const Footer = () => {
                     <Link href="/about-us">About Us</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/UAE">UAE Visa Stamping</Link>
+                    <Link href="/case-studies/3/UAE">UAE Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/Saudi">Saudi Visa Stamping</Link>
+                    <Link href="/case-studies/3/SAUDI"> Saudi Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/Qatar">Qatar Visa Stamping</Link>
+                    <Link href="/case-studies/3/QATAR">Qatar Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/Kuwait">Kuwait Visa Stamping</Link>
+                    <Link href="/case-studies/3/KUWAIT">Kuwait Embassy Attestation</Link>
                   </li>
                   <li>
                     <Link href="/blog">Our News</Link>
