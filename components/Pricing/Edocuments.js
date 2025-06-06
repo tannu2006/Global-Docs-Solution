@@ -7,7 +7,7 @@ const PricingTable = () => {
       <div className="pricing-area pt-100 pb-70">
         <div className="container" >
           <div className="section-title">
-            <span className="sub-title">Documents Required for UAE Embassy Attestation</span>
+            <span className="sub-title">Document's Required for Embassy Attestation</span>
            
           </div>
 
@@ -121,7 +121,7 @@ const PricingTable = () => {
               </div>
             </div>
             <i className="ri-alert-fill">Important: Requirements may vary depending on the type of
-   document, issuing state, and latest UAE Embassy policies. Our experts will help you with the
+   document, issuing state, and latest Embassy policies. Our experts will help you with the
     updated checklist and document preparation.</i>
           </div>
         </div>

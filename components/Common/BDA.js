@@ -22,8 +22,8 @@ const OurTeamMember = () => {
                       <Image
                         src="/images/team/Aa.png"
                         alt="team"
-                        width={1000}
-                        height={1000}
+                        width={500}
+                        height={500}
                       />
                      
                     </div>
@@ -40,8 +40,8 @@ const OurTeamMember = () => {
                       <Image
                         src="/images/team/ats.jpg"
                         alt="team"
-                        width={1000}
-                        height={1000}
+                        width={500}
+                        height={500}
                       />
                      
                     </div>
@@ -52,16 +52,15 @@ const OurTeamMember = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="team-section-title">
-                <span className="sub-title">Bachelorhood Certificate Attestation</span>
+                <span className="sub-title">Business Document Attestation</span>
                 <h2>
-                What is Bachelorhood Certificate Attestation?
+                What is Business Document Attestation?
                 </h2>
                 <p>
-Bachelorhood Certificate Attestation is the official process of verifying that an individual is
- unmarried. This certificate is often needed for marriage registration, immigration, or legal
-  use in another country. The attestation confirms that the document is genuine and issued
-   by an authorized body, making it legally valid for submission to government and
-    consular authorities.
+  Business Document Attestation is the official process of verifying and legalizing
+ commercial documents issued in one country for use in another.<br/> These documents must 
+ be authenticated by local authorities, the Ministry of External Affairs (MEA), and 
+ the concerned foreign embassy or consulate.
                 </p>
                 
               </div>

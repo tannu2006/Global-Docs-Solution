@@ -6,7 +6,6 @@ import MAdoc from '@/components/Common/MAdoc'
 import Documents from '@/components/Common/Documents'
 import MAprocess from '@/components/Common/MAprocess'
 import WMA from '@/components/Common/WMA'
-import OurLatestBlog from '@/components/Common/OurLatestBlog'
 import MAimp from '@/components/Common/MAimp'
 import Footer from '@/components/Layouts/Footer'
 import MarriageServices from '@/components/BusinessConsulting/MarriageServices'
@@ -30,7 +29,6 @@ export default function MarriageAttestation() {
 
       <Documents/>
 
-
       <Time />
 
       <Choose />
@@ -38,9 +36,7 @@ export default function MarriageAttestation() {
       <MarriageServices />
 
       <StartMA />
-
-     
- 
+      
       <Footer />
     </>
   )
