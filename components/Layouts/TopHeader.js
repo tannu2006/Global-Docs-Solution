@@ -12,8 +12,8 @@ const TopHeader = () => {
               <div className="top-header-start d-flex align-items-center">
                 <Link href="/" className="logo d-inline-block">
                   <Image
-                    src="/images/logo.png"
-                    alt="image"
+                    src="/images/Glogo.png"
+                    alt="logo"
                     width={114}
                     height={41}
                   />
@@ -40,7 +40,7 @@ const TopHeader = () => {
                       href="tel:+1-485-456-0102"
                       className="d-flex align-items-center"
                     >
-                      <i className="ri-phone-line"></i> +1-485-456-0102
+                      <i className="ri-phone-line-fill"></i> +1-485-456-0102
                     </a>
                   </div>
 

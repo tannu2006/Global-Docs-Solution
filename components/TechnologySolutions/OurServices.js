@@ -8,8 +8,8 @@ const OurServices = () => {
       <div className="services-area pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">OUR SERVICES</span>
-            <h2>We Offer Professional Services For Business</h2>
+            <span className="sub-title"> ATTESTATION SERVICES</span>
+            
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -38,38 +38,37 @@ const OurServices = () => {
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Branding</Link>
+                    <Link href="/MEA-Attestation">MEA Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                MEA attestation is the process of verifying documents 
+                by the Ministry of External Affairs for international use.
                 </p>
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Identity
+                      <i className="ri-checkbox-circle-fill"></i> Govt. Stamp
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Voice
+                      <i className="ri-checkbox-circle-fill"></i> All Doc Types
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
+                      <i className="ri-checkbox-circle-fill"></i>  Before Embassy
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Competitor
-                      Farm
+                      <i className="ri-checkbox-circle-fill"></i> Global Use
+                      Form
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/MEA-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -96,37 +95,36 @@ const OurServices = () => {
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Design</Link>
+                    <Link href="/Apostille-Attestation">Apostille Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Apostille attestation certifies documents for international 
+                use under the Hague Convention.
                 </p>
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> App Design
+                      <i className="ri-checkbox-circle-fill"></i>  Hague Valid
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Website Design
+                      <i className="ri-checkbox-circle-fill"></i>  No Embassy
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Product Design
+                      <i className="ri-checkbox-circle-fill"></i>  Fast Process
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> UX Design
+                      <i className="ri-checkbox-circle-fill"></i>  100+ Nations
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/Apostille-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -153,37 +151,35 @@ const OurServices = () => {
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Content</Link>
+                    <Link href="/Degree-Attestation">Degree Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Degree attestation verifies the authenticity of an educational degree for international use.
                 </p>
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Photography
+                      <i className="ri-checkbox-circle-fill"></i> University Check
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Animations
+                      <i className="ri-checkbox-circle-fill"></i> HRD + MEA
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Copywriting
+                      <i className="ri-checkbox-circle-fill"></i>  For Visa/Jobs
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Social Content
+                      <i className="ri-checkbox-circle-fill"></i> Embassy Ready
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/Degree-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -210,156 +206,36 @@ const OurServices = () => {
                     height={78}
                   />
                   <h3>
-                    <Link href="/services/details">Strategy</Link>
+                    <Link href="/Birth-Attestation">Birth Attestation</Link>
                   </h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Birth certificate attestation confirms its authenticity for legal, educational, and immigration purposes abroad.
                 </p>
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Research
+                      <i className="ri-checkbox-circle-fill"></i> Notary
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
+                      <i className="ri-checkbox-circle-fill"></i> State Verify
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Analysis
+                      <i className="ri-checkbox-circle-fill"></i> MEA Proof
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Market
+                      <i className="ri-checkbox-circle-fill"></i> Visa Use
                       Strategy
                     </span>
                   </li>
                 </ul>
-                <Link href="/services/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Learn More
-                </Link>
-              </div>
-            </div>
-
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 col-sm-12"
-              data-aos="fade-up"
-              data-aos-delay="500"
-              data-aos-duration="800"
-              data-aos-once="true"
-            >
-              <div
-                className="single-services-box"
-                style={{
-                  backgroundImage: `url(/images/services/services5.jpg)`,
-                }}
-              >
-                <div className="d-flex align-items-center">
-                  <Image
-                    src="/images/icon/icon12.png"
-                    alt="image"
-                    width={78}
-                    height={78}
-                  />
-                  <h3>
-                    <Link href="/services/details">Marketing</Link>
-                  </h3>
-                </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
-                </p>
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Email
-                      Campaigns
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Social
-                      Campaigns
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Print
-                      Campaigns
-                    </span>
-                  </li>
-                </ul>
-                <Link href="/services/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Learn More
-                </Link>
-              </div>
-            </div>
-
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 col-sm-12"
-              data-aos="fade-up"
-              data-aos-delay="600"
-              data-aos-duration="800"
-              data-aos-once="true"
-            >
-              <div
-                className="single-services-box"
-                style={{
-                  backgroundImage: `url(/images/services/services6.jpg)`,
-                }}
-              >
-                <div className="d-flex align-items-center">
-                  <Image
-                    src="/images/icon/icon13.png"
-                    alt="image"
-                    width={78}
-                    height={78}
-                  />
-                  <h3>
-                    <Link href="/services/details">Technology</Link>
-                  </h3>
-                </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
-                </p>
-                <ul className="features-list">
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> E-Commerce
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Prototyping
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="ri-checkbox-circle-fill"></i> Platform &
-                      APIs
-                    </span>
-                  </li>
-                </ul>
-                <Link href="/services/details" className="default-btn">
+                <Link href="/Birth-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>

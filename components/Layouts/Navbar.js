@@ -47,7 +47,7 @@ const Navbar = () => {
             <div className="container">
               <Link href="/" className="navbar-brand d-lg-none">
                 <Image
-                  src="/images/logo.png"
+                  src="/images/Glogo.png"
                   alt="Site logo"
                   width={114}
                   height={41}
@@ -313,7 +313,9 @@ const Navbar = () => {
                         >
                            Kuwait Embassy Attestation
                         </Link>
+                        
                       </li>
+                   
                     </ul>
                   </li>
 
