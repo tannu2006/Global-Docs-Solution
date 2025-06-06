@@ -35,14 +35,14 @@ const Degreeservices = () => {
                      </div>
                    </h3> 
                    <i className="ri-check-line1"> </i> &nbsp;&nbsp;
-                   <b>Employment Abroad  –</b> Many companies require attested diplomas for work &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;permits.<br/>
+                   <b>Employment Abroad  –</b> Many companies require attested diplomas for work permits.<br/>
                  <i className="ri-check-line1"></i>&nbsp;&nbsp;
                   <b>Higher Education  –</b> Universities demand attested degrees before admission.<br/>
                  <i className="ri-check-line1"></i>&nbsp;&nbsp;
-                 <b> Immigration & Residency  –</b> Visa processing for some countries requires attested &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;degrees.<br/>
+                 <b> Immigration & Residency  –</b> Visa processing for some countries requires attested degrees.<br/>
                  <i className="ri-check-line1"></i>&nbsp;&nbsp;
                   <b>
-                  Professional Licensing  –</b> Professions like doctors and engineers need attested &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;degrees.
+                  Professional Licensing  –</b> Professions like doctors and engineers need attested degrees.
                     <div className="container">
                           <div className="center">
                             <div className="paragraph">
