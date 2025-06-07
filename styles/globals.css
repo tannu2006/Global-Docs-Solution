@@ -1016,7 +1016,8 @@ About Area CSS
   position: relative;
 }
 .about-image img {
-  animation: border-transform 10s linear infinite alternate forwards;
+  border-radius: 5px;
+  /* animation: border-transform 10s linear infinite alternate forwards; */
 }
 
 .about-content {
