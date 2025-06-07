@@ -821,7 +821,7 @@ Main Banner Area CSS
   z-index: 1;
   position: relative;
   padding-top: 100px;
-  background-image: url(/images/14.png);
+  background-image: url(/images/bg/bg8.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1003,7 +1003,7 @@ About Area CSS
   z-index: 1;
 }
 .about-area.bg-gradient-image {
-  background-image: url(/images/bg/bg2.jpg);
+  /* background-image: url(/images/bg/bg2.jpg); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1021,6 +1021,7 @@ About Area CSS
 
 .about-content {
   padding-left: 15px;
+  text-align: center;
 }
 .about-content .sub-title {
   background-color: rgba(2, 152, 148, 0.15);

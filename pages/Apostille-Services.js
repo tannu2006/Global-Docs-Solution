@@ -13,7 +13,7 @@ import NewsletterForm from '@/components/Common/NewsletterForm'
 import Footer from '@/components/Layouts/Footer'
 import Apostilleservicesslider from '@/components/BusinessConsulting/Apostilleservicesslider'
 import MEAcontent from '@/components/Services/MEAcontent'
-import MEAservices from '@/components/BusinessConsulting/MEAservices'
+import MEAservices from '@/components/BusinessConsulting/MEAservicesz'
 import Apostille from '@/components/BusinessConsulting/Apostille'
 import Apostilleservices from '@/components/Common/Apostilleservices'
 export default function ApostilleServices () {
