@@ -22,16 +22,24 @@ const AboutUs = () => {
                   height={617}
                 />
 
-                
+                <div className="shape5">
+                  <Image
+                    src="/images/shape/shape5.png"
+                    alt="image"
+                    width={90}
+                    height={74}
+                  />
+                </div>
               </div>
             </div>
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
                 <span className="sub-title">ABOUT US</span>
-                <h2>We Are Your Trud Partner for Fast and Secure Legal Documentation</h2>
+                <h2>We Are Award Winning Digital Marketing Company</h2>
                 <p>
-                welcome to Global Docs Solution your trusted partner for hassle-free legal documentation and consulting services
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
 
                 <ul className="features-list">
@@ -45,7 +53,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Legal Experts</span>
+                      <span>Brand Strategy</span>
                     </div>
                   </li>
                   <li>
@@ -58,7 +66,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Quick & Easy Process</span>
+                      <span>Expert Team</span>
                     </div>
                   </li>
                   <li>
@@ -71,7 +79,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>PAN India Coverage</span>
+                      <span>Fast Delivery</span>
                     </div>
                   </li>
                   <li>
@@ -84,7 +92,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Secure & Confidential</span>
+                      <span>Ongoing Report</span>
                     </div>
                   </li>
                 </ul>
@@ -97,7 +105,14 @@ const AboutUs = () => {
           </div>
         </div>
 
-    
+        <div className="shape6">
+          <Image
+            src="/images/shape/shape6.png"
+            alt="image"
+            width={106}
+            height={113}
+          />
+        </div>
       </div>
     </>
   );

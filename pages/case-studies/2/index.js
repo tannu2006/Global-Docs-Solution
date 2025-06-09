@@ -1,18 +1,18 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import PageTitle from '@/components/Common/PageTitle'
+import CaseStudiesCard2 from '@/components/CaseStudies/CaseStudiesCard2'
 import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
-import CaseStudiesCard2 from '@/components/CaseStudies/CaseStudiesCard'
 
 export default function CaseStudies2() {
   return (
     <>
       <Navbar />
 
-      <PageTitle homeText="Home" pageTitle="ApostileServices" />
+      <PageTitle homeText="Home" pageTitle="Case Studies 2" />
 
-      <CaseStudiesCard2/>
+      <CaseStudiesCard2 />
 
       <GetStarted />
 

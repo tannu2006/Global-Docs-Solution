@@ -22,7 +22,7 @@ const HeroSlider = () => {
                     <div className="home-content">
                       <span className="sub-title">AWARD WINNING COMPANY</span>
                       <h1>
-                      Make Your Business More Money With Team Of Experts 
+                        Make Your Business More Money With Team Of Experts
                       </h1>
                       <Link href="/contact" className="default-btn style-two">
                         <span className="ri-arrow-right-s-line"></span>Get
@@ -53,7 +53,7 @@ const HeroSlider = () => {
                     <div className="home-content">
                       <span className="sub-title">AWARD WINNING COMPANY</span>
                       <h1>
-                        Make Your Business More Money With Team Of Experts 
+                        Make Your Business More Money With Team Of Experts
                       </h1>
                       <Link href="/contact" className="default-btn style-two">
                         <span className="ri-arrow-right-s-line"></span>Get

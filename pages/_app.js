@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          Global Docs Solution
+          Global-Docs-Solution
         </title>
         <meta 
           name="viewport" 
