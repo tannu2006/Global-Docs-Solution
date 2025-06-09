@@ -72,7 +72,7 @@ const Navbar= () => {
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto">
                   <li className="nav-item">
-                    <Link href="#" className="nav-link">
+                    <Link href="/" className="nav-link">
                       Home
                     </Link>
                   </li>

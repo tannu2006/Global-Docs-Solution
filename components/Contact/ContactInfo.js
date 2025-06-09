@@ -11,22 +11,19 @@ const ContactInfo = () => {
                 <div className="icon">
                   <i className="ri-map-pin-2-line"></i>
                 </div>
-                <h3>Address:</h3>
-                <p>2750 Open Space, Quadra Street Line Victoria, Canada</p>
+                <h3>Address:1</h3>
+                <p>7/38 Ground Floor, Dr. Sachdevalane, Opp. MGM Society, 
+                  Ansari Road, Daryaganj New, Delhi-110002 .  </p>
               </div>
             </div>
 
             <div className="col-lg-3 col-sm-6 col-md-6">
               <div className="single-contact-info-box text-center">
                 <div className="icon">
-                  <i className="ri-time-line"></i>
+                  <i className="ri-map-pin-2-line"></i>
                 </div>
-                <h3>Working Hours:</h3>
-                <p>
-                  Open Saturday to Friday
-                  <br />
-                  From 06:00 PM to 20:00 AM
-                </p>
+                <h3>Address:2</h3>
+                <p>Shop No. 01 Karim Manzil Jail Road Near Habib Hospital South Umer  </p>
               </div>
             </div>
 
@@ -37,9 +34,9 @@ const ContactInfo = () => {
                 </div>
                 <h3>Email Address:</h3>
                 <p>
-                  <a href="mailto:hello@lofi.com">hello@lofi.com</a>
+                  <a href="mailto:Info@globaldocs.in">Info@globaldocs.in</a>
                   <br />
-                  <a href="mailto:info@lofi.com">info@lofi.com</a>
+                  <a href="mailto:Attestation@globaldocs.in">Attestation@globaldocs.in</a>
                 </p>
               </div>
             </div>
@@ -51,9 +48,11 @@ const ContactInfo = () => {
                 </div>
                 <h3>Toll Free:</h3>
                 <p>
-                  <a href="tel:+44587154756">+44 587 154756</a>
+                  <a href="tel:+917276309395">+91 7276309395</a>
                   <br />
-                  <a href="tel:+44587154756">+55 58715 4756</a>
+                  <a href="tel:+918446684422">+91 8446684422</a>
+                   <br />
+                  <a href="tel:+9199118001162">+91 9911800116</a>
                 </p>
               </div>
             </div>

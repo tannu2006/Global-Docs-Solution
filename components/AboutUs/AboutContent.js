@@ -16,14 +16,21 @@ const AboutContent = () => {
                   height={617}
                 />
 
-                
+                <div className="shape5">
+                  <Image
+                    src="/images/shape/shape5.png"
+                    alt="image"
+                    width={90}
+                    height={74}
+                  />
+                </div>
               </div>
             </div>
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
                 <span className="sub-title">ABOUT US</span>
-                <h2>We Are Your Trud Partner for Fast and Secure Legal Documentation</h2>
+                <h2>We Are Award Winning Digital Marketing Company</h2>
                 <p>
                   Established in 2011, Global Docs Services has grown into a trusted name in document attestation, apostille, and visa services. With over 13 years of experience, we specialize in simplifying the complex process of legalizing documents for use worldwide. Our mission is to provide reliable, efficient, and transparent services to individuals and businesses seeking opportunities in the Gulf countries, Asia, USA, UK, and beyond.
 
@@ -41,7 +48,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Legal Experts</span>
+                      <span>Brand Strategy</span>
                     </div>
                   </li>
                   <li>
@@ -54,7 +61,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Quick & Easy Process</span>
+                      <span>Expert Team</span>
                     </div>
                   </li>
                   <li>
@@ -67,7 +74,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>PAN India Coverage</span>
+                      <span>Fast Delivery</span>
                     </div>
                   </li>
                   <li>
@@ -80,7 +87,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Secure & Confidential</span>
+                      <span>Ongoing Report</span>
                     </div>
                   </li>
                 </ul>
