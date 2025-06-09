@@ -22,7 +22,7 @@ const NewsletterForm = () => {
                 Proving your marital status when applying for visa or residency
                  </div>
             </form> 
-              
+               
               <form className="newsletter-form">
                 <input 
                 type="text"
