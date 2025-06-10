@@ -179,9 +179,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/case-studies/3/UAE"
+                          href="/Uae-Embassy"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/UAE" && "active"
+                            currentPath == "/Uae-Embassy" && "active"
                           }`}
                         >
                           UAE Embassy Attestation
@@ -189,9 +189,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/3/QATAR"
+                          href="/Qatar-Embassy"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/QATAR" && "active"
+                            currentPath == "/Qatar-Embassy" && "active"
                           }`}
                         >
                          Qatar Embassy Attestation
@@ -199,9 +199,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/3/SAUDI"
+                          href="/Saudi-Embassy"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/SAUDI" && "active"
+                            currentPath == "/Saudi-Embassy" && "active"
                           }`}
                         >
                           Saudi Embassy Attestation
@@ -209,9 +209,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/case-studies/3/KUWAIT"
+                          href="/Kuwait-Embassy"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/KUWAIT" && "active"
+                            currentPath == "/Kuwait-Embassy" && "active"
                           }`}
                         >
                           Kuwait Embassy Attestation
