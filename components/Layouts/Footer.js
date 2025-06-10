@@ -13,7 +13,6 @@ const Footer = () => {
                 <Link href="/" className="d-inline-block logo">
                   <Image
                     src="/images/Glogo.png"
-                    src="/images/Glogo.png"
                     alt="logo"
                     width={114}
                     height={41}
