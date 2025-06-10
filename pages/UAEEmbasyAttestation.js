@@ -1,8 +1,8 @@
 import React from 'react'
 import NavbarStyle2 from '@/components/Layouts/NavbarStyle2'
 import PageTitle from '@/components/Common/PageTitle'
-import WUE from '@/components/TechnologySolutions/WUE'
-import UAEReq from '@/components/Common/UAEReq'
+// import WUE from '@/components/TechnologySolutions/WUE'
+// import UAEReq from '@/components/Common/UAEReq'
 import Edocuments from '@/components/Pricing/Edocuments'
 import UaeEprocess from '@/components/Common/UaeEprocess'
 import EmbDocs from '@/components/AboutUs/EmbDocs'
@@ -20,12 +20,12 @@ export default function CaseStudies3() {
 
       <PageTitle homeText="Home" pageTitle="UAE Embassy Attestation" />
 
-      <WUE />
+      {/* <WUE /> */}
 
-      <UAEReq />
+      {/* <UAEReq /> */}
       <Edocuments />
-      <UaeEprocess />
-      <EmbDocs />
+      {/* <UaeEprocess /> */}
+      {/* <EmbDocs /> */}
       <Time />
       <Choose />
 

@@ -11,7 +11,7 @@ import OurLatestBlog from '@/components/Common/OurLatestBlog'
 import NewsletterForm from '@/components/Common/NewsletterForm'
 import Footer from '@/components/Layouts/Footer'
 import BachelorhoodServices from '@/components/BusinessConsulting/BachelorhoodServices'
-import SliderBCA from '@/components/BusinessConsulting/sliderBatchCertficateAttestation'
+import SliderBCA from '@/components/BusinessConsulting/SliderBCA'
 import StartBCA from '@/components/Common/startBCA'
 
 export default function BachelorhoodAttestation() {
@@ -19,7 +19,7 @@ export default function BachelorhoodAttestation() {
     <>
       <NavbarStyle2 />
 
-      <sliderBatchCertficateAttestation /> 
+      <SliderBCA /> 
 
       <WBCA />
      

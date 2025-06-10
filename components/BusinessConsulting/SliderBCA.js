@@ -4,7 +4,7 @@ import { Navigation } from "swiper/modules";
 import Link from "next/link";
 import Image from "next/image";
 
-const sliderBatchCertficateAttestation = () => {
+const SliderBCA = () => {
   return (
     <>
       <div className="home-area">
@@ -79,4 +79,4 @@ const sliderBatchCertficateAttestation = () => {
   );
 };
 
-export default SliderBatchCertificateAttestation;
+export default SliderBCA;
