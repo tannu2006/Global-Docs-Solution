@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";
 import TopHeader from "./TopHeader";
-import TopHeader from "./TopHeader";
+
 import Image from "next/image";
 
 const Navbar= () => {
@@ -39,9 +39,7 @@ const Navbar= () => {
 
   return (
     <>
-      <header className="header-area">
-        {/* TopHeader */}
-        <TopHeader />
+     
 
       <header className="header-area">
         {/* TopHeader */}
@@ -50,11 +48,11 @@ const Navbar= () => {
         <div id="navbar" className="navbar-area">
           <nav className="navbar navbar-expand-md navbar-light">
             <div className="container">
-              <Link href="/" className="navbar-brand d-lg-none">
+             
               <Link href="/" className="navbar-brand d-lg-none">
                 <Image
                   src="/images/Glogo.png"
-                  src="/images/Glogo.png"
+                  
                   alt="Site logo"
                   width={114}
                   height={41}
@@ -308,4 +306,4 @@ const Navbar= () => {
 };
 
 export default Navbar;
-export default Navbar;
+
