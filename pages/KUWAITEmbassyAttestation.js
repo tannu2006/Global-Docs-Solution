@@ -1,39 +1,41 @@
 import React from 'react'
 import NavbarStyle2 from '@/components/Layouts/NavbarStyle2'
 import PageTitle from '@/components/Common/PageTitle'
-import WUE from '@/components/TechnologySolutions/WUE'
-import UAEReq from '@/components/Common/UAEReq'
+import WKE from '@/components/TechnologySolutions/WKE'
+import KuwaitReq from '@/components/Common/KuwaitReq'
 import Edocuments from '@/components/Pricing/Edocuments'
-import UaeEprocess from '@/components/Common/UaeEprocess'
+import KuwaitEprocess from '@/components/Common/KuwaitEprocess'
 import EmbDocs from '@/components/AboutUs/EmbDocs'
 import Time from '@/components/Common/time'
 import Choose from '@/components/BusinessConsulting/choose'
-import UAEembassy from '@/components/CaseStudies/UAEembassy'
+import KUWAITembassy from '@/components/CaseStudies/KUWAITembassy'
 import Footer from '@/components/Layouts/Footer'
-import StartUAE from '@/components/Common/startUAE'
-
+import StartKuwait from '@/components/Common/startKuwait'
 
 export default function CaseStudies3() {
   return (
     <>
       <NavbarStyle2 />
 
-      <PageTitle homeText="Home" pageTitle="UAE Embassy Attestation" />
+      <PageTitle homeText="Home" pageTitle="Kuwait Embassy Attestation" />
 
-      <WUE />
+      <WKE />
 
-      <UAEReq />
+      <KuwaitReq />
+
       <Edocuments />
-      <UaeEprocess />
+
+      <KuwaitEprocess />
+
       <EmbDocs />
+
       <Time />
+
       <Choose />
 
+      <KUWAITembassy />
 
-      <UAEembassy />
-
-      
-      <StartUAE />
+      <StartKuwait/>
 
       <Footer />
     </>
