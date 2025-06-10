@@ -72,7 +72,7 @@ const Navbar= () => {
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto">
                   <li className="nav-item">
-                    <Link href="/" className="nav-link">
+                    <Link href="#" className="nav-link">
                       Home
                     </Link>
                   </li>
@@ -96,9 +96,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/services/"
+                          href="/Apostille-Services/"
                           className={`nav-link ${
-                            currentPath == "/services/" && "active"
+                            currentPath == "/Apostille-Services/" && "active"
                           }`}
                         >
                           Apostille Services
@@ -106,9 +106,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/services/details/"
+                          href="/Visa-Services/"
                           className={`nav-link ${
-                            currentPath == "/services/details/" && "active"
+                            currentPath == "/Visa-Services/" && "active"
                           }`}
                         >
                           Visa Services
@@ -179,9 +179,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/Uae-Embassy"
+                          href="/case-studies/3/UAE"
                           className={`nav-link ${
-                            currentPath == "/Uae-Embassy" && "active"
+                            currentPath == "/case-studies/3/UAE" && "active"
                           }`}
                         >
                           UAE Embassy Attestation
@@ -189,9 +189,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Qatar-Embassy"
+                          href="/case-studies/3/QATAR"
                           className={`nav-link ${
-                            currentPath == "/Qatar-Embassy" && "active"
+                            currentPath == "/case-studies/3/QATAR" && "active"
                           }`}
                         >
                          Qatar Embassy Attestation
@@ -199,9 +199,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Saudi-Embassy"
+                          href="/case-studies/3/SAUDI"
                           className={`nav-link ${
-                            currentPath == "/Saudi-Embassy" && "active"
+                            currentPath == "/case-studies/3/SAUDI" && "active"
                           }`}
                         >
                           Saudi Embassy Attestation
@@ -209,9 +209,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Kuwait-Embassy"
+                          href="/case-studies/3/KUWAIT"
                           className={`nav-link ${
-                            currentPath == "/Kuwait-Embassy" && "active"
+                            currentPath == "/case-studies/3/KUWAIT" && "active"
                           }`}
                         >
                           Kuwait Embassy Attestation
@@ -229,36 +229,36 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/UAE/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/UAE/" && "active"
                           }`}
                         >
                           UAE Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Qatar/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Qatar/" && "active"
                           }`}
                         >
                          Qatar Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Saudi/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Saudi/" && "active"
                           }`}
                         >
                         Saudi Visa Stamping
                         </Link>
                       </li><li className="nav-item">
                         <Link
-                          href="/case-studies/3/"
+                          href="/case-studies/3/Kuwait/"
                           className={`nav-link ${
-                            currentPath == "/case-studies/3/" && "active"
+                            currentPath == "/case-studies/3/Kuwait/" && "active"
                           }`}
                         >
                         Kuwait Visa Stamping

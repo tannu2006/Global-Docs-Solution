@@ -8,7 +8,24 @@ const TeamSlider = () => {
       <div className="team-area bg-gradient-image ptb-100">
         <div className="container">
           <div className="section-title style-two">
-           
+            <div className="row align-items-center">
+              <div className="col-lg-5 col-md-12">
+                <span className="sub-title">OUR EXPERTS</span>
+                <h2>
+                  Meet Our Leadership <br />
+                  Preparing For Your Success
+                </h2>
+              </div>
+              <div className="col-lg-7 col-md-12">
+                <p>
+                  It is a long established fact that a reader will be distracted
+                  by the readable content of a page when looking at its layout.
+                  The point of using Lorem Ipsum is that it has a more-or-less
+                  normal distribution of letters. It is a long established fact
+                  that a reader will be distracted by the.
+                </p>
+              </div>
+            </div>
           </div>
 
           <Swiper

@@ -32,9 +32,8 @@ const AboutContent = () => {
                 <span className="sub-title">ABOUT US</span>
                 <h2>We Are Award Winning Digital Marketing Company</h2>
                 <p>
-                  Established in 2011, Global Docs Services has grown into a trusted name in document attestation, apostille, and visa services. With over 13 years of experience, we specialize in simplifying the complex process of legalizing documents for use worldwide. Our mission is to provide reliable, efficient, and transparent services to individuals and businesses seeking opportunities in the Gulf countries, Asia, USA, UK, and beyond.
-
-                  Based in New Delhi with a strong presence in Mumbai, our dedicated team ensures every client receives personalized support. We handle everything from certificate attestation to visa stamping with precision, making your journey seamless and stress-free.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
 
                 <ul className="features-list">
@@ -96,7 +95,69 @@ const AboutContent = () => {
           </div>
 
           <div className="awards-list">
-           
+            <h4>AWARDS AND INDUSTRY RECOGNITION</h4>
+            <div className="row justify-content-center">
+              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
+                <div className="awards-box">
+                  <Image
+                    src="/images/awards/awards1.png"
+                    alt="image"
+                    width={100}
+                    height={77}
+                  />
+                </div>
+              </div>
+              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
+                <div className="awards-box">
+                  <Image
+                    src="/images/awards/awards2.png"
+                    alt="image"
+                    width={100}
+                    height={77}
+                  />
+                </div>
+              </div>
+              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
+                <div className="awards-box">
+                  <Image
+                    src="/images/awards/awards3.png"
+                    alt="image"
+                    width={100}
+                    height={77}
+                  />
+                </div>
+              </div>
+              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
+                <div className="awards-box">
+                  <Image
+                    src="/images/awards/awards4.png"
+                    alt="image"
+                    width={100}
+                    height={77}
+                  />
+                </div>
+              </div>
+              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
+                <div className="awards-box">
+                  <Image
+                    src="/images/awards/awards5.png"
+                    alt="image"
+                    width={100}
+                    height={77}
+                  />
+                </div>
+              </div>
+              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
+                <div className="awards-box">
+                  <Image
+                    src="/images/awards/awards6.png"
+                    alt="image"
+                    width={100}
+                    height={77}
+                  />
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -15,34 +15,16 @@ const HeroBanner = () => {
                 data-aos-duration="800"
                 data-aos-once="true"
               >
-                <h1>Fast & Trusted Document Attestation Services </h1>
-                <span className="sub-title"> We help individuals and professionals accross india get their documents attested and stamped for countries like Soudi Arabia, UAE, Qatar and Kuwait</span>
+               <br/>
+                <h2>Let&apos;s Make Wave Amazing Together</h2>
 
                 <Link href="/contact" className="default-btn style-two">
-                  <span className="ri-arrow-right-s-line"></span>Get Started
+                  <span className="ri-arrow-right-s-line"></span>Get Started Now
                 </Link>
               </div>
             </div>
 
-            <div className="col-lg-7 col-md-12">
-              <div className="main-banner-image">
-                <div
-                  data-aos="fade-up"
-                  data-aos-duration="800"
-                  data-aos-once="true"
-                >
-                  <Image
-                    src="/images/man1.jpg"
-                    alt="image"
-                    width={546}
-                    height={578}
-                  />
-                </div>
-
-               
-              </div>
-            </div>
-          </div>
+           </div>
         </div>
       </div>
     </>

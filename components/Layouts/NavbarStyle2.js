@@ -81,10 +81,8 @@ const Navbar= () => {
 
                   <li className="nav-item">
                     <Link
-                      href="/about-us/"
-                      className={`nav-link ${
-                        currentPath == "/about-us/" && "active"
-                      }`}
+                      href="#"
+                      className={'dropdown-toggle nav-link'}
                     >
                     About
                     </Link>
@@ -94,9 +92,8 @@ const Navbar= () => {
                     <Link href="#" className="dropdown-toggle nav-link">
                     Services
                     </Link>
-
                     <ul className="dropdown-menu">
-                      <li className="nav-item">
+                    <li className="nav-item">
                         <Link
                           href="/services/"
                           className={`nav-link ${
@@ -135,7 +132,6 @@ const Navbar= () => {
                           Marriage Certificate Attestation
                         </Link>
                       </li>
-
                       <li className="nav-item">
                         <Link
                           href="/bachelorhood-attestation/"

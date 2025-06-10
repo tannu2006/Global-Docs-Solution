@@ -40,7 +40,7 @@ const TopHeader = () => {
                       href="tel:+1-485-456-0102"
                       className="d-flex align-items-center"
                     >
-                      <i className="ri-phone-line-fill"></i> +91 99118 00116
+                      <i className="ri-phone-line-fill"></i> +1-485-456-0102
                     </a>
                   </div>
 

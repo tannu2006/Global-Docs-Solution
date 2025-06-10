@@ -8,8 +8,8 @@ const OurServices = () => {
       <div className="services-area pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">OUR SERVICES</span>
-            <h2>We Offer Professional Services For Business</h2>
+            <span className="sub-title"> ATTESTATION SERVICES</span>
+            
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -48,23 +48,23 @@ const OurServices = () => {
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Identity
+                      <i className="ri-checkbox-circle-fill"></i> Govt. Stamp
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Voice
+                      <i className="ri-checkbox-circle-fill"></i> All Doc Types
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
+                      <i className="ri-checkbox-circle-fill"></i>  Before Embassy
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Competitor
-                      Farm
+                      <i className="ri-checkbox-circle-fill"></i> Global Use
+                      Form
                     </span>
                   </li>
                 </ul>
@@ -105,22 +105,22 @@ const OurServices = () => {
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> App Design
+                      <i className="ri-checkbox-circle-fill"></i>  Hague Valid
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Website Design
+                      <i className="ri-checkbox-circle-fill"></i>  No Embassy
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Product Design
+                      <i className="ri-checkbox-circle-fill"></i>  Fast Process
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> UX Design
+                      <i className="ri-checkbox-circle-fill"></i>  100+ Nations
                     </span>
                   </li>
                 </ul>
@@ -161,22 +161,22 @@ const OurServices = () => {
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Photography
+                      <i className="ri-checkbox-circle-fill"></i> University Check
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Animations
+                      <i className="ri-checkbox-circle-fill"></i> HRD + MEA
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Copywriting
+                      <i className="ri-checkbox-circle-fill"></i>  For Visa/Jobs
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Social Content
+                      <i className="ri-checkbox-circle-fill"></i> Embassy Ready
                     </span>
                   </li>
                 </ul>
@@ -217,22 +217,22 @@ const OurServices = () => {
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Research
+                      <i className="ri-checkbox-circle-fill"></i> Notary
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Positioning
+                      <i className="ri-checkbox-circle-fill"></i> State Verify
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Analysis
+                      <i className="ri-checkbox-circle-fill"></i> MEA Proof
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="ri-checkbox-circle-fill"></i> Market
+                      <i className="ri-checkbox-circle-fill"></i> Visa Use
                       Strategy
                     </span>
                   </li>
