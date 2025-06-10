@@ -8,6 +8,10 @@ const Process = () => {
         <div className="container">
           <div className="process-inner">
             <div className="row justify-content-center">
+                <div className="section-title">
+            <span className="sub-title">Document's We Attest</span>
+           
+          </div>
               <div
                 className="col-lg-4 col-md-6 col-sm-6"
                 data-aos="fade-up"
@@ -17,17 +21,14 @@ const Process = () => {
               >
                 <div className="single-process-box">
                   <div className="icon">
-                    <Image
-                      src="/images/icon/icon14.png"
-                      alt="image"
-                      width={150}
-                      height={145}
-                    />
+                    <i className="ri-graduation-cap-fill" style={{ fontSize: '50px' }}></i>
                   </div>
-                  <h3>Select Your Service</h3>
+                  <h3>Educational Documents</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna.
+                    Degree Certificates<br />
+                    Diplomas<br />
+                    Transcripts<br />
+                    Mark sheets<br />
                   </p>
                 </div>
               </div>
@@ -41,17 +42,14 @@ const Process = () => {
               >
                 <div className="single-process-box">
                   <div className="icon">
-                    <Image
-                      src="/images/icon/icon15.png"
-                      alt="image"
-                      width={150}
-                      height={145}
-                    />
+                    <i className="ri-user-3-fill" style={{ fontSize: '50px' }}></i>
                   </div>
-                  <h3>Work Smart Not Hard</h3>
+                  <h3>Personal Documents</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna.
+                   Birth Certificate<br/>
+                   Marriage Certificate<br/>
+                   Bachelorhood/Single Status Certificate<br/>
+                    Police clearance certificate (PCC)
                   </p>
                 </div>
               </div>
@@ -65,17 +63,14 @@ const Process = () => {
               >
                 <div className="single-process-box">
                   <div className="icon">
-                    <Image
-                      src="/images/icon/icon16.png"
-                      alt="image"
-                      width={150}
-                      height={145}
-                    />
+                     <i className="ri-briefcase-2-fill" style={{ fontSize: '50px' }}> </i>
                   </div>
-                  <h3>We&apos;ve Got Your Back</h3>
+                  <h3>Other Documents</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna.
+                  Power of attorney <br/>
+                  Company registration documents<br/>
+                  MoA/AoA <br/>
+                  Trade licenses<br/>
                   </p>
                 </div>
               </div>

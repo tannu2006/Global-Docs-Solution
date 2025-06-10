@@ -6,7 +6,6 @@ import Faq from '@/components/Common/Faq'
 import ComparePlans from '@/components/Pricing/ComparePlans'
 import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
-import Faqn from '@/components/Common/Faqn'
 
 export default function Pricing() {
   return (
@@ -18,7 +17,6 @@ export default function Pricing() {
       <PricingTable />
 
       <Faq />
-      <Faqn/>
 
       <ComparePlans />
 

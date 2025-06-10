@@ -4,7 +4,7 @@ import { Navigation } from "swiper/modules";
 import Link from "next/link";
 import Image from "next/image";
 
-const HeroSlider = () => {
+const SliderBCA = () => {
   return (
     <>
       <div className="home-area">
@@ -20,13 +20,12 @@ const HeroSlider = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">AWARD WINNING COMPANY</span>
+                      <span className="sub-title">Authenticate Your Bachelorhood Certificate with Ease</span>
                       <h1>
-                        Make Your Business More Money With Team Of Experts
+                      Smooth and reliable attestation for official and personal requirements.
                       </h1>
                       <Link href="/contact" className="default-btn style-two">
-                        <span className="ri-arrow-right-s-line"></span>Get
-                        Started Now
+                        <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
                       </Link>
                     </div>
                   </div>
@@ -51,13 +50,12 @@ const HeroSlider = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">AWARD WINNING COMPANY</span>
+                      <span className="sub-title">Authenticate Your Bachelorhood Certificate with Ease</span>
                       <h1>
-                        Make Your Business More Money With Team Of Experts
+                      Smooth and reliable attestation for official and personal requirements.
                       </h1>
                       <Link href="/contact" className="default-btn style-two">
-                        <span className="ri-arrow-right-s-line"></span>Get
-                        Started Now
+                        <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
                       </Link>
                     </div>
                   </div>
@@ -81,4 +79,4 @@ const HeroSlider = () => {
   );
 };
 
-export default HeroSlider;
+export default SliderBCA;
