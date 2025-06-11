@@ -89,7 +89,7 @@ const Navbar= () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="services" className="dropdown-toggle nav-link">
+                    <Link href="#" className="dropdown-toggle nav-link">
                     Services
                     </Link>
 
@@ -118,7 +118,7 @@ const Navbar= () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="Attestation" className="dropdown-toggle nav-link">
+                    <Link href="#" className="dropdown-toggle nav-link">
                     Attestation 
                     </Link>
 
@@ -158,9 +158,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/Birth-Attestation/"
+                          href="/BirthCertificate-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/Birth-Attestation/" && "active"
+                            currentPath == "/BirthCertificate-Attestation/" && "active"
                           }`}
                         >
                           Birth Certificate Attestation
@@ -169,9 +169,9 @@ const Navbar= () => {
                       
                       <li className="nav-item">
                         <Link
-                          href="/marriage-attestation/"
+                          href="/Marriage-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/marriage-attestation/" && "active"
+                            currentPath == "/Marriage-Attestation/" && "active"
                           }`}
                         >
                           Marriage Certificate Attestation
@@ -180,9 +180,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/bachelorhood-attestation/"
+                          href="/Bachelorhood-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/bachelorhood-attestation/" && "active"
+                            currentPath == "/Bachelorhood-Attestation/" && "active"
                           }`}
                         >
                           Bachelorhood Certificate Attestation
@@ -192,9 +192,9 @@ const Navbar= () => {
                     
                       <li className="nav-item">
                         <Link
-                          href="/business-attestation/"
+                          href="/Business-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/business-attestation/" && "active"
+                            currentPath == "/Business-Attestation/" && "active"
                           }`}
                         >
                       Business Document Attestation
@@ -202,9 +202,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/certificate-attestation/"
+                          href="/Certificate-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/certificate-attestation/" && "active"
+                            currentPath == "/Certificate-Attestation/" && "active"
                           }`}
                         >
                           Certificate Attestation
@@ -223,9 +223,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/UAEEmbasyAttestation/"
+                          href="/UAE-EmbassyAttestation/"
                           className={`nav-link ${
-                            currentPath == "UAEEmbasyAttestation" && "active"
+                            currentPath == "UAE-EmbassyAttestation" && "active"
                           }`}
                         >
                           UAE Embassy Attestation
@@ -233,9 +233,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/QATAREmbassyAttestation/"
+                          href="/QATAR-EmbassyAttestation/"
                           className={`nav-link ${
-                            currentPath == "/QATAREmbassyAttestation/" && "active"
+                            currentPath == "/QATAR-EmbassyAttestation/" && "active"
                           }`}
                         >
                          Qatar Embassy Attestation
@@ -243,9 +243,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/SAUDIEmbassyAttestation"
+                          href="/SAUDI-EmbassyAttestation"
                           className={`nav-link ${
-                            currentPath == "/SAUDIEmbassyAttestation/" && "active"
+                            currentPath == "/SAUDI-EmbassyAttestation/" && "active"
                           }`}
                         >
                           Saudi Embassy Attestation
@@ -253,9 +253,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/KUWAITEmbassyAttestation/"
+                          href="/KUWAIT-EmbassyAttestation/"
                           className={`nav-link ${
-                            currentPath == "/KUWAITEmbassyAttestation" && "active"
+                            currentPath == "/KUWAIT-EmbassyAttestation" && "active"
                           }`}
                         >
                           Kuwait Embassy Attestation
@@ -273,9 +273,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/UAEVisaStamping/"
+                          href="/UAE-VisaStamping/"
                           className={`nav-link ${
-                            currentPath == "/UAEVisaStamping/" && "active"
+                            currentPath == "/UAE-VisaStamping/" && "active"
                           }`}
                         >
                           UAE Visa Stamping
@@ -283,9 +283,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/QATARVisaStamping/"
+                          href="/QATAR-VisaStamping/"
                           className={`nav-link ${
-                            currentPath == "/QATARVisaStamping" && "active"
+                            currentPath == "/QATAR-VisaStamping" && "active"
                           }`}
                         >
                          Qatar Visa Stamping
@@ -293,9 +293,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/SAUDIVisaStamping/"
+                          href="/SAUDI-VisaStamping/"
                           className={`nav-link ${
-                            currentPath == "/SAUDIVisaStamping/" && "active"
+                            currentPath == "/SAUDI-VisaStamping/" && "active"
                           }`}
                         >
                         Saudi Visa Stamping
@@ -303,26 +303,15 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/KUWAITVisaStamping/"
+                          href="/KUWAIT-VisaStamping/"
                           className={`nav-link ${
-                            currentPath == "/KUWAITVisaStamping/" && "active"
+                            currentPath == "/KUWAIT-VisaStamping/" && "active"
                           }`}
                         >
                         Kuwait Visa Stamping
                         </Link>
                       </li>
                     </ul>
-                  </li>
-
-                  <li className="nav-item">
-                    <Link
-                      href="/blog/"
-                      className={`nav-link ${
-                        currentPath == "/blog/" && "active"
-                      }`}
-                    >
-                      Blog
-                    </Link>
                   </li>
 
                   <li className="nav-item">
