@@ -28,7 +28,7 @@ export default function CaseStudies3() {
 
       <Choose />
 
-      <QATARembassy />
+      <QATARembassy />  
 
       <StartQatar/>
 
