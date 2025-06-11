@@ -19,9 +19,15 @@ export default function Home() {
 
       <HeroBanner />
 
+      <AboutUs />
+
+
       <Features />
 
-      <AboutUs />
+      
+      
+
+      
 
       <div className="bg-gradient-color">
 
