@@ -125,9 +125,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/marriage-attestation/"
+                          href="/Marriage-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/marriage-attestation/" && "active"
+                            currentPath == "/Marriage-Attestation/" && "active"
                           }`}
                         >
                           Marriage Certificate Attestation
@@ -136,9 +136,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/bachelorhood-attestation/"
+                          href="/Bachelorhood-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/bachelorhood-attestation/" && "active"
+                            currentPath == "/Bachelorhood-Attestation/" && "active"
                           }`}
                         >
                           Bachelorhood Certificate Attestation
@@ -148,9 +148,9 @@ const Navbar= () => {
                     
                       <li className="nav-item">
                         <Link
-                          href="/business-attestation/"
+                          href="/Business-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/business-attestation/" && "active"
+                            currentPath == "/Business-Attestation/" && "active"
                           }`}
                         >
                       Business Document Attestation
@@ -158,9 +158,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/certificate-attestation/"
+                          href="/Certificate-Attestation/"
                           className={`nav-link ${
-                            currentPath == "/certificate-attestation/" && "active"
+                            currentPath == "/Certificate-Attestation/" && "active"
                           }`}
                         >
                           Certificate Attestation

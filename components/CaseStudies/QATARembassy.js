@@ -23,11 +23,11 @@ const QATARAttestation = () => {
                   height={78}
                 />
                 <h3>
-                  <Link href="/case-studies/3/UAE">UAE Embassy</Link>
+                  <Link href="/Uae-Embassy">UAE Embassy</Link>
                 </h3>
                 <p>UAE Embassy attestation is the official verification of foreign documents for legal use
                    in the UAE.</p>
-                <Link href="/case-studies/3/UAE" className="default-btn">
+                <Link href="/Uae-Embassy" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Read More
                 </Link>
               </div>
@@ -44,11 +44,11 @@ const QATARAttestation = () => {
                   height={78}
                 />
                 <h3>
-                  <Link href="/case-studies/3/SAUDI">Saudi Embassy</Link>
+                  <Link href="/Saudi-Embassy">Saudi Embassy</Link>
                 </h3>
                 <p>Saudi Embassy attestation is the process of authenticating foreign documents for legal 
                   use in Saudi Arabia.</p>
-                <Link href="/case-studies/3/SAUDI" className="default-btn">
+                <Link href="/Saudi-Embassy" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Read More
                 </Link>
               </div>
@@ -63,12 +63,12 @@ const QATARAttestation = () => {
                   height={78}
                 />
                 <h3>
-                  <Link href="/case-studies/3/KUWAIT">Kuwait Embassy </Link>
+                  <Link href="/Kuwait-Embassy">Kuwait Embassy </Link>
                 </h3>
                 <p>Kuwait Embassy attestation is the process of authenticating foreign documents for
                    legal use in Kuwait.
                 </p>
-                <Link href="/case-studies/3/KUWAIT" className="default-btn">
+                <Link href="/Kuwait-Embassy" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Read More
                 </Link>
      </div>
