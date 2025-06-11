@@ -24,11 +24,6 @@ export default function Home() {
 
       <Features />
 
-      
-      
-
-      
-
       <div className="bg-gradient-color">
 
         <PartnerArea />
