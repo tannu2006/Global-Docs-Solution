@@ -57,7 +57,7 @@ body {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  color: var(--blackColor);
+  color: #040e1a;
 }
 
 a {
@@ -3383,7 +3383,7 @@ Contact Area CSS
 Footer Area CSS
 =================================================*/
 .footer-area {
-  background-color: #f9f9f9;
+  background-image: url(/images/footer-bgimage.jpg);
   padding-top: 100px;
 }
 
@@ -3532,7 +3532,7 @@ Footer Area CSS
 }
 .single-footer-widget .quick-links li a {
   display: inline-block;
-  color: var(--optionalColor);
+  color:var(--optionalColor);
 }
 .single-footer-widget .quick-links li a:hover {
   color: var(--mainColor);
@@ -6742,7 +6742,7 @@ Footer Area CSS
   font-size: 14px;
 }
 .footer-style-area .single-footer-widget h3 {
-  color: var(--whiteColor);
+  color:yellow !important;
 }
 .footer-style-area .single-footer-widget .services-links li a {
   color: var(--whiteColor);

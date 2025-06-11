@@ -18,22 +18,13 @@ const Footer = () => {
                     height={41}
                   />
                 </Link>
-
-                <div className="newsletter-form">
-                  <p>SUBSCRIBE TO OUR NEWSLETTER</p>
-                  <form data-toggle="validator">
-                    <input
-                      type="email"
-                      className="input-newsletter"
-                      placeholder="Enter your email"
-                      name="EMAIL"
-                      required
-                    />
-                    <button type="submit">
-                      Subscribe Now <i className="ri-send-plane-line"></i>
-                    </button>
-                  </form>
-                </div>
+                <p>
+                  Established in 2011, Global Docs Services has grown into a trusted
+                   name in document attestation, apostille, and visa services. With 
+                   over 13 years of experience, we specialize in simplifying the complex 
+                   process of legalizing documents for use worldwide.
+                </p>
+                <a class="default-btn" href="/about-us/"><span class="ri-arrow-right-s-line"></span>More About Us</a>
 
                 <ul className="social-links">
                   <li>
@@ -81,18 +72,20 @@ const Footer = () => {
                 <h3>Services</h3>
                 <ul className="services-links">
                   <li>
-                    <Link href="/certificate-attestation">Certificate Attestation</Link>
+                    <Link href="/Apostille-Services">Apostille Services</Link>
                   </li>
                   <li>
-                    <Link href="/bachelorhood-attestation">Bachelorhood Attestation</Link>
+                    <Link href="/Visa-Services">Visa Services</Link>
                   </li>
                   <li>
-                    <Link href="/business-attestation">Business Attestation</Link>
+                    <Link href="/MEA-Attestation">Attestation</Link>
                   </li>
                   <li>
-                  <Link href="/marriage-attestation">Marriage Attestation</Link>
+                  <Link href="/UAE-EmbassyAttestation">Embassy Attestation</Link>
                   </li>
-                 
+                 <li>
+                  <Link href="/UAE-VisaStamping">Visa Stamping</Link>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -108,19 +101,28 @@ const Footer = () => {
                     <Link href="/about-us">About Us</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/UAE">UAE Embassy Attestation</Link>
+                    <Link href="/UAE-EmbassyAttestation">UAE Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/SAUDI"> Saudi Embassy Attestation</Link>
+                    <Link href="/SAUDI-EmbassyAttestation"> Saudi Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/QATAR">Qatar Embassy Attestation</Link>
+                    <Link href="/QATAR-EmbassyAttestation">Qatar Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/case-studies/3/KUWAIT">Kuwait Embassy Attestation</Link>
+                    <Link href="/KUWAIT-EmbassyAttestion">Kuwait Embassy Attestation</Link>
                   </li>
                   <li>
-                    <Link href="/blog">Our News</Link>
+                    <Link href="/UAE-VisaStamping">UAE Visa Stamping</Link>
+                  </li>
+                  <li>
+                    <Link href="/SAUDI-VisaStamping"> Saudi Visa Stamping</Link>
+                  </li>
+                  <li>
+                    <Link href="/QATAR-VisaStamping">Qatar Visa Stamping</Link>
+                  </li>
+                  <li>
+                    <Link href="/KUWAIT-VisaStamping">Kuwait Visa Stamping</Link>
                   </li>
                   <li>
                     <Link href="/contact">Contact Us</Link>
@@ -133,16 +135,26 @@ const Footer = () => {
               <div className="single-footer-widget">
                 <h3>Contact Info</h3>
                 <ul className="footer-contact-info">
-                  <li>Address: 2750, Quadra Street Victoria, Canada</li>
                   <li>
-                    Email: <a href="mailto:hello@lofi.com">hello@lofi.com</a>
+                    7/38 Ground Floor,Dr. Sachdeva 
+                    lane,Opp. MGM Society, Ansari Road,
+                    Daryaganj,  New Delhi-110002 .
                   </li>
                   <li>
-                    Phone: <a href="tel:+44587154756">+44 587 154756</a>
+                   Shop No. 01 Karim Manzil Jail 
+                   Road Near Habib Hospital South 
+                   Umerkhadi Dongari MUMBAI – 400009
                   </li>
                   <li>
-                    Fax: <a href="tel:+44587154756">+55 58715 4756</a>
+                    Email: <a href="mailto:Info@globaldocs.in">Info@globaldocs.in</a>
+                    <br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="mailto:Info@globaldocs.in">Info@globaldocs.in</a>
                   </li>
+                  <li>
+                    Phone: <a href="tel:+91 99118 00116">+91 99118 00116</a>
+                  </li>
+
                 </ul>
               </div>
             </div>
@@ -154,13 +166,13 @@ const Footer = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-sm-6 col-md-6">
                 <p>
-                  &copy; <strong>Lofi</strong> is Proudly Owned by{" "}
+                  &copy; <strong>2025 Global Docs Solution.</strong> All Rights Reserved.{" "}
                   <a
                     href="https://envytheme.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    EnvyTheme
+                  
                   </a>
                 </p>
               </div>

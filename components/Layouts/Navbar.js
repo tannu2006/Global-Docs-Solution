@@ -89,7 +89,7 @@ const Navbar= () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="#" className="dropdown-toggle nav-link">
+                    <Link href="Apostille-Services" className="dropdown-toggle nav-link">
                     Services
                     </Link>
 
@@ -118,7 +118,7 @@ const Navbar= () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="#" className="dropdown-toggle nav-link">
+                    <Link href="MEA-Attestation" className="dropdown-toggle nav-link">
                     Attestation 
                     </Link>
 
@@ -215,7 +215,7 @@ const Navbar= () => {
 
                   <li className="nav-item">
                     <Link
-                      href="#"
+                      href="UAE-EmbassyAttestation"
                       className={'dropdown-toggle nav-link'}
                     >
                       Embassy Attestation
@@ -265,7 +265,7 @@ const Navbar= () => {
                   </li>
                    <li className="nav-item">
                     <Link
-                      href="#"
+                      href="UAE-VisaStamping"
                       className="dropdown-toggle nav-link"
                     >
                       Visa Stamping
