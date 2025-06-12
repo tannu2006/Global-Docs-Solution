@@ -307,10 +307,12 @@ const Visa= () => {
                         <div className="row justify-content-center">
                           <div className="col-lg-4 col-md-6">
                             <div className="single-feedback-box with-boxshadow">
-              <h3>Tourist Visa</h3>
-                   <p>5-15 days</p>
-                    
-                
+                              <h3>
+                                Tourist Visa
+                              </h3>
+                              <p>
+                                5-15 days
+                              </p>
                             </div>
                           </div>
                           <div className="col-lg-4 col-md-6">
