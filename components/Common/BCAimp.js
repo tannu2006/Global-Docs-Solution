@@ -8,66 +8,30 @@ const NewsletterForm = () => {
           <div className="subscribe-inner">
             <span className="sub-title">Need For Bachelorhood Certificate Attestation</span>
             <h2>Why is Bachelorhood Certificate Attestation Important?</h2>
-    
 
-            <form className="newsletter-form">
-               
-              <input 
-                type="text"
-                className="input-newsletter"
-                value="Marriage visa applications" readOnly 
-               /> 
-              
-            </form> 
-              
-              <form className="newsletter-form">
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Overseas marriage registration" readOnly
-               /> 
-             
-              </form> 
+            <div className="newsletter-form">
+              <div className="input-newsletter">Marriage visa applications</div>
+            </div>
 
-              
-              <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Immigration and residency processing" readOnly
-               />
-              
-              </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Overseas marriage registration</div>
+            </div>
 
-               <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Legal proceedings " readOnly
-               />
-              
-              </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Immigration and residency processing</div>
+            </div>
 
-              <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="  Employment in specific regions" readOnly
-               />
-               
-              </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Legal proceedings</div>
+            </div>
 
-              <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Adoption and Sponsorship" readOnly
-               /> 
-                
-              </form>
-              
-              
-            
+            <div className="newsletter-form">
+              <div className="input-newsletter">Employment in specific regions</div>
+            </div>
+
+            <div className="newsletter-form">
+              <div className="input-newsletter">Adoption and Sponsorship</div>
+            </div>
           </div>
         </div>
       </div>
