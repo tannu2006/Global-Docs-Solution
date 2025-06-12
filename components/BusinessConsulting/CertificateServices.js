@@ -4,7 +4,7 @@ import { Pagination, Autoplay } from "swiper/modules";
 import Link from "next/link";
 import Image from "next/image";
 
-const OurServicesCopy = () => {
+const CertificateServices = () => {
   return (
     <>
       <div className="services-area ptb-100">
@@ -45,13 +45,13 @@ const OurServicesCopy = () => {
                     height={78}
                   />
                   <h2>
-                    <Link href="/marriage-attestation">Marriage  Attestation</Link>
+                    <Link href="/Marriage-Attestation">Marriage  Attestation</Link>
                   </h2>
                 </div>
                 <p>Marriage certificate attestation verifies the authenticity of a marriage certificate for use in
                    foreign countries.</p>
               
-                <Link href="/marriage-attestation" className="default-btn">
+                <Link href="/Marriage-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -67,13 +67,13 @@ const OurServicesCopy = () => {
                     height={78}
                   />
                   <h2>
-                    <Link href="/bachelorhood-attestation">Bachelorhood  Attestation</Link>
+                    <Link href="/Bachelorhood-Attestation">Bachelorhood  Attestation</Link>
                   </h2>
                 </div>
                 <p>Bachelorhood certificate attestation authenticates a bachelor's degree
                    for use in foreign countries.</p>
               
-                <Link href="/bachelorhood-attestation" className="default-btn">
+                <Link href="/Bachelorhood-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -89,12 +89,12 @@ const OurServicesCopy = () => {
                     height={78}
                   />
                   <h2>
-                    <Link href="/business-attestation">Business  Attestation</Link>
+                    <Link href="/Business-Attestation">Business  Attestation</Link>
                   </h2>
                 </div>
                 <p>Business document attestation authenticates business documents for official use in
                    foreign countries.</p>
-                <Link href="/business-attestation" className="default-btn">
+                <Link href="/Business-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -108,4 +108,4 @@ const OurServicesCopy = () => {
   );
 };
 
-export default OurServicesCopy;
+export default CertificateServices;
