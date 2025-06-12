@@ -3376,3 +3376,56 @@
     max-width: 2070px;
   }
 }/*# sourceMappingURL=responsive.css.map */
+
+
+/**********************************************************/
+/* media query for screen smaller than 768px (mobile readibility)*/
+@media screen and (max-width: 768px) {
+  .input-newsletter {
+    font-size: 14px !important;
+    height: 45px !important;
+    padding-left: 10px;
+  }
+
+  .row-box {
+    font-size: 13px !important;
+    padding: 8px 5px;
+  }
+
+  .sub-title {
+    font-size: 14px !important;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  h2 {
+    font-size: 18px !important;
+    line-height: 1.4;
+    margin-bottom: 15px;
+  }
+
+  .newsletter-form {
+    margin-bottom: 20px;
+  }
+}
+/*********************************************************/
+/*******FOR MAdoc*************/
+/* media query for screen smaller than 768px (mobile readibility) */
+@media screen and (max-width: 768px) {
+  .quote-area input.form-control {
+    font-size: 14px;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .quote-area .form-group {
+    margin-bottom: 15px;
+  }
+
+  .quote-area .col-lg-5,
+  .quote-area .col-md-6 {
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}

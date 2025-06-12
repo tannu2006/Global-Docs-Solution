@@ -8,67 +8,30 @@ const NewsletterForm = () => {
           <div className="subscribe-inner">
             <span className="sub-title">Need For Business Document Attestation</span>
             <h2>Why is Business Document Attestation Important?</h2>
-    
 
-            <form className="newsletter-form">
-               
-              <input 
-                type="text"
-                className="input-newsletter"
-                value="Register a company abroad" readOnly 
-               /> 
-      
-            </form> 
-              
-              <form className="newsletter-form">
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Participate in foreign tenders or contracts " readOnly
-               /> 
-            </form> 
+            <div className="newsletter-form">
+              <div className="input-newsletter">Register a company abroad</div>
+            </div>
 
-              
-              <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Open an overseas bank account" readOnly
-               />
-               
+            <div className="newsletter-form">
+              <div className="input-newsletter">Participate in foreign tenders or contracts</div>
+            </div>
 
-              </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Open an overseas bank account</div>
+            </div>
 
-              
-            <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Apply for business visas or investor permits" readOnly
-               /> 
-              
-            </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Apply for business visas or investor permits</div>
+            </div>
 
-                        <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Establish trade relationships or export/import" readOnly
-               /> 
-              
-            </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Establish trade relationships or export/import</div>
+            </div>
 
-                        <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Fulfill legal compliance for international partnerships" readOnly
-               /> 
-              
-            </form>
-
-
-
+            <div className="newsletter-form">
+              <div className="input-newsletter">Fulfill legal compliance for international partnerships</div>
+            </div>
           </div>
         </div>
       </div>
