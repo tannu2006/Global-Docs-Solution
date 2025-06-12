@@ -433,9 +433,16 @@ Header Area CSS
       
       border-bottom: 0.5px solid #69c1be; /* Yeh line draw karega */
     }
+    .background1{
+  background-color: #029894;
+  height: 40px;
+  color: white;
+}
 .background {
   background-color: #029894;
-  height: auto;
+  height: 40px;
+  margin-top:30px ;
+  color: white;
 }
 
     .countList .wrap .stepBox .stepWrap {
@@ -491,6 +498,7 @@ div {
   border-radius: 8px;   
   
 }
+
 .navbar-area {
   background-color: transparent;
 }
