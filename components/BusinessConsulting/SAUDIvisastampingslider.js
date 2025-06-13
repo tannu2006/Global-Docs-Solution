@@ -10,7 +10,7 @@ const MEAattestationslider = () => {
       <div className="home-area">
       </div>
       <br/>
-      <div className="banner-image">
+      <div className="banner-image1">
         <Swiper
           slidesPerView={1}
           navigation={true}
@@ -32,7 +32,7 @@ const MEAattestationslider = () => {
                         <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
                       </Link>
                     </div>
-                  </div>
+                  </div>                 
                 </div>
               </div>
             </div>

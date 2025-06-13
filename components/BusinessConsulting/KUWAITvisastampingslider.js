@@ -10,7 +10,7 @@ const MEAattestationslider = () => {
       <div className="home-area">
       </div>
       <br/>
-      <div className="banner-image">
+      <div className="banner-image1">
         <Swiper
           slidesPerView={1}
           navigation={true}

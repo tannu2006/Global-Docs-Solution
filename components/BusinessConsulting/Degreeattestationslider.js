@@ -7,23 +7,24 @@ import Image from "next/image";
 const Degreeattestationslider = () => {
   return (
     <>
-    <div className="home-area"></div>
-     <br/>
+      <div className="home-area"></div>
+      <br/>
       <div className="banner-image">
         <Swiper
           slidesPerView={1}
           navigation={true}
           modules={[Navigation]}
           className="home-slides"
-        >
+          >
           <SwiperSlide>
             <div className="banner-item">
               <div className="container">
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">Secure & Fast Degree Attestation Services</span>
-                      <h1>
+                      <br/>
+                      <br/>
+                      <h1 className="text-colour">
                       Authenticate Your Degree for International & Government Use
                       </h1>
                       <Link href="/contact" className="default-btn style-two">
@@ -31,17 +32,10 @@ const Degreeattestationslider = () => {
                       </Link>
                     </div>
                   </div>
-                  <div className="col-lg-6 col-md-12">
-                    <div className="home-image">
-                     
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
           </SwiperSlide>
-
-         
         </Swiper>
       </div>
     </>

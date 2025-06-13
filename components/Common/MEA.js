@@ -23,18 +23,16 @@ const GetStarted = () => {
                 />
               </div>
             </div>
-
             <div className="col-lg-6 col-md-12">
               <div className="get-started-content">
                 <span className="sub-title">Secure & Fast MEA Attestation Services</span>
                 <h3>
-                Get Your Documents Attested by the Ministry of External Affairs (MEA)
+                  Get Your Documents Attested by the Ministry of External Affairs (MEA)
                 </h3>
                 <p>
-                Ensure authenticity and legal acceptance of your documents with our MEA attestation services. We provide a smooth, reliable, and 
-                efficient process to meet all your attestation needs.
+                  Ensure authenticity and legal acceptance of your documents with our MEA attestation services. We provide a smooth, reliable, and 
+                  efficient process to meet all your attestation needs.
                 </p>
-
                 <Link href="/contact" className="default-btn style-two">
                   <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
                 </Link>

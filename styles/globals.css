@@ -3766,8 +3766,41 @@ Main Banner Area CSS
  z-index: 1;
   position: relative;
   padding-top: 120px;
-  background-color: #f9f9f9;
-  background-image: url(/images/14.png);
+  
+  background-image: url(/images/bannerimage1.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+.banner-image1 {
+ z-index: 1;
+  position: relative;
+  padding-top: 120px;
+ 
+  background-image: url(/images/bannerimage2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+.banner-image3 {
+ z-index: 1;
+  position: relative;
+  padding-top: 120px;
+  
+  background-image: url(/images/bannerimage4.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+.banner-image2 {
+ z-index: 1;
+  position: relative;
+  padding-top: 120px;
+  
+  background-image: url(/images/bannerimage3.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
