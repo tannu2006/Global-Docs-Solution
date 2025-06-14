@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import HeroBanner from '@/components/TechnologySolutions/HeroBanner'
 import Features from '@/components/TechnologySolutions/Features'
-import AboutUs from '@/components/TechnologySolutions/AboutUs'
+import AboutUss from '@/components/CryptoStartup/AboutUss'
 import PartnerArea from '@/components/TechnologySolutions/PartnerArea'
 import OurServices from '@/components/TechnologySolutions/OurServices'
 import Process from '@/components/TechnologySolutions/Process'
@@ -19,7 +19,7 @@ export default function Home() {
 
       <HeroBanner />
 
-      <AboutUs />
+      <AboutUss />
 
 
       <Features />

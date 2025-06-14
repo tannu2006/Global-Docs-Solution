@@ -21,15 +21,6 @@ const AboutUs = () => {
                   width={600}
                   height={617}
                 />
-
-                <div className="shape5">
-                  <Image
-                    src="/images/shape/shape5.png"
-                    alt="image"
-                    width={90}
-                    height={74}
-                  />
-                </div>
               </div>
             </div>
 
@@ -38,8 +29,12 @@ const AboutUs = () => {
                 <span className="sub-title">ABOUT US</span>
                 <h2>We Are Award Winning Digital Marketing Company</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Your Trusted Partner in Documentation & Attestation Services 
+                  Founded in 2011, Global Docs Solution has been dedicated to providing 
+                  professional and reliable documentation and attestation services. With over 
+                  a decade of experience, we ensure a smooth, transparent process tailored to each client’s 
+                  needs.We proudly serve clients across UAE, Qatar, Kuwait, and Saudi Arabia, offering fast and 
+                  dependable support for personal and commercial documentation.
                 </p>
 
                 <ul className="features-list">
@@ -53,7 +48,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Brand Strategy</span>
+                      <span></span>
                     </div>
                   </li>
                   <li>
@@ -66,7 +61,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Expert Team</span>
+                      <span>Fast & Secure Process</span>
                     </div>
                   </li>
                   <li>
@@ -79,7 +74,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Fast Delivery</span>
+                      <span>Transparent Communication</span>
                     </div>
                   </li>
                   <li>
@@ -92,7 +87,7 @@ const AboutUs = () => {
                           height={48}
                         />
                       </div>
-                      <span>Ongoing Report</span>
+                      <span>Expert Assistance at Every Step</span>
                     </div>
                   </li>
                 </ul>
@@ -103,15 +98,6 @@ const AboutUs = () => {
               </div>
             </div>
           </div>
-        </div>
-
-        <div className="shape6">
-          <Image
-            src="/images/shape/shape6.png"
-            alt="image"
-            width={106}
-            height={113}
-          />
         </div>
       </div>
     </>
