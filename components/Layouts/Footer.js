@@ -24,7 +24,7 @@ const Footer = () => {
                    over 13 years of experience, we specialize in simplifying the complex 
                    process of legalizing documents for use worldwide.
                 </p>
-                <a class="default-btn" href="/about-us/"><span class="ri-arrow-right-s-line"></span>More About Us</a>
+                <a className="default-btn" href="/about-us/"><span className="ri-arrow-right-s-line"></span>More About Us</a>
 
                 <ul className="social-links">
                   <li>

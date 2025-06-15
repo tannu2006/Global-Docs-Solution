@@ -7,6 +7,7 @@ const AboutUs = () => {
     <>
       <div className="about-area ptb-100 overflow-hidden">
         <div className="container">
+          
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div

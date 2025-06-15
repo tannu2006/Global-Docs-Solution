@@ -1,47 +1,93 @@
-import React from 'react'
+import React from "react";
+import Image from "next/image";
 
-const PartnerArea = () => {
+const Features = () => {
   return (
     <>
-      <div className="partner-area pt-100">
+      <div className="features-area pt-100 pb-70">
         <div className="container">
-          <div className="section-title style-two">
-            <div className="row align-items-center">
-              <div className="col-lg-5 col-md-12">
-                <span className="sub-title">Who We Are?</span>
-                <h2>
-                  A Trusted Partner <br /> For Ambitious Brands
-                </h2>
+          <div className="section-title">
+            <span className="sub-title">Who We Are</span>
+            
+          </div>
+
+          <div className="row justify-content-center">
+            <div
+              className="col-lg-4 col-sm-6 col-md-6"
+              data-aos="fade-up"
+              data-aos-delay="60"
+              data-aos-duration="600"
+              data-aos-once="true"
+            >
+              <div className="single-features-box">
+                <div className="icon">
+                  <Image
+                    src="/images/icon/icon1.png"
+                    alt="image"
+                    width={76}
+                    height={76}
+                  />
+                </div>
+                <h3>Who is Global Docs?</h3>
+                <p>
+                  Since 2011, Global Docs Services has been helping people and businesses get their
+                   documents attested and stamped for visas across the UAE, Qatar, Saudi Arabia, and Kuwait — quickly and reliably
+                </p>
               </div>
-              <div className="col-lg-7 col-md-12">
+            </div>
+
+            <div
+              className="col-lg-4 col-sm-6 col-md-6"
+              data-aos="fade-up"
+              data-aos-delay="80"
+              data-aos-duration="800"
+              data-aos-once="true"
+            >
+              <div className="single-features-box">
+                <div className="icon">
+                  <Image
+                    src="/images/icon/icon2.png"
+                    alt="image"
+                    width={76}
+                    height={76}
+                  />
+                </div>
+                <h3>What Does Do?</h3>
                 <p>
-                  Since 2011, Global Docs Services has built a reputation as a trusted
-                   partner for document attestation and visa stamping. We're here to 
-                   assist individuals and businesses in getting their documents officially
-                    verified so they can use them smoothly in countries like the UAE, Qatar, 
-                    Saudi Arabia, and Kuwait.
+                  With over 10 years of experience, we handle attestation and apostille services
+                   for educational, personal, and business documents with the utmost care and accuracy.
                 </p>
+              </div>
+            </div>
+
+            <div
+              className="col-lg-4 col-sm-6 col-md-6"
+              data-aos="fade-up"
+              data-aos-delay="100"
+              data-aos-duration="800"
+              data-aos-once="true"
+            >
+              <div className="single-features-box">
+                <div className="icon">
+                  <Image
+                    src="/images/icon/icon3.png"
+                    alt="image"
+                    width={76}
+                    height={76}
+                  />
+                </div>
+                <h3>where Located?</h3>
                 <p>
-                 With over a decade of experience, we handle everything from embassy attestation 
-                 and MEA and apostille services to authenticating educational, personal, and 
-                 commercial papers. Our process is fast and reliable, managed by a professional 
-                 team that understands how important accuracy and trust are when it comes to your documents.
-                </p>
-                <p>
-                 We have offices in New Delhi and Mumbai, and we work with clients all over India and
-                  in the Gulf, Asia, the USA, and the UK. Our goal is to help you every step of the way
-                 — from gathering your documents to delivering the final copies — so you can focus on
-                    your plans while we handle the paperwork for you.
+                  Located in Delhi and Mumbai, we serve clients all over India and around the world, taking care of
+                   your document needs from start to finish so you can focus on your next move with peace of mind.
                 </p>
               </div>
             </div>
           </div>
-
-         
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default PartnerArea
+export default Features;
