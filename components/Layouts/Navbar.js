@@ -87,36 +87,26 @@ const Navbar= () => {
                     About
                     </Link>
                   </li>
-
                   <li className="nav-item">
-                    <Link href="Apostille-Services" className="dropdown-toggle nav-link">
-                    Services
+                    <Link
+                      href="Apostille-Services/"
+                      className={`nav-link ${
+                        currentPath == "Apostille-Services/" && "active"
+                      }`}
+                    >
+                    Apostille Services
                     </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/Apostille-Services/"
-                          className={`nav-link ${
-                            currentPath == "/Apostille-Services/" && "active"
-                          }`}
-                        >
-                          Apostille Services
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/Visa-Services/"
-                          className={`nav-link ${
-                            currentPath == "/Visa-Services/" && "active"
-                          }`}
-                        >
-                          Visa Services
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
-
+                  <li className="nav-item">
+                    <Link
+                      href="/Visa-Services/"
+                      className={`nav-link ${
+                        currentPath == "/Visa-Services/" && "active"
+                      }`}
+                    >
+                     Visa Services
+                    </Link>
+                  </li>
                   <li className="nav-item">
                     <Link href="MEA-Attestation" className="dropdown-toggle nav-link">
                     Attestation 
