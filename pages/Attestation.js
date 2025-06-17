@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import PageTitle from '@/components/Common/PageTitle'
-import ServiceDetailsContent from '@/components/Services/ServiceDetailsContent'
+import AttestationListt from '@/components/CybersecurityServices/AttestationListt'
 import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
 
@@ -10,10 +10,9 @@ export default function Details() {
     <>
       <Navbar />
 
-      <PageTitle homeText="Home" pageTitle="Service Details" />
+      <PageTitle homeText="Home" pageTitle="Attestation" />
 
-      <ServiceDetailsContent />
-
+      <AttestationListt/>
       <GetStarted />
 
       <Footer />

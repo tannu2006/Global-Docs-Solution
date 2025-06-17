@@ -108,7 +108,7 @@ const Navbar= () => {
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link href="MEA-Attestation" className="dropdown-toggle nav-link">
+                    <Link href="/Attestation/" className="dropdown-toggle nav-link">
                     Attestation 
                     </Link>
 
