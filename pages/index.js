@@ -1,16 +1,13 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import HeroBanner from '@/components/TechnologySolutions/HeroBanner'
-import Features from '@/components/TechnologySolutions/Features'
 import AboutUss from '@/components/CryptoStartup/AboutUss'
-import PartnerArea from '@/components/TechnologySolutions/PartnerArea'
-import OurServices from '@/components/TechnologySolutions/OurServices'
-import Process from '@/components/TechnologySolutions/Process'
-import OurCaseStudies from '@/components/Common/OurCaseStudies'
-import TeamSlider from '@/components/Common/TeamSlider'
-import OurLatestBlog from '@/components/Common/OurLatestBlog'
+import VisaStampingList from '@/components/TechnologySolutions/VisaStampingList'
+import ApostilleAndVisaServices from '@/components/Common/ApostilleAndVisaSerices'
 import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
+import AttestationList from '@/components/CybersecurityServices/AttestationList'
+import EmbassyAttestationList from '@/components/BusinessConsulting/EmbassyAttestationList'
 
 export default function Home() {
   return (
@@ -21,24 +18,13 @@ export default function Home() {
 
       <AboutUss />
 
+      <ApostilleAndVisaServices/>
 
-      <Features />
+      <AttestationList/>
 
-      <div className="bg-gradient-color">
+      <EmbassyAttestationList/>
 
-        <PartnerArea />
-
-        <OurServices />
-
-        <Process />
-
-      </div>
-
-      <OurCaseStudies />
-
-      <TeamSlider />
-
-      <OurLatestBlog />
+      <VisaStampingList/>
 
       <GetStarted />
 
