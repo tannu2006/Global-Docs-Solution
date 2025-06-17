@@ -38,6 +38,8 @@ const Navbar= () => {
 
   return (
     <>
+     
+
       <header className="header-area">
         {/* TopHeader */}
         <TopHeader />

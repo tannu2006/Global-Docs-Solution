@@ -14,7 +14,7 @@ const GetStarted = () => {
                 data-aos="fade-up"
                 data-aos-duration="800"
                 data-aos-once="true"
-              >
+                >
                 <Image
                   src="/images/man.png"
                   alt="image"
@@ -23,19 +23,17 @@ const GetStarted = () => {
                 />
               </div>
             </div>
-
             <div className="col-lg-6 col-md-12">
               <div className="get-started-content">
                 <span className="sub-title">Quick & Reliable Birth Certificate Attestation</span>
                 <h3>
-                Ensure Legal Recognition of Your Birth Certificate
+                  Ensure Legal Recognition of Your Birth Certificate
                 </h3>
                 <p>
-                Get your birth certificate attested hassle-free for visa, 
-                immigration, and official purposes. We provide expert assistance for
-                 MEA, embassy, and notary attestation.
+                  Get your birth certificate attested hassle-free for visa, 
+                  immigration, and official purposes. We provide expert assistance for
+                  MEA, embassy, and notary attestation.
                 </p>
-
                 <Link href="/contact" className="default-btn style-two">
                   <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
                 </Link>

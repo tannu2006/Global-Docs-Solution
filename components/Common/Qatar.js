@@ -14,7 +14,7 @@ const Qatar = () => {
                 data-aos="fade-up"
                 data-aos-duration="800"
                 data-aos-once="true"
-              >
+                >
                 <Image
                   src="/images/man.png"
                   alt="image"
@@ -23,19 +23,17 @@ const Qatar = () => {
                 />
               </div>
             </div>
-
             <div className="col-lg-6 col-md-12">
               <div className="get-started-content">
                 <span className="sub-title">Fast & Reliable Qatar Visa Stamping Services</span>
                 <h3>
-                Seamless Visa Stamping for Your Qatar Journey
+                  Seamless Visa Stamping for Your Qatar Journey
                 </h3>
                 <p>
-                Get your Qatar visa stamped without any delays! We 
-                handle all the paperwork and formalities to ensure a smooth and efficient 
-                process, saving you time and effort.
+                  Get your Qatar visa stamped without any delays! We 
+                  handle all the paperwork and formalities to ensure a smooth and efficient 
+                  process, saving you time and effort.
                 </p>
-
                 <Link href="/contact" className="default-btn style-two">
                   <span className="ri-arrow-right-s-line"></span>Start Your Stamping Process Now
                 </Link>

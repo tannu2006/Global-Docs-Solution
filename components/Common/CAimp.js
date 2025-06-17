@@ -8,75 +8,34 @@ const NewsletterForm = () => {
           <div className="subscribe-inner">
             <span className="sub-title">Need For Certificate Attestation</span>
             <h2>Why is Certificate Attestation Important?</h2>
-    
 
-            <form className="newsletter-form">
-               
-              <input 
-                type="text"
-                className="input-newsletter"
-                value="Employment and Work visa applications" readOnly 
-               /> 
-      
-            </form> 
-              
-              <form className="newsletter-form">
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Higher education abroad " readOnly
-               /> 
-            </form> 
+            <div className="newsletter-form">
+              <div className="input-newsletter">Employment and Work visa applications</div>
+            </div>
 
-              
-              <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value=" Immigration and PR processing" readOnly
-               />
-               
+            <div className="newsletter-form">
+              <div className="input-newsletter">Higher education abroad</div>
+            </div>
 
-              </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Immigration and PR processing</div>
+            </div>
 
-              
-            <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Marriage registration abroad" readOnly
-               /> 
-              
-            </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Marriage registration abroad</div>
+            </div>
 
-            <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Family/Residence visa" readOnly
-               /> 
-              
-            </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Family/Residence visa</div>
+            </div>
 
-            <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Opening a company branch abroad" readOnly
-               /> 
-              
-            </form>
+            <div className="newsletter-form">
+              <div className="input-newsletter">Opening a company branch abroad</div>
+            </div>
 
-            <form className="newsletter-form"> 
-                <input 
-                type="text"
-                className="input-newsletter"
-                value="Business, legal, or court matters overseas" readOnly
-               /> 
-              
-            </form>
-
-
+            <div className="newsletter-form">
+              <div className="input-newsletter">Business, legal, or court matters overseas</div>
+            </div>
 
           </div>
         </div>

@@ -14,7 +14,7 @@ const Kuwait = () => {
                 data-aos="fade-up"
                 data-aos-duration="800"
                 data-aos-once="true"
-              >
+                >
                 <Image
                   src="/images/man.png"
                   alt="image"
@@ -23,19 +23,17 @@ const Kuwait = () => {
                 />
               </div>
             </div>
-
             <div className="col-lg-6 col-md-12">
               <div className="get-started-content">
                 <span className="sub-title">Quick & Hassle-Free Kuwait Visa Stamping</span>
                 <h3>
-                Reliable & Efficient Visa Stamping Services for Kuwait
+                  Reliable & Efficient Visa Stamping Services for Kuwait
                 </h3>
                 <p>
-                Ensure a smooth Kuwait visa stamping process with our 
-                expert services. We take care of all documentation and formalities, 
-                making your journey stress-free and convenient.
+                  Ensure a smooth Kuwait visa stamping process with our 
+                  expert services. We take care of all documentation and formalities, 
+                  making your journey stress-free and convenient.
                 </p>
-
                 <Link href="/contact" className="default-btn style-two">
                   <span className="ri-arrow-right-s-line"></span>Get Started Now
                 </Link>

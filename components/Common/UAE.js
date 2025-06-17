@@ -14,7 +14,7 @@ const UAE = () => {
                 data-aos="fade-up"
                 data-aos-duration="800"
                 data-aos-once="true"
-              >
+                >
                 <Image
                   src="/images/man.png"
                   alt="image"
@@ -23,7 +23,6 @@ const UAE = () => {
                 />
               </div>
             </div>
-
             <div className="col-lg-6 col-md-12">
               <div className="get-started-content">
                 <span className="sub-title">Get Your UAE Stamped Hassle-Free</span>
@@ -31,11 +30,10 @@ const UAE = () => {
                   Reliable,Fast & Secure Visa Stamping Services
                 </h3>
                 <p>
-                Ensure a smooth visa stamping process with our expert services. 
-                We handle all the documentation and 
-                formalities so you can focus on your journey
+                  Ensure a smooth visa stamping process with our expert services. 
+                  We handle all the documentation and 
+                  formalities so you can focus on your journey
                 </p>
-
                 <Link href="/contact" className="default-btn style-two">
                   <span className="ri-arrow-right-s-line"></span>Start Your Process Now
                 </Link>
