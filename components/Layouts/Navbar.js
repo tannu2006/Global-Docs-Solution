@@ -125,9 +125,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/MEA-Attestation/"
+                          href="/MEA-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/MEA-Attestation/" && "active"
+                            currentPath == "/MEA-Attestations/" && "active"
                           }`}
                         >
                           MEA Attestation
@@ -136,9 +136,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/Apostille-Attestation/"
+                          href="/Apostille-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Apostille-Attestation/" && "active"
+                            currentPath == "/Apostille-Attestations/" && "active"
                           }`}
                         >
                           Apostille Attestation
