@@ -9,7 +9,7 @@ import Process from '@/components/TechnologySolutions/Process'
 import OurCaseStudies from '@/components/Common/OurCaseStudies'
 import TeamSlider from '@/components/Common/TeamSlider'
 import OurLatestBlog from '@/components/Common/OurLatestBlog'
-import GetStarted from '@/components/Common/GetStarted'
+import GetStarted from '@/components/Common/GetStartwithus'
 import Footer from '@/components/Layouts/Footer'
 
 export default function DigitalMarketing() {

@@ -38,6 +38,8 @@ const Navbar= () => {
 
   return (
     <>
+     
+
       <header className="header-area">
         {/* TopHeader */}
         <TopHeader />
@@ -98,7 +100,7 @@ const Navbar= () => {
                         <Link
                           href="/Apostille-Services/"
                           className={`nav-link ${
-                            currentPath == "/Apostille-Services" && "active"
+                            currentPath == "/Apostille-Service" && "active"
                           }`}
                         >
                            Apostille Services
@@ -267,7 +269,7 @@ const Navbar= () => {
                    
                    <li className="nav-item">
                     <Link
-                      href="UAE-VisaStamping"
+                      href="Visa-Stamping"
                       className="dropdown-toggle nav-link"
                     >
                       Visa Stamping
@@ -298,7 +300,7 @@ const Navbar= () => {
                           href="/SAUDI-VisaStamping/"
                           className={`nav-link ${
                             currentPath == "/SAUDI-VisaStamping/" && "active"
-                          }`}
+                          }`}mbmn
                         >
                         Saudi Visa Stamping
                         </Link>

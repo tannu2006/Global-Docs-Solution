@@ -2950,7 +2950,7 @@ Get Started Area CSS
   height: 590px;
   position: absolute;
   background-color: var(--whiteColor);
-  animation: border-transform 10s linear infinite alternate forwards;
+  /* animation: border-transform 10s linear infinite alternate forwards; */
 }
 
 .get-started-content {

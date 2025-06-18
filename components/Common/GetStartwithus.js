@@ -28,16 +28,16 @@ const GetStarted = () => {
               <div className="get-started-content">
                 <span className="sub-title">READY TO STARTED?</span>
                 <h2>
-                  Let&apos;s Talk Something <br /> Amazing Together
+                  Let us help you 
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                 Have questions or need assistance? Reach out to us—we're here to help
+                 with all your document and visa service needs.
+                  
                 </p>
 
                 <Link href="/contact" className="default-btn style-two">
-                  <span className="ri-arrow-right-s-line"></span>Get Started Now
+                  <span className="ri-arrow-right-s-line"></span>Contact US Now
                 </Link>
               </div>
             </div>

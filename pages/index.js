@@ -2,12 +2,9 @@ import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import HeroBanner from '@/components/TechnologySolutions/HeroBanner'
 import AboutUss from '@/components/CryptoStartup/AboutUss'
-import VisaStampingList from '@/components/TechnologySolutions/VisaStampingList'
-import ApostilleAndVisaServices from '@/components/Common/ApostilleAndVisaSerices'
-import GetStarted from '@/components/Common/GetStarted'
+import GetStartwithus from '@/components/Common/GetStartwithus'
 import Footer from '@/components/Layouts/Footer'
-import AttestationList from '@/components/CybersecurityServices/AttestationList'
-import EmbassyAttestationList from '@/components/BusinessConsulting/EmbassyAttestationList'
+import OURServicesList from '@/components/CybersecurityServices/OURServicesList'
 
 export default function Home() {
   return (
@@ -18,15 +15,9 @@ export default function Home() {
 
       <AboutUss />
 
-      <ApostilleAndVisaServices/>
+      <OURServicesList/>
 
-      <AttestationList/>
-
-      <EmbassyAttestationList/>
-
-      <VisaStampingList/>
-
-      <GetStarted />
+      <GetStartwithus/>
 
       <Footer />
     </>

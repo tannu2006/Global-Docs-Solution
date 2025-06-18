@@ -7,7 +7,7 @@ import WorkProcess from '@/components/Common/WorkProcess'
 import PartnerSlider from '@/components/Common/PartnerSlider';
 import PricingTable from '@/components/Pricing/PricingTable';
 import Faq from '@/components/Common/Faq';
-import GetStarted from '@/components/Common/GetStarted'
+import GetStarted from '@/components/Common/GetStartwithus'
 import Footer from '@/components/Layouts/Footer'
 
 export default function Services() {

@@ -4,7 +4,7 @@ import PageTitle from '@/components/Common/PageTitle'
 import PricingTable from '@/components/Pricing/PricingTable'
 import Faq from '@/components/Common/Faq'
 import ComparePlans from '@/components/Pricing/ComparePlans'
-import GetStarted from '@/components/Common/GetStarted'
+import GetStarted from '@/components/Common/GetStartwithus'
 import Footer from '@/components/Layouts/Footer'
 
 export default function Pricing() {
