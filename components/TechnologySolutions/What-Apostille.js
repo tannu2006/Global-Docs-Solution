@@ -12,13 +12,8 @@ const PartnerArea = () => {
                 <Image 
                 src="/images/blog/blog1.jpg" 
                 alt="blog" 
-                width={200} 
-                height={90} />
-                 <Image 
-                src="/images/blog/blog2.jpg" 
-                alt="blog" 
-                width={200} 
-                height={90} />
+                width={400} 
+                height={190} />
               </div>
               <div className="col-lg-7 col-md-12">
                 <h2>

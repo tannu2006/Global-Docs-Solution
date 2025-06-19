@@ -14,18 +14,18 @@ const PartnerArea = () => {
                 alt="blog" 
                 width={400} 
                 height={190} />
-                
+                 
               </div>
               <div className="col-lg-7 col-md-12">
                 <h2>
-                  What is a MEA services <br />
+                  What is a Degree services <br />
                 </h2>
                 <p>
-                  MEA (Ministry of External Affairs) attestation is a mandatory 
-                  process for verifying the authenticity of documents for 
-                  international use. Whether for a work visa, higher education, 
-                  migration, or business expansion, attested documents ensure 
-                  acceptance by foreign authorities.
+                  Diploma certificates are the process of verifying the reliability 
+                  of educational certificates for use abroad. Required for visa 
+                  applications, university education, employment and professional 
+                  licensing. The certificate is issued by the authorized institution 
+                  and confirms that the diploma is legally valid.
                 </p>
                 <Link href="/contact" className="default-btn style-two">
                     <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now

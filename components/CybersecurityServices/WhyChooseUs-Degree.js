@@ -11,20 +11,20 @@ const WhyChooseUs = () => {
               <div className="why-choose-us-content">
                
                 <h2>
-                   Why Choose Our ApostilleAttestation Services
+                   Why Choose Our Degree Attestation Services
                 </h2>
                 <ul className="list">
                   <li>
-                    <i className="ri-check-fill"></i><b>100% Genuine Apostille </b>Verified by the Ministry of External Affairs (MEA).
+                    <i className="ri-check-fill"></i><b>Quick & Hassle-Free Process </b>We handle all verifications and submissions.
                   </li>
                   <li>
-                    <i className="ri-check-fill"></i><b>Fast & Reliable Processing </b> Get documents attested without delays.
+                    <i className="ri-check-fill"></i><b>100% Genuine Attestation</b> Approved by government authorities & embassies.
                   </li>
                   <li>
-                    <i className="ri-check-fill"></i><b>Doorstep Pickup & Delivery </b>Pickup & delivery of documents for your convenience.
+                    <i className="ri-check-fill"></i><b>Doorstep Pickup & Delivery </b>No need to visit multiple offices.
                   </li>
                   <li>
-                    <i className="ri-check-fill"></i> <b>Secure & Trusted Service </b>Authorized and legally recognized attestation.
+                    <i className="ri-check-fill"></i> <b>Secure & Reliable Service </b>Trusted by thousands of customers.
                   </li>
                 </ul>
               </div>

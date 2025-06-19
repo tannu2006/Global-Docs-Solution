@@ -14,18 +14,17 @@ const PartnerArea = () => {
                 alt="blog" 
                 width={400} 
                 height={190} />
-                
+                 
               </div>
               <div className="col-lg-7 col-md-12">
                 <h2>
-                  What is a MEA services <br />
+                  What is a Birth services <br />
                 </h2>
                 <p>
-                  MEA (Ministry of External Affairs) attestation is a mandatory 
-                  process for verifying the authenticity of documents for 
-                  international use. Whether for a work visa, higher education, 
-                  migration, or business expansion, attested documents ensure 
-                  acceptance by foreign authorities.
+                  Birth certificate attestation is the process of verifying the authenticity 
+                  of a birth certificate for use in a foreign country. It is a mandatory 
+                  requirement for visa applications,
+                  higher education, employment, migration, and legal procedures abroad.
                 </p>
                 <Link href="/contact" className="default-btn style-two">
                     <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
