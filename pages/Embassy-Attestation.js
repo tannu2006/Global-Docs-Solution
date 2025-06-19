@@ -10,7 +10,7 @@ export default function CaseStudies3() {
     <>
       <Navbar />
 
-      <PageTitle homeText="Home" pageTitle="Case Studies 3" />
+      <PageTitle homeText="Home" pageTitle="Embassy Attestation" />
 
       <CaseStudiesCard3 />
 

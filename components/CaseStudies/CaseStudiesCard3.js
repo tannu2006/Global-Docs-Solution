@@ -8,12 +8,11 @@ const CaseStudiesCard3 = () => {
       <div className="case-studies-area bg-gradient-image pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">OUR CASE STUDIES</span>
-            <h2>Case Studies</h2>
+            <span className="sub-title">Embassy Attestation</span>
+            <h2>  What is Embassy Attestation?</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor <br />
-              incididunt ut labore et dolore magna aliqua.
+             We handle embassy attestation services efficiently, helping your documents 
+             meet the legal requirements of specific foreign embassies
             </p>
           </div>
 
@@ -27,58 +26,13 @@ const CaseStudiesCard3 = () => {
                   height={78}
                 />
                 <h3>
-                  <Link href="/case-studies/details">eLan Education</Link>
+                  <Link href="/UAE-EmbassyAttestation">UAE Embassy Attestation</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore rts magna rtt
-                  aliqua.
+                 UAE Embassy Attestation is the process of legalizing documents issued
+                 in your home country so that they are recognized by UAE government authorities
                 </p>
-                <Link href="/case-studies/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Read More
-                </Link>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-sm-6 col-md-6">
-              <div className="case-studies-box">
-                <Image
-                  src="/images/case-studies/case-studies5.png"
-                  alt="image"
-                  width={78}
-                  height={78}
-                />
-                <h3>
-                  <Link href="/case-studies/details">StartP Startup</Link>
-                </h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore rts magna rtt
-                  aliqua.
-                </p>
-                <Link href="/case-studies/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Read More
-                </Link>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-sm-6 col-md-6">
-              <div className="case-studies-box">
-                <Image
-                  src="/images/case-studies/case-studies6.png"
-                  alt="image"
-                  width={78}
-                  height={78}
-                />
-                <h3>
-                  <Link href="/case-studies/details">Edmo Marketing</Link>
-                </h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore rts magna rtt
-                  aliqua.
-                </p>
-                <Link href="/case-studies/details" className="default-btn">
+                <Link href="/UAE-EmbassyAttestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Read More
                 </Link>
               </div>
@@ -93,19 +47,41 @@ const CaseStudiesCard3 = () => {
                   height={78}
                 />
                 <h3>
-                  <Link href="/case-studies/details">StartNext IT</Link>
+                  <Link href="/SAUDI-EmbassyAttestation">Saudi Embassy Attestation</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore rts magna rtt
-                  aliqua.
+                  Saudi Embassy Attestation is the process of certifying the authenticity of your documents by
+                   the Ministry of External Affairs (MEA) in your home country and then the Saudi Embassy or Consulate. 
                 </p>
-                <Link href="/case-studies/details" className="default-btn">
+                <Link href="/SAUDI-EmbassyAttestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Read More
                 </Link>
               </div>
             </div>
 
+
+            <div className="col-lg-4 col-sm-6 col-md-6">
+              <div className="case-studies-box">
+                <Image
+                  src="/images/case-studies/case-studies6.png"
+                  alt="image"
+                  width={78}
+                  height={78}
+                />
+                <h3>
+                  <Link href="QATAR-EmbassyAttestation">Qatar Embassy Attestation</Link>
+                </h3>
+                <p>
+                  Qatar Embassy Attestation is a crucial process that verifies the authenticity 
+                  of your documents so they are legally recognized in the State of Qatar.
+                </p>
+                <Link href="/QATAR-EmbassyAttestation" className="default-btn">
+                  <span className="ri-arrow-right-s-line"></span>Read More
+                </Link>
+              </div>
+            </div>
+
+          
             <div className="col-lg-4 col-sm-6 col-md-6">
               <div className="case-studies-box">
                 <Image
@@ -115,36 +91,13 @@ const CaseStudiesCard3 = () => {
                   height={78}
                 />
                 <h3>
-                  <Link href="/case-studies/details">Naxai Security</Link>
+                  <Link href="/KUWAIT-EmbassyAttestation">Kuwait Embassy Attestation</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore rts magna rtt
-                  aliqua.
+                  Kuwait Embassy Attestation is a vital procedure for verifying 
+                  the authenticity of documents issued outside Kuwait, making them legally valid for use within the country.
                 </p>
-                <Link href="/case-studies/details" className="default-btn">
-                  <span className="ri-arrow-right-s-line"></span>Read More
-                </Link>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-sm-6 col-md-6">
-              <div className="case-studies-box">
-                <Image
-                  src="/images/case-studies/case-studies9.png"
-                  alt="image"
-                  width={78}
-                  height={78}
-                />
-                <h3>
-                  <Link href="/case-studies/details">Noke Creative</Link>
-                </h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore rts magna rtt
-                  aliqua.
-                </p>
-                <Link href="/case-studies/details" className="default-btn">
+                <Link href="/KUWAIT-EmbassyAttestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Read More
                 </Link>
               </div>

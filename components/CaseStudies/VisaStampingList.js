@@ -9,10 +9,9 @@ const CaseStudiesCard = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Visa Stamping </span>
-            <h2>We Get you Higher Revenues, Not just Higher Ranks</h2>
+            <h2>Trusted Visa Stamping for All Countries</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              We take care of Visa Stamping services smoothly, helping your documents meet the legal requirements of the specific foreign Visa Stamping.
             </p>
           </div>
 
@@ -33,10 +32,9 @@ const CaseStudiesCard = () => {
                       <Link href="/UAE-VisaStamping">UAE Visa Stamping</Link>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo.
+                      UAE Visa is the official process of maintaining stamps from UAE messages in your passport, 
+                      ensuring that your visa has been approved and verified. This mandatory for some types of visa 
+                      employment and residential visas, and serves as an official approval to enter the UAE.
                     </p>
                     <ul className="features-list">
                       <li>
@@ -85,13 +83,12 @@ const CaseStudiesCard = () => {
                       />
                     </div>
                     <h3>
-                      <Link href="/SAUDI-VisaStamping">Saudi Visa Stamping</Link>
+                      <Link href="/QATAR-VisaStamping">Qatar Visa Stamping</Link>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo.
+                      Qatar-VISA stamping is a mandatory process of checking a person's
+                       approval by Qatar message before entering the country. This ensures that visa
+                        holders are legally permitted to enter a designated period of Qatar's designated visa category.
                     </p>
                     <ul className="features-list">
                       <li>
@@ -109,7 +106,7 @@ const CaseStudiesCard = () => {
                         </a>
                       </li>
                     </ul>
-                    <Link href="/SAUDI-VisaStamping" className="default-btn">
+                    <Link href="/QATAR-VisaStamping" className="default-btn">
                       <span className="ri-arrow-right-s-line"></span>View More
                     </Link>
                   </div>
@@ -140,13 +137,13 @@ const CaseStudiesCard = () => {
                       />
                     </div>
                     <h3>
-                      <Link href="/QATAR-VisaStamping">Qatar Visa Stamping</Link>
+                      <Link href="/SAUDI-VisaStamping">Saudi Visa Stamping</Link>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo.
+                     Saudi Arabia Visa Stamps are an essential process that ensures
+                      that they are officially approved by the Saudi message before travelling to the country.
+                       This process is required for several visa categories, especially workplace and residential visas, 
+                       and serves as official Saudi Arabia approval.
                     </p>
                     <ul className="features-list">
                       <li>
@@ -164,7 +161,7 @@ const CaseStudiesCard = () => {
                         </a>
                       </li>
                     </ul>
-                    <Link href="/QATAR-VisaStamping" className="default-btn">
+                    <Link href="/SAUDI-VisaStamping" className="default-btn">
                       <span className="ri-arrow-right-s-line"></span>View More
                     </Link>
                   </div>
@@ -198,10 +195,9 @@ const CaseStudiesCard = () => {
                       <Link href="/KUWAIT-VisaStamping">Kuwait Visa Stamping</Link>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo.
+                     Kuwait Visa stamping is an important process of verifying the entry permit of a person
+                      into a passport. This allows the visa to be approved by the Kuwait authorities and allows 
+                      individuals to remain in the Kuwait named visa category.
                     </p>
                     <ul className="features-list">
                       <li>
