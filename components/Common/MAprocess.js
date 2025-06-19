@@ -11,7 +11,7 @@ const OurCaseStudies = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Our Attestation Process</span>
-   <h3><u>We guide you through the following steps for marriage certificate attestation</u></h3>
+   <h3><u>We guide you through the following steps for marriage attestation</u></h3>
             
           </div>
 
