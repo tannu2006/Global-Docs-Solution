@@ -1,7 +1,6 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import PageTitle from '@/components/Common/PageTitle'
-import ServicesItem from '../components/Services/ServicesItem'
 import OurCaseStudies from '@/components/Common/OurCaseStudies';
 import WorkProcess from '@/components/Common/WorkProcess'
 import PartnerSlider from '@/components/Common/PartnerSlider';

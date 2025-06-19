@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay } from "swiper/modules";
 import Link from "next/link";
 import Image from "next/image";
-import MEAServicescopy from "./MEAServices";
+import MEAServicescopy from "./MEAservices1";
 
 const MEAServicescopy = () => {
   return (

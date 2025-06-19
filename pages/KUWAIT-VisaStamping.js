@@ -2,7 +2,6 @@ import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import KUWAITvisastampingslider from '@/components/BusinessConsulting/KUWAITvisastampingslider'
 import Footer from '@/components/Layouts/Footer'
-import UAEstampingcard3 from '@/components/CaseStudies/UAEstampingcard3'
 import Kuwaitstampingcard3 from '@/components/CaseStudies/Kuwaitstampingcard3'
 import Kuwait from '@/components/Common/Kuwait'
 

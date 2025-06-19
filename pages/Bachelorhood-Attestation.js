@@ -1,6 +1,6 @@
 import React from 'react'
 import NavbarStyle2 from '@/components/Layouts/NavbarStyle2'
-import SliderBCA from '@/components/BusinessConsulting/SliderBCA'
+import SliderBCA1 from '@/components/BusinessConsulting/sliderBCA1'
 import Choose from '@/components/BusinessConsulting/choose'
 import Time from '@/components/Common/time'
 import WBCA from '@/components/Common/WBCA'
@@ -17,7 +17,7 @@ export default function BachelorhoodAttestation() {
     <>
       <NavbarStyle2 />
 
-      <SliderBCA /> 
+      <SliderBCA1 /> 
 
       <WBCA />
 
