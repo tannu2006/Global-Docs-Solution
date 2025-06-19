@@ -98,7 +98,7 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/Apostille-Services/"
+                          href="/Apostille-Service/"
                           className={`nav-link ${
                             currentPath == "/Apostille-Service" && "active"
                           }`}
