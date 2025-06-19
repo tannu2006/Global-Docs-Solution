@@ -158,9 +158,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/BirthCertificate-Attestation/"
+                          href="/Birth-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/BirthCertificate-Attestation/" && "active"
+                            currentPath == "/Birth-Attestations/" && "active"
                           }`}
                         >
                           Birth Certificate Attestation
