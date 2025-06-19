@@ -149,9 +149,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/Degree-Attestation/"
+                          href="/Degree-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Degree-Attestation/" && "active"
+                            currentPath == "/Degree-Attestations/" && "active"
                           }`}
                         >
                           Degree Attestation
@@ -160,9 +160,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/BirthCertificate-Attestation/"
+                          href="/Birth-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/BirthCertificate-Attestation/" && "active"
+                            currentPath == "/Birth-Attestations/" && "active"
                           }`}
                         >
                           Birth Certificate Attestation
