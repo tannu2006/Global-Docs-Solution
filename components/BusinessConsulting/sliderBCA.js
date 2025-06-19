@@ -21,7 +21,7 @@ const SliderBCA = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">Authenticate Your Bachelorhood Certificate with Ease</span>
+                      <span className="sub-title"> Authenticate Your Bachelorhood Certificate with Ease</span>
                       <h1>
                       Smooth and reliable attestation for official and personal requirements.
                       </h1>
