@@ -21,7 +21,7 @@ const SliderBCA = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">Authenticate Your Bachelorhood Certificate with Ease</span>
+                      <span className="sub-title"> Authenticate Your Bachelorhood Certificate with Ease</span>
                       <h1>
                       Smooth and reliable attestation for official and personal requirements.
                       </h1>
@@ -30,50 +30,13 @@ const SliderBCA = () => {
                       </Link>
                     </div>
                   </div>
-                  <div className="col-lg-6 col-md-12">
-                    <div className="home-image">
-                      <Image
-                        src="/images/banner-img1.png"
-                        alt="banner-image"
-                        width={830}
-                        height={790}
-                      />
-                    </div>
-                  </div>
+                 
                 </div>
               </div>
             </div>
           </SwiperSlide>
 
-          <SwiperSlide>
-            <div className="banner-item">
-              <div className="container">
-                <div className="row align-items-center">
-                  <div className="col-lg-6 col-md-12">
-                    <div className="home-content">
-                      <span className="sub-title">Authenticate Your Bachelorhood Certificate with Ease</span>
-                      <h1>
-                      Smooth and reliable attestation for official and personal requirements.
-                      </h1>
-                      <Link href="/contact" className="default-btn style-two">
-                        <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now
-                      </Link>
-                    </div>
-                  </div>
-                  <div className="col-lg-6 col-md-12">
-                    <div className="home-image">
-                      <Image
-                        src="/images/banner-img2.png"
-                        alt="banner-image"
-                        width={830}
-                        height={790}
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </SwiperSlide>
+         
         </Swiper>
       </div>
     </>
