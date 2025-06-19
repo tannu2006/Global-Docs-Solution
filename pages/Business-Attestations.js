@@ -5,7 +5,7 @@ import WhatIsBusiness from '@/components/TechnologySolutions/WhatIsBusiness'
 import WhyBusiness from '@/components/CryptoStartup/WhyBusiness'
 import BusinessProcess from '@/components/CybersecurityServices/BusinessProcess'
 import BusinessDoc from '@/components/CybersecurityServices/BusinessDoc'
-import Document from '@/components/CryptoStartup/Document'
+import AttestationDocument from '@/components/CryptoStartup/AttestationDocument'
 import ProcessingTime from '@/components/CryptoStartup/ProcessingTime'
 import OurService from '@/components/CybersecurityServices/OurService'
 import StartBDA from '@/components/Common/startBDA'
@@ -28,7 +28,7 @@ export default function BachelorhoodAttestation() {
 
       <BusinessDoc />
 
-      <Document />
+      <AttestationDocument />
 
       <ProcessingTime />
 

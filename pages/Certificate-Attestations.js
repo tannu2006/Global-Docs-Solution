@@ -5,7 +5,7 @@ import WhatIsCertificate from '@/components/TechnologySolutions/WhatIsCertificat
 import WhyCertificate from '@/components/CryptoStartup/WhyCertificate'
 import CertificateProcess from '@/components/CybersecurityServices/CertificateProcess'
 import CertificateDoc from '@/components/CybersecurityServices/CertificateDoc'
-import Document from '@/components/CryptoStartup/Document'
+import AttestationDocument from '@/components/CryptoStartup/AttestationDocument'
 import ProcessingTime from '@/components/CryptoStartup/ProcessingTime'
 import OurService from '@/components/CybersecurityServices/OurService'
 import StartCA from '@/components/Common/startCA'
@@ -28,7 +28,7 @@ export default function BachelorhoodAttestation() {
 
       <CertificateDoc />
 
-      <Document />
+      <AttestationDocument />
 
       <ProcessingTime />
 

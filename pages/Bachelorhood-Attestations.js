@@ -5,7 +5,7 @@ import WhatIsBachelorhood from '@/components/TechnologySolutions/WhatIsBachelorh
 import WhyBachelorhood from '@/components/CryptoStartup/WhyBachelorhood'
 import BachelorhoodProcess from '@/components/CybersecurityServices/BachelorhoodProcess'
 import BachelorhoodDoc from '@/components/CybersecurityServices/BachelorhoodDoc'
-import Document from '@/components/CryptoStartup/Document'
+import AttestationDocument from '@/components/CryptoStartup/AttestationDocument'
 import ProcessingTime from '@/components/CryptoStartup/ProcessingTime'
 import OurService from '@/components/CybersecurityServices/OurService'
 import StartBCA from '@/components/Common/startBCA'
@@ -28,7 +28,7 @@ export default function BachelorhoodAttestation() {
 
       <BachelorhoodDoc />
 
-      <Document />
+      <AttestationDocument />
 
       <ProcessingTime />
 

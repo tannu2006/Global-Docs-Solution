@@ -223,9 +223,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/UAE-EmbassyAttestation/"
+                          href="/UAE-Embassy-Attestations/"
                           className={`nav-link ${
-                            currentPath == "UAE-EmbassyAttestation" && "active"
+                            currentPath == "UAE-Embassy-Attestations" && "active"
                           }`}
                         >
                           UAE Embassy Attestation
