@@ -202,9 +202,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Certificate-Attestation/"
+                          href="/Certificate-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Certificate-Attestation/" && "active"
+                            currentPath == "/Certificate-Attestations/" && "active"
                           }`}
                         >
                           Certificate Attestation
