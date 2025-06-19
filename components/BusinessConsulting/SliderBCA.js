@@ -7,7 +7,8 @@ import Image from "next/image";
 const SliderBCA = () => {
   return (
     <>
-      <div className="home-area">
+      <div className="home-area"></div><br/>
+        <div className="blog-banner2">
         <Swiper
           slidesPerView={1}
           navigation={true}

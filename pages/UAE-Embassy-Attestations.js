@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
-import PageTitle from '@/components/Common/PageTitle'
+import PageTitle from '@/components/Common/PageTitle' 
 import WhatIsUAE from '@/components/TechnologySolutions/WhatIsUAE'
 import WhenUAE from '@/components/CryptoStartup/WhenUAE'
 import UAEembassyProcess from '@/components/CybersecurityServices/UAEembassyProcess'
