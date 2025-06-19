@@ -44,10 +44,10 @@ const ClientsFeedbackStyle2 = () => {
                   <i className="ri-star-fill"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                  maecenas accumsan lacus vel facilisis.
+                 As per my experience , They provide one of the best service.
+                 I took their services twice and they have given me their best.
+                 I am also thanful to Mr.Sumit Palarwal for his outstanding coordination so the job get done on time.
+                 Thank you Sumit ji , Thank you Tourzy travel.
                 </p>
                 <div className="client-info">
                   <div className="d-flex align-items-center">
@@ -58,8 +58,7 @@ const ClientsFeedbackStyle2 = () => {
                       height={300}
                     />
                     <div className="title">
-                      <h3>John Smith</h3>
-                      <span>Web Developer</span>
+                      <h3>Danish Emam</h3>
                     </div>
                   </div>
                 </div>
@@ -73,13 +72,15 @@ const ClientsFeedbackStyle2 = () => {
                   <i className="ri-star-fill"></i>
                   <i className="ri-star-fill"></i>
                   <i className="ri-star-fill"></i>
-                  <i className="ri-star-half-fill"></i>
+                  <i className="ri-star-fill"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                  maecenas accumsan lacus vel facilisis.
+                  I will always recommend Tourzy Travels for any sort 
+                  of documentation or attestation work. The team is 
+                  extremely helpful, very responsive and have lots of 
+                  experience in handling all situations.
+                  They are able to expedite the processes too,
+                   as and when required. Special thanks to Mr. Sumit...
                 </p>
                 <div className="client-info">
                   <div className="d-flex align-items-center">
@@ -90,8 +91,7 @@ const ClientsFeedbackStyle2 = () => {
                       height={300}
                     />
                     <div className="title">
-                      <h3>Sarah Taylor</h3>
-                      <span>UX/UI Designer</span>
+                      <h3>Varun Mahajan</h3>
                     </div>
                   </div>
                 </div>
@@ -105,13 +105,14 @@ const ClientsFeedbackStyle2 = () => {
                   <i className="ri-star-fill"></i>
                   <i className="ri-star-fill"></i>
                   <i className="ri-star-fill"></i>
-                  <i className="ri-star-line"></i>
+                  <i className="ri-star-fill"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                  maecenas accumsan lacus vel facilisis.
+                 It was amazing experience with Sumit because they are cheaper 
+                 than another service and no need to worry about documents because
+                  they are loyal to their customer and their service, He is not 
+                  fussy about fees and he asks payment only after completion of the 
+                  job. charge also very reasonable...
                 </p>
                 <div className="client-info">
                   <div className="d-flex align-items-center">
@@ -122,8 +123,7 @@ const ClientsFeedbackStyle2 = () => {
                       height={300}
                     />
                     <div className="title">
-                      <h3>James Anderson</h3>
-                      <span>Developer</span>
+                      <h3>Ritesh Desai</h3>
                     </div>
                   </div>
                 </div>
@@ -137,13 +137,14 @@ const ClientsFeedbackStyle2 = () => {
                   <i className="ri-star-fill"></i>
                   <i className="ri-star-fill"></i>
                   <i className="ri-star-fill"></i>
-                  <i className="ri-star-half-fill"></i>
+                  <i className="ri-star-fill"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                  maecenas accumsan lacus vel facilisis.
+                  I had a wonderful experience with Mr Sumit.he 
+                  delivered his promise and got my documents attested 
+                  within the promise time. He is also advised me on matters 
+                  related to visa processing documents which I was not aware of.
+                   I humbly request to my colleagues and friends...
                 </p>
                 <div className="client-info">
                   <div className="d-flex align-items-center">
@@ -154,15 +155,14 @@ const ClientsFeedbackStyle2 = () => {
                       height={300}
                     />
                     <div className="title">
-                      <h3>David Conway</h3>
-                      <span>Developer</span>
+                      <h3>Arefean Aftab</h3>
                     </div>
                   </div>
                 </div>
               </div>
             </SwiperSlide>
           </Swiper>
-        </div>
+        </div>1
       </div>
     </>
   );

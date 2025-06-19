@@ -1,16 +1,10 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import HeroBanner from '@/components/TechnologySolutions/HeroBanner'
-import Features from '@/components/TechnologySolutions/Features'
-import AboutUs from '@/components/TechnologySolutions/AboutUs'
-import PartnerArea from '@/components/TechnologySolutions/PartnerArea'
-import OurServices from '@/components/TechnologySolutions/OurServices'
-import Process from '@/components/TechnologySolutions/Process'
-import OurCaseStudies from '@/components/Common/OurCaseStudies'
-import TeamSlider from '@/components/Common/TeamSlider'
-import OurLatestBlog from '@/components/Common/OurLatestBlog'
-import GetStarted from '@/components/Common/GetStarted'
+import AboutUss from '@/components/CryptoStartup/AboutUss'
+import GetStartwithus from '@/components/Common/GetStartwithus'
 import Footer from '@/components/Layouts/Footer'
+import OURServicesList from '@/components/CybersecurityServices/OURServicesList'
 
 export default function Home() {
   return (
@@ -19,28 +13,11 @@ export default function Home() {
 
       <HeroBanner />
 
-      <AboutUs />
+      <AboutUss />
 
+      <OURServicesList/>
 
-      <Features />
-
-      <div className="bg-gradient-color">
-
-        <PartnerArea />
-
-        <OurServices />
-
-        <Process />
-
-      </div>
-
-      <OurCaseStudies />
-
-      <TeamSlider />
-
-      <OurLatestBlog />
-
-      <GetStarted />
+      <GetStartwithus/>
 
       <Footer />
     </>

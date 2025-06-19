@@ -338,7 +338,7 @@ Header Area CSS
   padding-left: 40px;
   color: var(--blackColor);
   transition: var(--transition);
-  border: 1px solid var(--whiteColor);
+  border: 1px solid var(--blackColor);
   background-color: var(--whiteColor);
 }
 .top-header-start .search-box .input-search::-moz-placeholder {
@@ -475,7 +475,7 @@ Header Area CSS
  ::after, ::before {
     box-sizing: border-box;
 }
-user agent stylesheet
+/* user agent stylesheet */
 div {
     display: block;
     unicode-bidi: isolate;
@@ -1011,7 +1011,7 @@ About Area CSS
   z-index: 1;
 }
 .about-area.bg-gradient-image {
-  background-image: url(/images/bg/bg2.jpg);
+  /* background-image: url(/images/bg/bg2.jpg); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1023,9 +1023,9 @@ About Area CSS
   padding-right: 15px;
   position: relative;
 }
-.about-image img {
+/* .about-image img {
   animation: border-transform 10s linear infinite alternate forwards;
-}
+} */
 
 .about-content {
   padding-left: 15px;
@@ -2423,7 +2423,7 @@ Pricing Area CSS
 Feedback Area CSS
 =================================================*/
 .feedback-area.bg-gradient-image {
-  background-image: url(/images/bg/bg9.jpg);
+  /* background-image: url(/images/bg/bg9.jpg); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2950,7 +2950,7 @@ Get Started Area CSS
   height: 590px;
   position: absolute;
   background-color: var(--whiteColor);
-  animation: border-transform 10s linear infinite alternate forwards;
+  /* animation: border-transform 10s linear infinite alternate forwards; */
 }
 
 .get-started-content {
@@ -2989,7 +2989,7 @@ Page Title Area CSS
   position: relative;
   padding-top: 210px;
   padding-bottom: 80px;
-  background-image: url(/images/14.png);
+  background-image: url(/images/bg/14.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3015,7 +3015,7 @@ Page Title Area CSS
   list-style-type: none;
   margin-top: 12px;
   margin-bottom: 0;
-  color: white;
+  /* color: white; */
 }
 .page-title-content ul li {
   color: var(--optionalColor);
@@ -3024,7 +3024,7 @@ Page Title Area CSS
   font-size: 17px;
   margin-left: 10px;
   margin-right: 10px;
-  color: white;
+  /* color: white; */
 }
 .page-title-content ul li::before {
   position: absolute;
@@ -3092,7 +3092,7 @@ Page Title Area CSS
 FAQ Area CSS
 =================================================*/
 .faq-area.bg-gradient-image {
-  background-image: url(/images/bg/bg9.jpg);
+  /* background-image: url(/images/bg/bg9.jpg); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

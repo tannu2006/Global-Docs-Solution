@@ -16,14 +16,7 @@ const AboutContent = () => {
                   height={617}
                 />
 
-                <div className="shape5">
-                  <Image
-                    src="/images/shape/shape5.png"
-                    alt="image"
-                    width={90}
-                    height={74}
-                  />
-                </div>
+                
               </div>
             </div>
 
@@ -32,8 +25,12 @@ const AboutContent = () => {
                 <span className="sub-title">ABOUT US</span>
                 <h2>We Are Award Winning Digital Marketing Company</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Your Trusted Partner in Documentation & Attestation Services 
+                  Founded in 2011, Global Docs Solution has been dedicated to providing 
+                  professional and reliable documentation and attestation services. With over 
+                  a decade of experience, we ensure a smooth, transparent process tailored to each client’s 
+                  needs.We proudly serve clients across UAE, Qatar, Kuwait, and Saudi Arabia, offering fast and 
+                  dependable support for personal and commercial documentation.
                 </p>
 
                 <ul className="features-list">
@@ -47,7 +44,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Brand Strategy</span>
+                      <span>12+ Years of Experience</span>
                     </div>
                   </li>
                   <li>
@@ -60,7 +57,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Expert Team</span>
+                      <span>Fast & Secure Process</span>
                     </div>
                   </li>
                   <li>
@@ -73,7 +70,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Fast Delivery</span>
+                      <span>Transparent Communication</span>
                     </div>
                   </li>
                   <li>
@@ -86,7 +83,7 @@ const AboutContent = () => {
                           height={48}
                         />
                       </div>
-                      <span>Ongoing Report</span>
+                      <span>Expert Assistance at Every Step</span>
                     </div>
                   </li>
                 </ul>
@@ -94,71 +91,7 @@ const AboutContent = () => {
             </div>
           </div>
 
-          <div className="awards-list">
-            <h4>AWARDS AND INDUSTRY RECOGNITION</h4>
-            <div className="row justify-content-center">
-              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
-                <div className="awards-box">
-                  <Image
-                    src="/images/awards/awards1.png"
-                    alt="image"
-                    width={100}
-                    height={77}
-                  />
-                </div>
-              </div>
-              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
-                <div className="awards-box">
-                  <Image
-                    src="/images/awards/awards2.png"
-                    alt="image"
-                    width={100}
-                    height={77}
-                  />
-                </div>
-              </div>
-              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
-                <div className="awards-box">
-                  <Image
-                    src="/images/awards/awards3.png"
-                    alt="image"
-                    width={100}
-                    height={77}
-                  />
-                </div>
-              </div>
-              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
-                <div className="awards-box">
-                  <Image
-                    src="/images/awards/awards4.png"
-                    alt="image"
-                    width={100}
-                    height={77}
-                  />
-                </div>
-              </div>
-              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
-                <div className="awards-box">
-                  <Image
-                    src="/images/awards/awards5.png"
-                    alt="image"
-                    width={100}
-                    height={77}
-                  />
-                </div>
-              </div>
-              <div className="col-lg-2 col-4 col-sm-4 col-md-3">
-                <div className="awards-box">
-                  <Image
-                    src="/images/awards/awards6.png"
-                    alt="image"
-                    width={100}
-                    height={77}
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </>

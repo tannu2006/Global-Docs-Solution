@@ -1,13 +1,14 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
 import PageTitle from '@/components/Common/PageTitle'
-import AboutContent from '@/components/AboutUs/AboutContent'
-import PartnerArea from '@/components/TechnologySolutions/PartnerArea'
-import Process from '@/components/AboutUs/Process'
 import ClientsFeedbackStyle2 from '@/components/Common/ClientsFeedbackStyle2'
-import TeamSlider from '@/components/Common/TeamSlider'
-import GetStarted from '@/components/Common/GetStarted'
 import Footer from '@/components/Layouts/Footer'
+import AboutUsContent from '@/components/CryptoStartup/AboutUsContent'
+import WhychooseUs from '@/components/TechnologySolutions/WhychooseUs'
+import WhoWeAre from '@/components/TechnologySolutions/WhoWeAre'
+
+
+
 
 export default function AboutUs() {
   return (
@@ -16,21 +17,18 @@ export default function AboutUs() {
 
       <PageTitle homeText="Home" pageTitle="About Us" />
 
-      <AboutContent />
+      <AboutUsContent/>
 
-      <PartnerArea />
+      <WhoWeAre/>
 
-      <div className="ptb-100">
-        <Process />
-      </div>
+      <WhychooseUs/>
 
       <ClientsFeedbackStyle2 />
 
-      <TeamSlider />
-
-      <GetStarted />
-
+      
+      <div className="ptt-100">
       <Footer />
+      </div>
     </>
   )
 }

@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  // For Static Export
-  // output: 'export',
+  const nextConfig = {
+  output: 'export',
   trailingSlash: true,
   images: {
     unoptimized: true,
@@ -9,4 +8,4 @@ const nextConfig = {
   optimizeFonts: false,
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

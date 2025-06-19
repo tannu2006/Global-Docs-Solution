@@ -89,10 +89,10 @@ const Navbar= () => {
                     About
                     </Link>
                   </li>
-
+                  
                   <li className="nav-item">
-                    <Link href="Apostille-Services" className="dropdown-toggle nav-link">
-                    Services
+                    <Link href="/OURServices/" className="dropdown-toggle nav-link">
+                    Our Services
                     </Link>
 
                     <ul className="dropdown-menu">
@@ -100,12 +100,13 @@ const Navbar= () => {
                         <Link
                           href="/Apostille-Services/"
                           className={`nav-link ${
-                            currentPath == "/Apostille-Services/" && "active"
+                            currentPath == "/Apostille-Service" && "active"
                           }`}
                         >
-                          Apostille Services
+                           Apostille Services
                         </Link>
                       </li>
+
                       <li className="nav-item">
                         <Link
                           href="/Visa-Services/"
@@ -113,23 +114,22 @@ const Navbar= () => {
                             currentPath == "/Visa-Services/" && "active"
                           }`}
                         >
-                          Visa Services
+                           Visa Services
                         </Link>
                       </li>
-                    </ul>
-                  </li>
 
+                      
                   <li className="nav-item">
-                    <Link href="MEA-Attestation" className="dropdown-toggle nav-link">
+                    <Link href="/Attestation/" className="dropdown-toggle nav-link">
                     Attestation 
                     </Link>
 
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="/MEA-Attestation/"
+                          href="/MEA-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/MEA-Attestation/" && "active"
+                            currentPath == "/MEA-Attestations/" && "active"
                           }`}
                         >
                           MEA Attestation
@@ -138,9 +138,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/Apostille-Attestation/"
+                          href="/Apostille-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Apostille-Attestation/" && "active"
+                            currentPath == "/Apostille-Attestations/" && "active"
                           }`}
                         >
                           Apostille Attestation
@@ -214,10 +214,10 @@ const Navbar= () => {
                       </li>
                     </ul>
                   </li>
-
-                  <li className="nav-item">
+                    
+                    <li className="nav-item">
                     <Link
-                      href="UAE-EmbassyAttestation"
+                      href="Embassy-Attestation"
                       className={'dropdown-toggle nav-link'}
                     >
                       Embassy Attestation
@@ -265,9 +265,11 @@ const Navbar= () => {
                       </li>
                       </ul>
                   </li>
+
+                   
                    <li className="nav-item">
                     <Link
-                      href="UAE-VisaStamping"
+                      href="Visa-Stamping"
                       className="dropdown-toggle nav-link"
                     >
                       Visa Stamping
@@ -298,7 +300,7 @@ const Navbar= () => {
                           href="/SAUDI-VisaStamping/"
                           className={`nav-link ${
                             currentPath == "/SAUDI-VisaStamping/" && "active"
-                          }`}
+                          }`}mbmn
                         >
                         Saudi Visa Stamping
                         </Link>
@@ -316,6 +318,22 @@ const Navbar= () => {
                     </ul>
                   </li>
 
+
+
+                 
+                    </ul>
+                  </li>
+                  <li className="nav-item">
+                    <Link
+                      href="/FreqAskQuest/"
+                      className={`nav-link ${
+                        currentPath == "/FreqAskQuest/" && "active"
+                      }`}
+                    >
+                      FAQ
+                    </Link>
+                  </li>
+
                   <li className="nav-item">
                     <Link
                       href="/contact/"
@@ -326,8 +344,8 @@ const Navbar= () => {
                       Contact
                     </Link>
                   </li>
-                </ul>
-              </div>
+            </ul>
+            </div>
 
               <div className="others-option">
                 <Link href="/contact" className="default-btn style-two">

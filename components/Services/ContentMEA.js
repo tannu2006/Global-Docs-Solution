@@ -1,7 +1,6 @@
 import React from "react";
 import ServiceSidebar from "./ServiceSidebar";
 import Image from "next/image";
-import ContentMEA from "./ContentMEA";
 const ContentMEA = () => {
   return (
     <>
