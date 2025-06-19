@@ -8,7 +8,7 @@ const SliderMA = () => {
   return (
     <>
       <div className="home-area"></div><br/>
-     <div
+      <div
   style={{
     zIndex: 1,
     position: "relative",
@@ -33,9 +33,9 @@ const SliderMA = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">Get Your Marriage Certificate Attested Seamlessly</span>
+                      <span className="sub-title">Get Your UAE Embassy Attested </span>
                       <h1>
-                      Quick, secure, and dependable attestation for official use.
+                     Fast & Hassle-Free Attestation for All Your UAE Needs
                       </h1>
                       <Link href="/contact" className="default-btn style-two">
                         <span className="ri-arrow-right-s-line"></span>Start Your Attestation Now

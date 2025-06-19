@@ -33,7 +33,10 @@ const Features = () => {
                     
                       <i className="ri-checkbox-circle-line"></i> Diploma Certificate
                     <br/>
-                    
+                      
+                      <i className="ri-checkbox-circle-line"></i>Transfer Certificate (TC)
+                    <br/>
+
                       <i className="ri-checkbox-circle-line"></i> Transcripts
                     <br/>
                     

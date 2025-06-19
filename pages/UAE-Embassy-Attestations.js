@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
-import PageTitle from '@/components/Common/PageTitle' 
+import SliderUAEembassy from '@/components/BusinessConsulting/sliderUAEembassy' 
 import WhatIsUAE from '@/components/TechnologySolutions/WhatIsUAE'
 import WhenUAE from '@/components/CryptoStartup/WhenUAE'
 import UAEembassyProcess from '@/components/CybersecurityServices/UAEembassyProcess'
@@ -17,7 +17,7 @@ export default function BachelorhoodAttestation() {
     <>
       <Navbar />
 
-      <PageTitle homeText="Home" pageTitle="UAE Embassy Attestation" />
+      <SliderUAEembassy />
 
       <WhatIsUAE/>
 

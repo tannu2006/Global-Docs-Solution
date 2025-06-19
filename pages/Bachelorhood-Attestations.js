@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '@/components/Layouts/Navbar'
-import SliderBCA from '@/components/BusinessConsulting/SliderBCA'
+import SliderBCA from '@/components/BusinessConsulting/sliderBCA'
 import WhatIsBachelorhood from '@/components/TechnologySolutions/WhatIsBachelorhood'
 import WhyBachelorhood from '@/components/CryptoStartup/WhyBachelorhood'
 import BachelorhoodProcess from '@/components/CybersecurityServices/BachelorhoodProcess'

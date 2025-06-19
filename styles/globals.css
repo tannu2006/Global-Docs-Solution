@@ -6981,30 +6981,6 @@ Footer Area CSS
 }
 /*# sourceMappingURL=globals.css.map */
 
-/**********************************/
-/* banner image for  pages */
-.blog-banner1 {
-  z-index: 1;
-  position: relative;
-  padding-top: 120px;
-  background-color: #f9f9f9;
-  background-image: url(/images/bg/BlogBanner.png);
-  background-position:  center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.blog-banner2 {
-  z-index: 1;
-  position: relative;
-  padding-top: 120px;
-  background-color: #f9f9f9;
-  background-image: url(/images/bg/BlogBanner2.png);
-  background-position:  center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
 /* for text in boxes */
 
 .row-box {

@@ -8,7 +8,19 @@ const SliderBCA = () => {
   return (
     <>
       <div className="home-area"></div><br/>
-        <div className="blog-banner2">
+        <div
+  style={{
+    zIndex: 1,
+    position: "relative",
+    paddingTop: "120px",
+    backgroundColor: "#f9f9f9",
+    backgroundImage: 'url("/images/bg/BlogBanner2.png")',
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    backgroundSize: "cover",
+  }}
+>
+
         <Swiper
           slidesPerView={1}
           navigation={true}
@@ -21,7 +33,7 @@ const SliderBCA = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title"> Authenticate Your Bachelorhood Certificate with Ease</span>
+                      <span className="sub-title">Authenticate Your Bachelorhood Certificate with Ease</span>
                       <h1>
                       Smooth and reliable attestation for official and personal requirements.
                       </h1>

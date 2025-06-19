@@ -8,7 +8,19 @@ const SliderBDA = () => {
   return (
     <>
       <div className="home-area"></div><br/>
-      <div className="blog-banner1">
+      <div
+  style={{
+    zIndex: 1,
+    position: "relative",
+    paddingTop: "120px",
+    backgroundColor: "#f9f9f9",
+    backgroundImage: 'url("/images/bg/BlogBanner.png")',
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    backgroundSize: "cover",
+  }}
+>
+
         <Swiper
           slidesPerView={1}
           navigation={true}
