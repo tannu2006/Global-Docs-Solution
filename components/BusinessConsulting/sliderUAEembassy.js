@@ -33,7 +33,7 @@ const SliderMA = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6 col-md-12">
                     <div className="home-content">
-                      <span className="sub-title">Get Your UAE Embassy Attested </span>
+                      <span className="sub-title">UAE Embassy Attestation Services </span>
                       <h1>
                      Fast & Hassle-Free Attestation for All Your UAE Needs
                       </h1>
