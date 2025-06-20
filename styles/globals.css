@@ -3180,7 +3180,7 @@ Footer Area CSS
   font-size: var(--fontSize);
   border-radius: 5px;
 }
-}
+
 .single-footer-widget .newsletter-form form .input-newsletter::-moz-placeholder {
   color: var(--optionalColor);
   -moz-transition: var(--transition);
