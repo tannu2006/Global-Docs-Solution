@@ -171,9 +171,9 @@ const Navbar= () => {
                       
                       <li className="nav-item">
                         <Link
-                          href="/Marriage-Attestation/"
+                          href="/Marriage-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Marriage-Attestation/" && "active"
+                            currentPath == "/Marriage-Attestations/" && "active"
                           }`}
                         >
                           Marriage Certificate Attestation
@@ -182,9 +182,9 @@ const Navbar= () => {
 
                       <li className="nav-item">
                         <Link
-                          href="/Bachelorhood-Attestation/"
+                          href="/Bachelorhood-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Bachelorhood-Attestation/" && "active"
+                            currentPath == "/Bachelorhood-Attestations/" && "active"
                           }`}
                         >
                           Bachelorhood Certificate Attestation
@@ -194,9 +194,9 @@ const Navbar= () => {
                     
                       <li className="nav-item">
                         <Link
-                          href="/Business-Attestation/"
+                          href="/Business-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Business-Attestation/" && "active"
+                            currentPath == "/Business-Attestations/" && "active"
                           }`}
                         >
                       Business Document Attestation
@@ -204,9 +204,9 @@ const Navbar= () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="/Certificate-Attestation/"
+                          href="/Certificate-Attestations/"
                           className={`nav-link ${
-                            currentPath == "/Certificate-Attestation/" && "active"
+                            currentPath == "/Certificate-Attestations/" && "active"
                           }`}
                         >
                           Certificate Attestation
@@ -225,9 +225,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/UAE-EmbassyAttestation/"
+                          href="/UAE-Embassy-Attestations/"
                           className={`nav-link ${
-                            currentPath == "UAE-EmbassyAttestation" && "active"
+                            currentPath == "UAE-Embassy-Attestations" && "active"
                           }`}
                         >
                           UAE Embassy Attestation

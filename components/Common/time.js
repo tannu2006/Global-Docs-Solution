@@ -5,9 +5,7 @@ const FunFacts = () => {
     <>
       <div className="funfacts-area pt-100 pb-70">
         <div className="container">
-        <div className="section-title">
-            <span className="sub-title">Processing Time</span>
-          </div>
+       
           <div className="row justify-content-center">
             <div
               className="col-lg-3 col-md-6 col-sm-4 col-6"

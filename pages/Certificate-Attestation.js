@@ -1,6 +1,5 @@
 import React from 'react'
 import NavbarStyle2 from '@/components/Layouts/NavbarStyle2'
-import OurServicesCopy from '@/components/BusinessConsulting/OurServicesCopy'
 import WCA from '@/components/Common/WCA'
 import CAimp from '@/components/Common/CAimp'
 import CAprocess from '@/components/Common/CAprocess'
@@ -11,6 +10,7 @@ import Choose from '@/components/BusinessConsulting/choose'
 import Footer from '@/components/Layouts/Footer'
 import SliderCA from '@/components/BusinessConsulting/sliderCA'
 import StartCA from '@/components/Common/startCA'
+import CertificateServices from '@/components/BusinessConsulting/CertificateServices'
 
 export default function CertificateAttestation() {
   return (
@@ -33,7 +33,7 @@ export default function CertificateAttestation() {
 
       <Choose />
 
-      <OurServicesCopy />
+      <CertificateServices />
 
     <StartCA />
  

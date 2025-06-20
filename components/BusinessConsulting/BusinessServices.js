@@ -44,12 +44,12 @@ const BusinessServices = () => {
                     height={78}
                   />
                   <h2>
-                    <Link href="/marriage-attestation">Marriage Attestation</Link>
+                    <Link href="/Marriage-Attestation">Marriage Attestation</Link>
                   </h2>
                 </div>
                 <p>Marriage certificate attestation verifies the authenticity of a marriage certificate for use in
                 foreign countries.</p>
-                <Link href="/marriage-attestation" className="default-btn">
+                <Link href="/Marriage-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -65,13 +65,13 @@ const BusinessServices = () => {
                     height={78}
                   />
                   <h2>
-                    <Link href="/bachelorhood-attestation">Bachelorhood  Attestation</Link>
+                    <Link href="/Bachelorhood-Attestation">Bachelorhood  Attestation</Link>
                   </h2>
                 </div>
                 <p>Bachelorhood certificate attestation authenticates a bachelor's degree
                    for use in foreign countries.</p>
               
-                <Link href="/bachelorhood-attestation" className="default-btn">
+                <Link href="/Bachelorhood-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>
@@ -89,13 +89,13 @@ const BusinessServices = () => {
                     height={78}
                   />
                   <h2>
-                    <Link href="/certificate-attestation">Certificates Attestation</Link>
+                    <Link href="/Certificate-Attestation">Certificates Attestation</Link>
                   </h2>
                 </div>
                 <p>Certificate attestation authenticates documents for use abroad, ensuring their legal 
                   acceptance by authorities.</p>
 
-                <Link href="/certificate-attestation" className="default-btn">
+                <Link href="/Certificate-Attestation" className="default-btn">
                   <span className="ri-arrow-right-s-line"></span>Learn More
                 </Link>
               </div>

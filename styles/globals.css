@@ -58,6 +58,7 @@ body {
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   color: var(--blackColor);
+  color: var(--blackColor);
 }
 
 a {
@@ -3133,6 +3134,7 @@ Footer Area CSS
 =================================================*/
 .footer-area {
   background-color: #f9f9f9;
+  background-color: #f9f9f9;
   padding-top: 100px;
 }
 
@@ -3168,6 +3170,7 @@ Footer Area CSS
 }
 .single-footer-widget .newsletter-form form .input-newsletter {
   display: block;
+  display: block;
   padding-left: 15px;
   color: var(--blackColor);
   width: 100%;
@@ -3176,6 +3179,7 @@ Footer Area CSS
   border: 1px solid var(--mainColor);
   font-size: var(--fontSize);
   border-radius: 5px;
+}
 }
 .single-footer-widget .newsletter-form form .input-newsletter::-moz-placeholder {
   color: var(--optionalColor);
@@ -3281,6 +3285,7 @@ Footer Area CSS
 }
 .single-footer-widget .quick-links li a {
   display: inline-block;
+  color: var(--optionalColor);
   color: var(--optionalColor);
 }
 .single-footer-widget .quick-links li a:hover {
@@ -6463,6 +6468,7 @@ Footer Area CSS
   font-size: 14px;
 }
 .footer-style-area .single-footer-widget h3 {
+  color: var(--whiteColor);
   color: var(--whiteColor);
 }
 .footer-style-area .single-footer-widget .services-links li a {
