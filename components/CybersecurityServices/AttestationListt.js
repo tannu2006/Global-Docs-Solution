@@ -28,13 +28,13 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/MEA-Attestation">MAE Attestation</Link>
+                        <Link href="/MEA-Attestations">MAE Attestation</Link>
                       </h3>
                       <p>
                        MEA Attestation—this is an official stamp from India's Ministry of 
                        External Affairs that confirms your documents are valid for use abroad.
                       </p>
-                      <Link href="/MEA-Attestation" className="services-btn">
+                      <Link href="/MEA-Attestations" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -59,13 +59,13 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="Apostille-Attestation">Apostile Attestation</Link>
+                        <Link href="Apostille-Attestations">Apostile Attestation</Link>
                       </h3>
                       <p>
                         Apostille Attestation, which is used in countries that are part of the Hague 
                         Convention. It helps get your documents accepted legally faster...
                       </p>
-                      <Link href="/Apostille-Attestion/" className="services-btn">
+                      <Link href="/Apostille-Attestions/" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -90,13 +90,13 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/Degree-Attestation">Degree Attestation</Link>
+                        <Link href="/Degree-Attestations">Degree Attestation</Link>
                       </h3>
                       <p>
                        Diploma certificates are the process of verifying the reliability of educational certificates 
                        for use abroad. Required for visa applications, university education, employmen...
                       </p>
-                      <Link href="/Degree-Attestation/" className="services-btn">
+                      <Link href="/Degree-Attestations/" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -121,13 +121,13 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/BirthCertificate-Attestation/">Birth Certificate Attestation</Link>
+                        <Link href="/BirthCertificate-Attestations/">Birth Certificate Attestation</Link>
                       </h3>
                       <p>
                        Birth Certificate Attestation ensures your birth certificates are recognized internationally, which might 
                        be needed for via
                       </p>
-                      <Link href="/BirthCertificate-Attestation/" className="services-btn">
+                      <Link href="/BirthCertificate-Attestations/" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -152,12 +152,12 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/Marriage-Attestation">Marriage Certificate Attestation</Link>
+                        <Link href="/Marriage-Attestations">Marriage Certificate Attestation</Link>
                       </h3>
                       <p>
                        Marriage certificate attestation is the official process of verifying and authenticating your marriage certificate...
                       </p>
-                      <Link href="/Marriage-Attestation/" className="services-btn">
+                      <Link href="/Marriage-Attestations/" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -182,14 +182,14 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/Bachlorhood-Attestation">Batchlorhood certificate attestation</Link>
+                        <Link href="/Bachlorhood-Attestations">Batchlorhood certificate attestation</Link>
                       </h3>
                       <p>
                        Bachelorhood Certificate Attestation is the official process of verifying that an 
                        individual is unmarried. This certificate is 
                        often needed for...
                       </p>
-                      <Link href="/Bachlorhood-Attestation/" className="services-btn">
+                      <Link href="/Bachlorhood-Attestations/" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -214,13 +214,13 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/Business-Attestation">Business Document Attestation</Link>
+                        <Link href="/Business-Attestations">Business Document Attestation</Link>
                       </h3>
                       <p>
                        Business Document Attestation is the official process of verifying and legalizing
                         commercial documents issued in one country for use in another...
                       </p>
-                      <Link href="/Business-Attestation/" className="services-btn">
+                      <Link href="/Business-Attestations/" className="services-btn">
                         Read More
                       </Link>
                     </div>
@@ -245,13 +245,13 @@ const Services = () => {
                   <div className="col-lg-6 col-md-6">
                     <div className="services-content">
                       <h3>
-                        <Link href="/certificate-Attestation">Certificate Attestation</Link>
+                        <Link href="/certificate-Attestations">Certificate Attestation</Link>
                       </h3>
                       <p>
                        Certificate Attestation is the process of verifying the authenticity of documents 
                        issued in one country for legal use in anothe...
                       </p>
-                      <Link href="/Certificate-Attestation/" className="services-btn">
+                      <Link href="/Certificate-Attestations/" className="services-btn">
                         Read More
                       </Link>
                     </div>
