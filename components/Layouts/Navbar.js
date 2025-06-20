@@ -300,7 +300,7 @@ const Navbar= () => {
                           href="/SAUDI-VisaStamping/"
                           className={`nav-link ${
                             currentPath == "/SAUDI-VisaStamping/" && "active"
-                          }`}mbmn
+                          }`}
                         >
                         Saudi Visa Stamping
                         </Link>

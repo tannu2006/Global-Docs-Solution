@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { Autoplay } from "swiper/modules";
 
 const Services = () => {
   return (
@@ -21,7 +22,7 @@ const Services = () => {
                         src="/images/ourservices/apostille.png"
                         alt="image"
                         width={214}
-                        height={240}
+                        height={239}
                       />
                     </div>
                   </div>
@@ -52,7 +53,7 @@ const Services = () => {
                         src="/images/ourservices/visaservices.png"
                         alt="image"
                         width={214}
-                        height={240}
+                        height={239}
                       />
                     </div>
                   </div>
@@ -82,7 +83,7 @@ const Services = () => {
                         src="/images/ourservices/attestation.png"
                         alt="image"
                         width={214}
-                        height={240}
+                        height={239}
                       />
                     </div>
                   </div>
@@ -114,7 +115,7 @@ const Services = () => {
                         src="/images/ourservices/emattestation.png"
                         alt="image"
                         width={213}
-                        height={240}
+                        height={239}
                       />
                     </div>
                   </div>
@@ -144,7 +145,7 @@ const Services = () => {
                         src="/images/ourservices/visastamping.png"
                         alt="image"
                         width={213}
-                        height={240}
+                        height={239}
                       />
                     </div>
                   </div>

@@ -14,12 +14,12 @@ const TopHeader = () => {
                   <Image
                     src="/images/Glogo.png"
                     alt="logo"
-                    width={114}
-                    height={41}
+                    width={120}
+                    height={42}
                   />
                 </Link>
 
-                <form className="search-box">
+          {/* /  <form className="search-box">
                   <label>
                     <i className="ri-search-line"></i>
                   </label>
@@ -28,7 +28,7 @@ const TopHeader = () => {
                     className="input-search"
                     placeholder="Search here..."
                   />
-                </form>
+                </form> */}
               </div>
             </div>
 
@@ -40,7 +40,7 @@ const TopHeader = () => {
                       href="tel:+1-485-456-0102"
                       className="d-flex align-items-center"
                     >
-                      <i className="ri-phone-line"></i> +91 99118 00116
+                    <i className="ri-phone-line"></i> +91-99118 00116                 
                     </a>
                   </div>
 
