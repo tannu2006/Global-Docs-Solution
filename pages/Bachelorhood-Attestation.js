@@ -1,6 +1,6 @@
 import React from 'react'
 import NavbarStyle2 from '@/components/Layouts/NavbarStyle2'
-import SliderBCA1 from '@/components/BusinessConsulting/sliderBCA1'
+import SliderBCA from '@/components/BusinessConsulting/sliderBachelorhood'
 import Choose from '@/components/BusinessConsulting/choose'
 import Time from '@/components/Common/time'
 import WBCA from '@/components/Common/WBCA'
