@@ -277,9 +277,9 @@ const Navbar= () => {
                     <ul className="dropdown-menu">
                     <li className="nav-item">
                         <Link
-                          href="/UAE-VisaStamping/"
+                          href="/UAE-visa-stamping/"
                           className={`nav-link ${
-                            currentPath == "/UAE-VisaStamping/" && "active"
+                            currentPath == "/UAE-visa-stamping/" && "active"
                           }`}
                         >
                           UAE Visa Stamping
